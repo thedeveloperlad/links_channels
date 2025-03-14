@@ -1,4 +1,112 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png" group-title="TV ABIERTA", CINE SONY
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", IMAGEN UNIVERSAL TV
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", DEPELICULA
+http://200.115.120.1:8000/play/ca030/index.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", BJGTJME 
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 group-title="TV ABIERTA", CANELA TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
+
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="TV ABIERTA", MY TIME ESPAÑA
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="TV ABIERTA", MY TIME MEXICO
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", STAR 
+http://50.7.137.106:8080/FOX/index.m3u8?token=test
+
+#EXTINF:-1 group-title="TV ABIERTA", STAR CHANNEL 
+http://187.249.112.44:9981/stream/channelid/1416842020?profile=pass
+
+#EXTINF:-1 group-title="TV ABIERTA", +CINE
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
+
+#EXTINF:-1  group-title="TV ABIERTA", AXN
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AXN/40-hls/live-media.m3u8
+
+#EXTINF:-1  group-title="TV ABIERTA", USA
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/SYFY/20-hls/live-media.m3u8
+
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" group-title="TV ABIERTA", AXN
+https://streamer1.nexgen.bz/AXN/index.m3u8
+
+#EXTINF:-1 tvg-id="BETEast.us" group-title="TV ABIERTA", BET
+https://streamer1.nexgen.bz/BET/index.m3u8
+
+#EXTINF:-1 tvg-id="BravoEast.us" group-title="TV ABIERTA", BRAVO
+https://streamer1.nexgen.bz/BRAVO/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="TV ABIERTA", FX
+https://streamer1.nexgen.bz/FX/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="TV ABIERTA", HISTORY
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="TV ABIERTA", HISTORY2
+https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="TV ABIERTA", LIFETIME
+https://streamer1.nexgen.bz/LIFETIME/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVEast.us" group-title="TV ABIERTA", MTV
+https://streamer1.nexgen.bz/MTV/index.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", MTV
+https://streamer1.nexgen.bz/MTV/index.m3u8
+
+#EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" group-title="TV ABIERTA", STAR CHANNEL CENTRAL AMERICA
+https://streamer1.nexgen.bz/STAR/index.m3u8
+
+#EXTINF:-1 tvg-id="VH1East.us" group-title="TV ABIERTA", VH1
+https://streamer1.nexgen.bz/VH1/index.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", CINEMAX
+https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", SPACE
+http://181.78.107.162:49000/play/a0iz/index.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", CINECANAL
+https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", HBO PLUS 
+https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", HBO FAMILY 
+https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", HISTORY
+https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", HISTORY2 
+https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", DISCOVERY 
+https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", TURBO
+https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", H&H
+http://181.114.57.246:4000/play/qUqJGdarkz5aTfGt/index.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", NAT GEO
+https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", AXN
+https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="VH1East.us" group-title="TV ABIERTA", USA
+http://200.115.120.1:8000/play/ca125/index.m3u8
+
 #EXTINF:-1 group-title="EXTRA CALIDAD STANDARD CANALES"
 #EXTINF:-1,156. Teleuniverso - RD
 http://45.5.117.182:8000/play/a0g2/index.m3u8
