@@ -1,1 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-shift="0"  group-title="ESPN Sudamerica", ESPN
+https://bcja.pricesaskeloadsc.com:443/global/espn/index.m3u8?token=8c8d50af8f985564032da9c48cb1643163138a8b-f2-1742016606-1741984206
+#EXTINF:-1 tvg-shift="0"  group-title="ESPN Sudamerica", ESPN2
+https://14c5.pricesaskeloadsc.com:443/global/espn2/index.m3u8?token=1563d1e017d07be99e763b1bc67d31a64c5d8405-fe-1742017016-1741984616
+#EXTINF:-1 tvg-shift="0"  group-title="ESPN Sudamerica", ESPN3
+https://ca8s9.pricesaskeloadsc.com:443/global/espn3/index.m3u8?token=e266e8f488ed7bee885ccd5195091cefc0cdb239-18-1742017061-1741984661
+#EXTINF:-1 tvg-shift="0"  group-title="ESPN Sudamerica", ESPN4
+https://24a.pricesaskeloadsc.com:443/global/espn4/index.m3u8?token=3c6e62f8b24d7d47c9fd15b1ccb8aeea2e966fc0-21-1742017112-1741984712
+#EXTINF:-1 tvg-shift="0"  group-title="ESPN Sudamerica", ESPN5
+https://cbado.pricesaskeloadsc.com:443/global/espn5/index.m3u8?token=3389e44814c0399a5cf991ceb5db5ba07bb01878-cd-1742017198-1741984798
+#EXTINF:-1 tvg-shift="0"  group-title="ESPN Sudamerica", ESPN6
+https://vadp.pricesaskeloadsc.com:443/global/espn6/index.m3u8?token=470f4a22524d53f3569ad5b2a2c00868e5670c9f-63-1742017296-1741984896
+#EXTINF:-1 tvg-shift="0"  group-title="ESPN Sudamerica", ESPN7
+https://51a.pricesaskeloadsc.com:443/global/espn7/index.m3u8?token=88921f53a5f9f1f497b50d7cff7802c7a0722c30-37-1742017332-1741984932
