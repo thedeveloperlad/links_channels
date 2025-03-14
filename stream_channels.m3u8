@@ -13,3 +13,23 @@ https://cbado.pricesaskeloadsc.com:443/global/espn5/index.m3u8?token=3389e44814c
 https://vadp.pricesaskeloadsc.com:443/global/espn6/index.m3u8?token=470f4a22524d53f3569ad5b2a2c00868e5670c9f-63-1742017296-1741984896
 #EXTINF:-1 tvg-shift="0"  group-title="ESPN Sudamerica", ESPN7
 https://51a.pricesaskeloadsc.com:443/global/espn7/index.m3u8?token=88921f53a5f9f1f497b50d7cff7802c7a0722c30-37-1742017332-1741984932
+#EXTINF:-1 tvg-shift="0"  group-title="Win Sports", Win Sports +
+https://vadp.pricesaskeloadsc.com:443/global/winplus/index.m3u8?token=a97b22b92967852cd22a6551dbafe44dc601fa4e-e1-1742018500-1741986100
+#EXTINF:-1 tvg-shift="0"  group-title="Win Sports", Win Sports + (Op2)
+https://51a.pricesaskeloadsc.com:443/global/winplus2/index.m3u8?token=b53c353b52f85b40de198d822d652ecf3c0e0676-1e-1742018671-1741986271
+#EXTINF:-1 tvg-shift="0"  group-title="Win Sports", Win Sports
+https://vadp.pricesaskeloadsc.com:443/global/winsports/index.m3u8?token=2b892e2eaa97d1cdee3d90fb353986038a8fe48b-39-1742018702-1741986302
+#EXTINF:-1 tvg-shift="0"  group-title="Win Sports", Win Play +
+https://99a.pricesaskeloadsc.com:443/global/winplusonline1/index.m3u8?token=61e890865bf4f5222238f3ffb44053b36d4a5308-be-1742018756-1741986356
+#EXTINF:-1 tvg-shift="0"  group-title="Fox Sports (Argentina)", Fox Sports 1 (Argentina)
+https://ca8s9.pricesaskeloadsc.com:443/global/fox1ar/index.m3u8?token=bece9b4eface6dc94bc12eb6750f334c4e822097-77-1742018839-1741986439
+#EXTINF:-1 tvg-shift="0"  group-title="Fox Sports (Argentina)", Fox Sports 2 (Argentina)
+https://vadp.pricesaskeloadsc.com:443/global/fox2ar/index.m3u8?token=2434384a97f21ce064aa56d676bce9f0b0d7530b-97-1742018894-1741986494
+#EXTINF:-1 tvg-shift="0"  group-title="Fox Sports (Argentina)", Fox Sports 3 (Argentina)
+https://vadp.pricesaskeloadsc.com:443/global/fox3ar/index.m3u8?token=5173787cbf4997c080e6700a1c9cd5f179c826e6-85-1742018922-1741986522
+#EXTINF:-1 tvg-shift="0"  group-title="Dsports", Dsports
+https://14c5.pricesaskeloadsc.com:443/global/dsports/index.m3u8?token=77dbb6c3a0a145a551675e5e57e675905502cccc-44-1742019032-1741986632
+#EXTINF:-1 tvg-shift="0"  group-title="Dsports", Dsports 2
+https://coeld.pricesaskeloadsc.com:443/global/dsports2/index.m3u8?token=8a63af427d31679a7babd48240c4034933a3c95b-41-1742019052-1741986652
+#EXTINF:-1 tvg-shift="0"  group-title="Dsports", Dsports +
+https://coeld.pricesaskeloadsc.com:443/global/dsportsplus/index.m3u8?token=480e593498e6741fdfe528670e96b01e3bdebf60-bd-1742019080-1741986680
