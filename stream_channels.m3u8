@@ -33,3 +33,63 @@ https://14c5.pricesaskeloadsc.com:443/global/dsports/index.m3u8?token=77dbb6c3a0
 https://coeld.pricesaskeloadsc.com:443/global/dsports2/index.m3u8?token=8a63af427d31679a7babd48240c4034933a3c95b-41-1742019052-1741986652
 #EXTINF:-1 tvg-shift="0"  group-title="Dsports", Dsports +
 https://coeld.pricesaskeloadsc.com:443/global/dsportsplus/index.m3u8?token=480e593498e6741fdfe528670e96b01e3bdebf60-bd-1742019080-1741986680
+#EXTINF:-1 tvg-shift="0"  group-title="TNT Sports Chile", TNT Sports Chile
+https://14c5.pricesaskeloadsc.com:443/global/tntsportschile/index.m3u8?token=dd3ce716e8088b7a656b0bdff3d80bc5a6179f20-c2-1742019560-1741987160
+#EXTINF:-1 tvg-shift="0"  group-title="TNT Sports Argentina", TNT Sports Argentina
+https://pecdl.pricesaskeloadsc.com:443/global/tntsports/index.m3u8?token=98a221c3f48a159d64495e6346ac30175fb61b9d-83-1742019674-1741987274
+#EXTINF:-1 tvg-shift="0"  group-title="ESPN Premium Argentina", ESPN Premium Argentina
+https://99a.pricesaskeloadsc.com:443/global/espnpremium/index.m3u8?token=1ab25ae821afba57cd29ada442d94e983f466299-cd-1742019836-1741987436
+#EXTINF:-1 tvg-shift="0"  group-title="TyC Sports", TyC Sports
+https://pecdl.pricesaskeloadsc.com:443/global/tycsports/index.m3u8?token=9d63763a955fc671461154fd4f0839a6849f56b8-e6-1742020087-1741987687
+#EXTINF:-1 tvg-shift="0"  group-title="Telefe", Telefe
+https://51a.pricesaskeloadsc.com:443/global/telefe/index.m3u8?token=3cfcfffde19d5add2baf8c98ffc2eca43523bde2-f1-1742020248-1741987848
+#EXTINF:-1 tvg-shift="0"  group-title="TV Pública", TV Pública
+https://14c5.pricesaskeloadsc.com:443/global/tv_publica/index.m3u8?token=f378c64c89f13ed68247fff26bb9443a053ef6af-4b-1742020348-1741987948
+#EXTINF:-1 tvg-shift="0"  group-title="Liga 1 MAX", Liga 1 MAX
+https://vadp.pricesaskeloadsc.com:443/global/liga1max/index.m3u8?token=7f3dd44591f95696b574410ab6d4b36e57773cc7-21-1742020400-1741988000
+#EXTINF:-1 tvg-shift="0"  group-title="GolTV", GolTV
+ttps://ca8s9.pricesaskeloadsc.com:443/global/goltv/index.m3u8?token=3f79c9014855844f808694cad79ad0940b7f853e-2a-1742020476-1741988076
+#EXTINF:-1 tvg-shift="0"  group-title="VTV", VTV +
+https://coeld.pricesaskeloadsc.com:443/global/vtvplus/index.m3u8?token=2ea346820cd84c8a901aa1059742efeb9d19af04-c8-1742020526-1741988126
+#EXTINF:-1 tvg-shift="0"  group-title="GolPeru", GolPeru
+https://pecdl.pricesaskeloadsc.com:443/global/golperu/index.m3u8?token=763be58366d0d52747eadc38c62a36e1c5025b18-29-1742020580-1741988180
+#EXTINF:-1 tvg-shift="0"  group-title="ESPN Deportes USA", ESPN Deportes USA
+https://ca8s9.pricesaskeloadsc.com:443/global/espndeportes/index.m3u8?token=f54f4b680a1d649993ad95a9ab46d0acbd781f0b-42-1742020748-1741988348
+#EXTINF:-1 tvg-shift="0"  group-title="TUDN USA", TUDN USA
+https://pecdl.pricesaskeloadsc.com:443/global/tudn_usa/index.m3u8?token=158cebc7c357a44cc2b652881fd969944dbbdd92-88-1742020772-1741988372
+#EXTINF:-1 tvg-shift="0"  group-title="Fox Sports USA", Fox Sports 1 USA
+https://coeld.pricesaskeloadsc.com:443/global/fox_1_usa/index.m3u8?token=0b8ebed6fb26863e38e64fa4e3acb11ec2ce8ccc-46-1742020893-1741988493
+#EXTINF:-1 tvg-shift="0"  group-title="Fox Sports USA", Fox Sports 2 USA
+https://bcja.pricesaskeloadsc.com:443/global/fox_2_usa/index.m3u8?token=9dd67d0cff3d9aae8877b50a1e500b2f12c0c3c7-d0-1742020924-1741988524
+#EXTINF:-1 tvg-shift="0"  group-title="Universo USA", Universo USA
+https://bcja.pricesaskeloadsc.com:443/global/universo_usa/index.m3u8?token=9634bfcbe8a521457167a86c952dae78c32a04ee-d1-1742021000-1741988600
+#EXTINF:-1 tvg-shift="0"  group-title="Univisíon USA", Univisíon USA
+https://51a.pricesaskeloadsc.com:443/global/univision_usa/index.m3u8?token=a6579c5b7a7d5981ddd8a8f7bc5b88198257f0ba-f1-1742021044-1741988644
+#EXTINF:-1 tvg-shift="0"  group-title="Fox Deportes USA", Fox Deportes USA
+https://cbado.pricesaskeloadsc.com:443/global/fox_deportes_usa/index.m3u8?token=05b75a82db71d7312adc595fc3addd08a0093f48-d5-1742021117-1741988717
+#EXTINF:-1 tvg-shift="0"  group-title="Azteca Deportes MX", Azteca Deportes MX
+https://vadp.pricesaskeloadsc.com:443/global/azteca_deportes/index.m3u8?token=4352dffc209d2a2888fb8c0f650286987372dace-24-1742021156-1741988756
+#EXTINF:-1 tvg-shift="0"  group-title="Fox Sports MX", Fox Sports 1 MX
+https://vadp.pricesaskeloadsc.com:443/global/foxsportsmx/index.m3u8?token=dced62053cc48509ab59e1135ea03d963154925c-c6-1742021267-1741988867
+#EXTINF:-1 tvg-shift="0"  group-title="Fox Sports MX", Fox Sports 2 MX
+https://pecdl.pricesaskeloadsc.com:443/global/foxsports2mx/index.m3u8?token=1f0ab719f190cfa30d145d3ccb43e35e5d7a2184-89-1742021290-1741988890
+#EXTINF:-1 tvg-shift="0"  group-title="Fox Sports MX", Fox Sports 3 MX
+https://14c5.pricesaskeloadsc.com:443/global/foxsports3mx/index.m3u8?token=2b397d840f316c2b46a7f877c783dac16fb1a710-32-1742021312-1741988912
+#EXTINF:-1 tvg-shift="0"  group-title="Fox Sports MX", Fox Sports Premium
+https://bcja.pricesaskeloadsc.com:443/global/foxsportspremium/index.m3u8?token=528deeaf4711ccc66f11ad13a401125435dc1531-41-1742021357-1741988957
+#EXTINF:-1 tvg-shift="0"  group-title="ESPN MX", ESPN MX
+https://14c5.pricesaskeloadsc.com:443/global/espnmx/index.m3u8?token=961deade77b359b79bca277fa9e5ad2d8a242278-e1-1742021408-1741989008
+#EXTINF:-1 tvg-shift="0"  group-title="ESPN MX", ESPN 2 MX
+https://24a.pricesaskeloadsc.com:443/global/espn2mx/index.m3u8?token=a079f37148ae683455baa895a0838c7c9331fba8-fc-1742021444-1741989044
+#EXTINF:-1 tvg-shift="0"  group-title="ESPN MX", ESPN 3 MX
+https://99a.pricesaskeloadsc.com:443/global/espn3mx/index.m3u8?token=657fa9d6eec3b7b1a81299776cf840100f4bc8ba-cd-1742021463-1741989063
+#EXTINF:-1 tvg-shift="0"  group-title="TVC Deportes MX", TVC Deportes MX
+https://14c5.pricesaskeloadsc.com:443/global/tvc_deportes/index.m3u8?token=e34c24ef8956957aa4d6e335a1a31ec0f8d90f3e-35-1742021537-1741989137
+#EXTINF:-1 tvg-shift="0"  group-title="HI! Sports MX", HI! Sports MX
+https://14c5.pricesaskeloadsc.com:443/global/hisports/index.m3u8?token=67bfbc676239fcacae91610764bb68a12b523e93-60-1742021558-1741989158
+#EXTINF:-1 tvg-shift="0"  group-title="DAZN ES", DAZN 1 ES
+https://24a.pricesaskeloadsc.com:443/global/dazn1/index.m3u8?token=3c9cb50c230af60b7263324cb3455626bb570c25-94-1742021671-1741989271
+#EXTINF:-1 tvg-shift="0"  group-title="DAZN ES", DAZN 2 ES
+https://coeld.pricesaskeloadsc.com:443/global/dazn2/index.m3u8?token=ef49a28353607481471e4fa7e434ec661240a193-1a-1742021691-1741989291
+#EXTINF:-1 tvg-shift="0"  group-title="DAZN ES", DAZN LaLiga
+https://14c5.pricesaskeloadsc.com:443/global/dazn_laliga/index.m3u8?token=27f380675191d6358619b02116944e6274f8f71b-d7-1742021714-1741989314
