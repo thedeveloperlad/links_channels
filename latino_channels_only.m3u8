@@ -288,5 +288,45 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",FOX DEPORTES
 https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
 
+********************************************* CANALES EXTRA LATINO  ********************************************************************************
+*** source: https://freenote.biz/raw/ly9izhu1hl ****
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WuOhLl4.png",Turbo
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",Tyc Sports ARG
+http://stklatino.dynns.com:2082/azplay1682/9010383728/3110
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",Tyc Sports Internacional
+https://nxt.plus:8443/jesus01/jesus01/227046
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnjvR5f.png",Universal 1 SD
+http://45.170.225.212:48001/play/a0a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnjvR5f.png",Universal 1
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/universalchannel/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png",Universal Cinema 1 SD
+http://45.170.225.212:48001/play/a0a9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png",Universal Cinema 1
+http://stklatino.dynns.com:2082/azplay1682/9010383728/50835
+#EXTINF:-1 tvg-logo="https://i.imgur.com/avBL8pQ.png",Universal Comedy 1 SD
+http://45.170.225.212:48001/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/avBL8pQ.png",Universal Comedy 1
+http://stklatino.dynns.com:2082/azplay1682/9010383728/56568
+#EXTINF:-1 tvg-logo="https://i.imgur.com/avBL8pQ.png",Universal Comedy 2 SD
+http://45.170.225.212:48001/play/a013/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png",Universal Crime 1 SD
+http://45.170.225.212:48001/play/a09g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png",Universal Crime 1
+http://stklatino.dynns.com:2082/azplay1682/9010383728/2637
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png",Universal Crime 2
+http://stklatino.dynns.com:2082/azplay1682/9010383728/50468
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png",Universal Premiere
+http://stklatino.dynns.com:2082/azplay1682/9010383728/50470
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mqfUD1R.png",Universal Reality 1 SD
+http://45.170.225.212:48001/play/a037/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mqfUD1R.png",Universal Reality 1
+http://stklatino.dynns.com:2082/azplay1682/9010383728/50466
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mqfUD1R.png",Universal Reality 2
+https://nxt.plus:8443/jesus01/jesus01/239977
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZnDDPH.png",Willax
+https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
+
 
 
