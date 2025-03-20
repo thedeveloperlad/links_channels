@@ -1,0 +1,7 @@
+****** US Channels:
+
+https://raw.githubusercontent.com/angel200881/chann/refs/heads/main/US.m3u8
+
+***** ESP latin Channels:
+
+https://raw.githubusercontent.com/angel200881/chann/refs/heads/main/DEMO.m3u8
