@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-shift="0"  group-title="ESPN Sudamerica", ESPN
-https://bcja.pricesaskeloadsc.com:443/global/espn/index.m3u8?token=d2b117fab9349474b3cd23df984941ab138f907e-7f-1742076589-1742044189
+https://14c5.pricesaskeloadsc.com/espn/tracks-v1a1/mono.m3u8?ip=177.239.38.226&token=f63d95544e9bf5fdc52639279e26c78a4b16f415-cd-1743889443-1743857043
 #EXTINF:-1 tvg-shift="0"  group-title="ESPN Sudamerica", ESPN2
 https://14c5.pricesaskeloadsc.com:443/global/espn2/index.m3u8?token=1563d1e017d07be99e763b1bc67d31a64c5d8405-fe-1742017016-1741984616
 #EXTINF:-1 tvg-shift="0"  group-title="ESPN Sudamerica", ESPN3
