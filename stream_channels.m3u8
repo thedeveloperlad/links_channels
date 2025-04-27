@@ -39,3 +39,5 @@ http://45.68.35.218:4001/play/a00x/index.m3u8
 http://190.217.23.56:1010/play/a0eg/index.m3u8
 #EXTINF:-1 group-title="-",Win Sports+ HD
 http://190.217.23.56:1010/play/a0et/index.m3u8
+#EXTINF:-1 group-title="-",CBS 8 San Diego
+https://livevideo.tegnadigital.com/kfmb/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KFMB/elvs/live.m3u8
