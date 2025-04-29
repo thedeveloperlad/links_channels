@@ -1,0 +1,532 @@
+Lista Astra Alemania ****(agregar http://)
+#EXTM3U
+#EXTINF:-1 group-title="-", Channel 4 South & East HD
+http://161.123.220.31:8000/play/a09g
+#EXTINF:-1 group-title="-", ITV 1 Border UK HD
+http://161.123.220.31:8000/play/a06i
+#EXTINF:-1 group-title="-",4seven
+http://161.123.220.31:8000/play/a01k
+#EXTINF:-1 group-title="-",5 USA
+http://161.123.220.31:8000/play/a02y
+#EXTINF:-1 group-title="-",5ACTION
+http://161.123.220.31:8000/play/a035
+#EXTINF:-1 group-title="-",5SELECT
+http://161.123.220.31:8000/play/a031
+#EXTINF:-1 group-title="-",5STAR
+http://161.123.220.31:8000/play/a030
+#EXTINF:-1 group-title="-",5STAR+1
+http://161.123.220.31:8000/play/a032
+#EXTINF:-1 group-title="-",5USA+1
+http://161.123.220.31:8000/play/a02z
+#EXTINF:-1 group-title="-",AAJ TAK
+http://161.123.220.31:8000/play/a084
+#EXTINF:-1 group-title="-",ARY Digital
+http://161.123.220.31:8000/play/a07e
+#EXTINF:-1 group-title="-",Aastha
+http://161.123.220.31:8000/play/a09e
+#EXTINF:-1 group-title="-",Akaal Channel
+http://161.123.220.31:8000/play/a09r
+#EXTINF:-1 group-title="-",Al Jazeera HD
+http://161.123.220.31:8000/play/a06z
+#EXTINF:-1 group-title="-",Arise News
+http://161.123.220.31:8000/play/a098
+#EXTINF:-1 group-title="-",BBC ALBA HD
+http://161.123.220.31:8000/play/a08y
+#EXTINF:-1 group-title="-",BBC ALBA HD
+http://161.123.220.31:8000/play/a08z
+#EXTINF:-1 group-title="-",BBC Asian Net
+http://161.123.220.31:8000/play/a096
+#EXTINF:-1 group-title="-",BBC Four HD
+http://161.123.220.31:8000/play/a00w
+#EXTINF:-1 group-title="-",BBC Four HD
+http://161.123.220.31:8000/play/a05h
+#EXTINF:-1 group-title="-",BBC NEWS HD
+http://161.123.220.31:8000/play/a08x
+#EXTINF:-1 group-title="-",BBC One Channel islands HD
+http://161.123.220.31:8000/play/a00d
+#EXTINF:-1 group-title="-",BBC One EMidHD
+http://161.123.220.31:8000/play/a00v
+#EXTINF:-1 group-title="-",BBC One EastHD
+http://161.123.220.31:8000/play/a00u
+#EXTINF:-1 group-title="-",BBC One Lon HD
+http://161.123.220.31:8000/play/a00o
+#EXTINF:-1 group-title="-",BBC One NE HD
+http://161.123.220.31:8000/play/a003
+#EXTINF:-1 group-title="-",BBC One NI HD
+http://161.123.220.31:8000/play/a012
+#EXTINF:-1 group-title="-",BBC One NI HD
+http://161.123.220.31:8000/play/a016
+#EXTINF:-1 group-title="-",BBC One NW HD
+http://161.123.220.31:8000/play/a005
+#EXTINF:-1 group-title="-",BBC One SE HD
+http://161.123.220.31:8000/play/a010
+#EXTINF:-1 group-title="-",BBC One SW HD
+http://161.123.220.31:8000/play/a00m
+#EXTINF:-1 group-title="-",BBC One ScotHD
+http://161.123.220.31:8000/play/a08v
+#EXTINF:-1 group-title="-",BBC One Sth HD
+http://161.123.220.31:8000/play/a05b
+#EXTINF:-1 group-title="-",BBC One Wal HD
+http://161.123.220.31:8000/play/a08w
+#EXTINF:-1 group-title="-",BBC One West Midlands HD
+http://161.123.220.31:8000/play/a090
+#EXTINF:-1 group-title="-",BBC One Wst HD
+http://161.123.220.31:8000/play/a00g
+#EXTINF:-1 group-title="-",BBC One Y&L HD
+http://161.123.220.31:8000/play/a00z
+#EXTINF:-1 group-title="-",BBC One Yks HD
+http://161.123.220.31:8000/play/a009
+#EXTINF:-1 group-title="-",BBC Parl HD
+http://161.123.220.31:8000/play/a002
+#EXTINF:-1 group-title="-",BBC R Cymru
+http://161.123.220.31:8000/play/a00h
+#EXTINF:-1 group-title="-",BBC R Cymru 2
+http://161.123.220.31:8000/play/a00a
+#EXTINF:-1 group-title="-",BBC R Foyle
+http://161.123.220.31:8000/play/a00t
+#EXTINF:-1 group-title="-",BBC R London
+http://161.123.220.31:8000/play/a00b
+#EXTINF:-1 group-title="-",BBC R Scot
+http://161.123.220.31:8000/play/a019
+#EXTINF:-1 group-title="-",BBC R Ulster
+http://161.123.220.31:8000/play/a00s
+#EXTINF:-1 group-title="-",BBC R Wales
+http://161.123.220.31:8000/play/a01b
+#EXTINF:-1 group-title="-",BBC R1
+http://161.123.220.31:8000/play/a091
+#EXTINF:-1 group-title="-",BBC R1X
+http://161.123.220.31:8000/play/a008
+#EXTINF:-1 group-title="-",BBC R2
+http://161.123.220.31:8000/play/a092
+#EXTINF:-1 group-title="-",BBC R3
+http://161.123.220.31:8000/play/a093
+#EXTINF:-1 group-title="-",BBC R4
+http://161.123.220.31:8000/play/a094
+#EXTINF:-1 group-title="-",BBC R4 Extra
+http://161.123.220.31:8000/play/a00k
+#EXTINF:-1 group-title="-",BBC R5 sports extra
+http://161.123.220.31:8000/play/a007
+#EXTINF:-1 group-title="-",BBC R5L
+http://161.123.220.31:8000/play/a095
+#EXTINF:-1 group-title="-",BBC R6 Music
+http://161.123.220.31:8000/play/a00j
+#EXTINF:-1 group-title="-",BBC Red Button 1 HD
+http://161.123.220.31:8000/play/a00f
+#EXTINF:-1 group-title="-",BBC RnGΩid
+http://161.123.220.31:8000/play/a01a
+#EXTINF:-1 group-title="-",BBC Three HD
+http://161.123.220.31:8000/play/a014
+#EXTINF:-1 group-title="-",BBC Three HD
+http://161.123.220.31:8000/play/a017
+#EXTINF:-1 group-title="-",BBC Two HD
+http://161.123.220.31:8000/play/a011
+#EXTINF:-1 group-title="-",BBC Two NI HD
+http://161.123.220.31:8000/play/a004
+#EXTINF:-1 group-title="-",BBC Two NI HD
+http://161.123.220.31:8000/play/a006
+#EXTINF:-1 group-title="-",BBC Two Wal HD
+http://161.123.220.31:8000/play/a00p
+#EXTINF:-1 group-title="-",BBC World Sv
+http://161.123.220.31:8000/play/a00l
+#EXTINF:-1 group-title="-",BBCScotlandHD
+http://161.123.220.31:8000/play/a00i
+#EXTINF:-1 group-title="-",BFBS Radio
+http://161.123.220.31:8000/play/a07r
+#EXTINF:-1 group-title="-",BLAZE
+http://161.123.220.31:8000/play/a02r
+#EXTINF:-1 group-title="-",BLAZE
+http://161.123.220.31:8000/play/a02g
+#EXTINF:-1 group-title="-",Babenation
+http://161.123.220.31:8000/play/a046
+#EXTINF:-1 group-title="-",Bloomberg HD
+http://161.123.220.31:8000/play/a089
+#EXTINF:-1 group-title="-",CBBC HD
+http://161.123.220.31:8000/play/a015
+#EXTINF:-1 group-title="-",CBBC HD
+http://161.123.220.31:8000/play/a018
+#EXTINF:-1 group-title="-",CBeebies HD
+http://161.123.220.31:8000/play/a064
+#EXTINF:-1 group-title="-",CBeebies HD
+http://161.123.220.31:8000/play/a065
+#EXTINF:-1 group-title="-",CHSTV
+http://161.123.220.31:8000/play/a07l
+#EXTINF:-1 group-title="-",CNBC HD
+http://161.123.220.31:8000/play/a05d
+#EXTINF:-1 group-title="-",CNN HD
+http://161.123.220.31:8000/play/a08a
+#EXTINF:-1 group-title="-",Capital
+http://161.123.220.31:8000/play/a073
+#EXTINF:-1 group-title="-",Capital XTRA
+http://161.123.220.31:8000/play/a071
+#EXTINF:-1 group-title="-",Challenge
+http://161.123.220.31:8000/play/a08m
+#EXTINF:-1 group-title="-",Channel 4 HD
+http://161.123.220.31:8000/play/a01d
+#EXTINF:-1 group-title="-",Channel 4 London +1
+http://161.123.220.31:8000/play/a01f
+#EXTINF:-1 group-title="-",Channel 4 Midlands HD
+http://161.123.220.31:8000/play/a05f
+#EXTINF:-1 group-title="-",Channel 4 North +1
+http://161.123.220.31:8000/play/a01h
+#EXTINF:-1 group-title="-",Channel 4 North HD
+http://161.123.220.31:8000/play/a05g
+#EXTINF:-1 group-title="-",Channel 4 Scotland +1
+http://161.123.220.31:8000/play/a01l
+#EXTINF:-1 group-title="-",Channel 4 Scotland HD
+http://161.123.220.31:8000/play/a09h
+#EXTINF:-1 group-title="-",Channel 4 South & East +1
+http://161.123.220.31:8000/play/a01g
+#EXTINF:-1 group-title="-",Channel 5 HD
+http://161.123.220.31:8000/play/a034
+#EXTINF:-1 group-title="-",Channel 5 London
+http://161.123.220.31:8000/play/a02x
+#EXTINF:-1 group-title="-",Channel 5+1
+http://161.123.220.31:8000/play/a033
+#EXTINF:-1 group-title="-",Channels 24
+http://161.123.220.31:8000/play/a08o
+#EXTINF:-1 group-title="-",Classic FM
+http://161.123.220.31:8000/play/a075
+#EXTINF:-1 group-title="-",Clubland TV
+http://161.123.220.31:8000/play/a078
+#EXTINF:-1 group-title="-",Court TV
+http://161.123.220.31:8000/play/a080
+#EXTINF:-1 group-title="-",DMAX
+http://161.123.220.31:8000/play/a01v
+#EXTINF:-1 group-title="-",DMAX+1
+http://161.123.220.31:8000/play/a01s
+#EXTINF:-1 group-title="-",Deen TV
+http://161.123.220.31:8000/play/a07p
+#EXTINF:-1 group-title="-",Dunamis TV
+http://161.123.220.31:8000/play/a09n
+#EXTINF:-1 group-title="-",E4
+http://161.123.220.31:8000/play/a01m
+#EXTINF:-1 group-title="-",E4 Extra
+http://161.123.220.31:8000/play/a01j
+#EXTINF:-1 group-title="-",E4+1
+http://161.123.220.31:8000/play/a01e
+#EXTINF:-1 group-title="-",ETV4
+http://161.123.220.31:8000/play/a013
+#EXTINF:-1 group-title="-",ETV5
+http://161.123.220.31:8000/play/a00e
+#EXTINF:-1 group-title="-",EWTN Catholic
+http://161.123.220.31:8000/play/a09p
+#EXTINF:-1 group-title="-",EWTN Catholic
+http://161.123.220.31:8000/play/a09q
+#EXTINF:-1 group-title="-",Euronews
+http://161.123.220.31:8000/play/a09c
+#EXTINF:-1 group-title="-",FRANCE 24 HD
+http://161.123.220.31:8000/play/a06u
+#EXTINF:-1 group-title="-",Faith UK
+http://161.123.220.31:8000/play/a02q
+#EXTINF:-1 group-title="-",Film4
+http://161.123.220.31:8000/play/a01o
+#EXTINF:-1 group-title="-",Film4+1
+http://161.123.220.31:8000/play/a01n
+#EXTINF:-1 group-title="-",Food Network
+http://161.123.220.31:8000/play/a01t
+#EXTINF:-1 group-title="-",Food Netwrk+1
+http://161.123.220.31:8000/play/a01u
+#EXTINF:-1 group-title="-",G! romance+1
+http://161.123.220.31:8000/play/a03e
+#EXTINF:-1 group-title="-",GB News HD
+http://161.123.220.31:8000/play/a087
+#EXTINF:-1 group-title="-",GEO News
+http://161.123.220.31:8000/play/a02v
+#EXTINF:-1 group-title="-",GEO TV
+http://161.123.220.31:8000/play/a02u
+#EXTINF:-1 group-title="-",GREAT! action
+http://161.123.220.31:8000/play/a03b
+#EXTINF:-1 group-title="-",GREAT! movies
+http://161.123.220.31:8000/play/a039
+#EXTINF:-1 group-title="-",GREAT! movies
+http://161.123.220.31:8000/play/a03c
+#EXTINF:-1 group-title="-",GREAT! movies+1
+http://161.123.220.31:8000/play/a03i
+#EXTINF:-1 group-title="-",GREAT! romance
+http://161.123.220.31:8000/play/a03d
+#EXTINF:-1 group-title="-",GREAT! tv
+http://161.123.220.31:8000/play/a03m
+#EXTINF:-1 group-title="-",GREAT! tv
+http://161.123.220.31:8000/play/a03a
+#EXTINF:-1 group-title="-",GREAT! tv+1
+http://161.123.220.31:8000/play/a03n
+#EXTINF:-1 group-title="-",GREAT!action+1
+http://161.123.220.31:8000/play/a03k
+#EXTINF:-1 group-title="-",Gems TV
+http://161.123.220.31:8000/play/a02f
+#EXTINF:-1 group-title="-",Gold Radio
+http://161.123.220.31:8000/play/a074
+#EXTINF:-1 group-title="-",HGTV
+http://161.123.220.31:8000/play/a01w
+#EXTINF:-1 group-title="-",HGTV+1
+http://161.123.220.31:8000/play/a08s
+#EXTINF:-1 group-title="-",HUM EUROPE
+http://161.123.220.31:8000/play/a07o
+#EXTINF:-1 group-title="-",HUM Masala
+http://161.123.220.31:8000/play/a07m
+#EXTINF:-1 group-title="-",Heart
+http://161.123.220.31:8000/play/a07t
+#EXTINF:-1 group-title="-",Heart 80s
+http://161.123.220.31:8000/play/a07u
+#EXTINF:-1 group-title="-",Heart 90s
+http://161.123.220.31:8000/play/a07k
+#EXTINF:-1 group-title="-",Heart Dance
+http://161.123.220.31:8000/play/a07h
+#EXTINF:-1 group-title="-",ITV 1 Anglia East HD
+http://161.123.220.31:8000/play/a06h
+#EXTINF:-1 group-title="-",ITV 1 Anglia West HD
+http://161.123.220.31:8000/play/a04o
+#EXTINF:-1 group-title="-",ITV 1 Border Scotland HD
+http://161.123.220.31:8000/play/a04n
+#EXTINF:-1 group-title="-",ITV 1 Central East HD
+http://161.123.220.31:8000/play/a04p
+#EXTINF:-1 group-title="-",ITV 1 Central West +1
+http://161.123.220.31:8000/play/a04a
+#EXTINF:-1 group-title="-",ITV 1 Central West HD
+http://161.123.220.31:8000/play/a06k
+#EXTINF:-1 group-title="-",ITV 1 Granada +1
+http://161.123.220.31:8000/play/a049
+#EXTINF:-1 group-title="-",ITV 1 Granada HD
+http://161.123.220.31:8000/play/a06n
+#EXTINF:-1 group-title="-",ITV 1 London +1
+http://161.123.220.31:8000/play/a04b
+#EXTINF:-1 group-title="-",ITV 1 London HD
+http://161.123.220.31:8000/play/a06f
+#EXTINF:-1 group-title="-",ITV 1 Meridian East +1
+http://161.123.220.31:8000/play/a04c
+#EXTINF:-1 group-title="-",ITV 1 Meridian East HD
+http://161.123.220.31:8000/play/a04i
+#EXTINF:-1 group-title="-",ITV 1 Meridian South HD
+http://161.123.220.31:8000/play/a04k
+#EXTINF:-1 group-title="-",ITV 1 Meridian Thames Valley HD
+http://161.123.220.31:8000/play/a04j
+#EXTINF:-1 group-title="-",ITV 1 Tyne Tees HD
+http://161.123.220.31:8000/play/a06o
+#EXTINF:-1 group-title="-",ITV 1 West Country East HD
+http://161.123.220.31:8000/play/a06q
+#EXTINF:-1 group-title="-",ITV 1 West Country West HD
+http://161.123.220.31:8000/play/a06p
+#EXTINF:-1 group-title="-",ITV 1 Yorkshire East HD
+http://161.123.220.31:8000/play/a06d
+#EXTINF:-1 group-title="-",ITV 1 Yorkshire West HD
+http://161.123.220.31:8000/play/a04l
+#EXTINF:-1 group-title="-",ITV Be HD
+http://161.123.220.31:8000/play/a06g
+#EXTINF:-1 group-title="-",ITV Channel Islands
+http://161.123.220.31:8000/play/a06l
+#EXTINF:-1 group-title="-",ITV1 Wales HD
+http://161.123.220.31:8000/play/a06m
+#EXTINF:-1 group-title="-",ITV2 HD
+http://161.123.220.31:8000/play/a06r
+#EXTINF:-1 group-title="-",ITV2+1
+http://161.123.220.31:8000/play/a04e
+#EXTINF:-1 group-title="-",ITV3 HD
+http://161.123.220.31:8000/play/a04m
+#EXTINF:-1 group-title="-",ITV3+1
+http://161.123.220.31:8000/play/a04f
+#EXTINF:-1 group-title="-",ITV4 HD
+http://161.123.220.31:8000/play/a06e
+#EXTINF:-1 group-title="-",ITV4+1
+http://161.123.220.31:8000/play/a04g
+#EXTINF:-1 group-title="-",India Today
+http://161.123.220.31:8000/play/a02p
+#EXTINF:-1 group-title="-",Islam Ch Urdu
+http://161.123.220.31:8000/play/a09o
+#EXTINF:-1 group-title="-",Islam Channel
+http://161.123.220.31:8000/play/a09l
+#EXTINF:-1 group-title="-",Kanshi TV
+http://161.123.220.31:8000/play/a07n
+#EXTINF:-1 group-title="-",LBC
+http://161.123.220.31:8000/play/a07s
+#EXTINF:-1 group-title="-",LBC News
+http://161.123.220.31:8000/play/a07f
+#EXTINF:-1 group-title="-",LEGEND
+http://161.123.220.31:8000/play/a03x
+#EXTINF:-1 group-title="-",LEGEND XTRA
+http://161.123.220.31:8000/play/a03u
+#EXTINF:-1 group-title="-",LEGEND XTRA+1
+http://161.123.220.31:8000/play/a042
+#EXTINF:-1 group-title="-",LoveWorld HD
+http://161.123.220.31:8000/play/a088
+#EXTINF:-1 group-title="-",MATV National
+http://161.123.220.31:8000/play/a07d
+#EXTINF:-1 group-title="-",More4
+http://161.123.220.31:8000/play/a01p
+#EXTINF:-1 group-title="-",More4+1
+http://161.123.220.31:8000/play/a01i
+#EXTINF:-1 group-title="-",Music India
+http://161.123.220.31:8000/play/a08p
+#EXTINF:-1 group-title="-",NDTV 24x7
+http://161.123.220.31:8000/play/a07a
+#EXTINF:-1 group-title="-",NOW 70s
+http://161.123.220.31:8000/play/a02c
+#EXTINF:-1 group-title="-",NOW 80s
+http://161.123.220.31:8000/play/a02a
+#EXTINF:-1 group-title="-",NOW 90s & 00s
+http://161.123.220.31:8000/play/a083
+#EXTINF:-1 group-title="-",NOW ROCK
+http://161.123.220.31:8000/play/a079
+#EXTINF:-1 group-title="-",NTD
+http://161.123.220.31:8000/play/a076
+#EXTINF:-1 group-title="-",NTV
+http://161.123.220.31:8000/play/a09a
+#EXTINF:-1 group-title="-",New Vision TV
+http://161.123.220.31:8000/play/a07c
+#EXTINF:-1 group-title="-",Noor TV
+http://161.123.220.31:8000/play/a077
+#EXTINF:-1 group-title="-",PBS America
+http://161.123.220.31:8000/play/a03y
+#EXTINF:-1 group-title="-",POP
+http://161.123.220.31:8000/play/a03g
+#EXTINF:-1 group-title="-",POP Max
+http://161.123.220.31:8000/play/a03h
+#EXTINF:-1 group-title="-",POP Max+1
+http://161.123.220.31:8000/play/a03j
+#EXTINF:-1 group-title="-",POP+1
+http://161.123.220.31:8000/play/a03l
+#EXTINF:-1 group-title="-",PTC PUNJABI
+http://161.123.220.31:8000/play/a099
+#EXTINF:-1 group-title="-",Panjab Radio
+http://161.123.220.31:8000/play/a07q
+#EXTINF:-1 group-title="-",QTV Religious
+http://161.123.220.31:8000/play/a02j
+#EXTINF:-1 group-title="-",QUEST
+http://161.123.220.31:8000/play/a025
+#EXTINF:-1 group-title="-",QUEST HD
+http://161.123.220.31:8000/play/a01x
+#EXTINF:-1 group-title="-",QUEST HD
+http://161.123.220.31:8000/play/a01y
+#EXTINF:-1 group-title="-",QUEST+1
+http://161.123.220.31:8000/play/a027
+#EXTINF:-1 group-title="-",Quest Red
+http://161.123.220.31:8000/play/a026
+#EXTINF:-1 group-title="-",Quest Red+1
+http://161.123.220.31:8000/play/a024
+#EXTINF:-1 group-title="-",RT. 2FM
+http://161.123.220.31:8000/play/a08f
+#EXTINF:-1 group-title="-",RT. Lyric fm
+http://161.123.220.31:8000/play/a08h
+#EXTINF:-1 group-title="-",RT. News
+http://161.123.220.31:8000/play/a08i
+#EXTINF:-1 group-title="-",RT. R na G
+http://161.123.220.31:8000/play/a08g
+#EXTINF:-1 group-title="-",RT. Radio 1
+http://161.123.220.31:8000/play/a08e
+#EXTINF:-1 group-title="-",Radio X
+http://161.123.220.31:8000/play/a072
+#EXTINF:-1 group-title="-",Really
+http://161.123.220.31:8000/play/a01r
+#EXTINF:-1 group-title="-",Really ireland
+http://161.123.220.31:8000/play/a08t
+#EXTINF:-1 group-title="-",Rewind TV
+http://161.123.220.31:8000/play/a02d
+#EXTINF:-1 group-title="-",S4C
+http://161.123.220.31:8000/play/a06v
+#EXTINF:-1 group-title="-",S4C HD
+http://161.123.220.31:8000/play/a06t
+#EXTINF:-1 group-title="-",SONY MAX
+http://161.123.220.31:8000/play/a085
+#EXTINF:-1 group-title="-",SONY MAX 2
+http://161.123.220.31:8000/play/a07z
+#EXTINF:-1 group-title="-",SONY SAB
+http://161.123.220.31:8000/play/a07y
+#EXTINF:-1 group-title="-",SONY TV
+http://161.123.220.31:8000/play/a07x
+#EXTINF:-1 group-title="-",STV East
+http://161.123.220.31:8000/play/a048
+#EXTINF:-1 group-title="-",STV HD
+http://161.123.220.31:8000/play/a05e
+#EXTINF:-1 group-title="-",STV North
+http://161.123.220.31:8000/play/a047
+#EXTINF:-1 group-title="-",STV West HD
+http://161.123.220.31:8000/play/a06b
+#EXTINF:-1 group-title="-",Sanskar
+http://161.123.220.31:8000/play/a09b
+#EXTINF:-1 group-title="-",Sikh Channel
+http://161.123.220.31:8000/play/a02e
+#EXTINF:-1 group-title="-",Sky Arts
+http://161.123.220.31:8000/play/a08k
+#EXTINF:-1 group-title="-",Sky Arts Ireland
+http://161.123.220.31:8000/play/a08j
+#EXTINF:-1 group-title="-",Sky Mix HD
+http://161.123.220.31:8000/play/a05c
+#EXTINF:-1 group-title="-",Sky News
+http://161.123.220.31:8000/play/a08c
+#EXTINF:-1 group-title="-",Smooth
+http://161.123.220.31:8000/play/a07g
+#EXTINF:-1 group-title="-",SonLife
+http://161.123.220.31:8000/play/a07b
+#EXTINF:-1 group-title="-",TBN UK
+http://161.123.220.31:8000/play/a09m
+#EXTINF:-1 group-title="-",TRT World HD
+http://161.123.220.31:8000/play/a06x
+#EXTINF:-1 group-title="-",TRUE CRIME
+http://161.123.220.31:8000/play/a03z
+#EXTINF:-1 group-title="-",TRUE CRIME
+http://161.123.220.31:8000/play/a040
+#EXTINF:-1 group-title="-",TRUE CRIME X
+http://161.123.220.31:8000/play/a03w
+#EXTINF:-1 group-title="-",TRUE CRIME X
+http://161.123.220.31:8000/play/a03s
+#EXTINF:-1 group-title="-",TRUE CRIME+1
+http://161.123.220.31:8000/play/a041
+#EXTINF:-1 group-title="-",TV One
+http://161.123.220.31:8000/play/a09d
+#EXTINF:-1 group-title="-",TWR
+http://161.123.220.31:8000/play/a07j
+#EXTINF:-1 group-title="-",Takbeer TV
+http://161.123.220.31:8000/play/a081
+#EXTINF:-1 group-title="-",TalkingPictures
+http://161.123.220.31:8000/play/a043
+#EXTINF:-1 group-title="-",That's Dance
+http://161.123.220.31:8000/play/a082
+#EXTINF:-1 group-title="-",That's Melody
+http://161.123.220.31:8000/play/a04d
+#EXTINF:-1 group-title="-",That's Oldies
+http://161.123.220.31:8000/play/a03v
+#EXTINF:-1 group-title="-",That's TV
+http://161.123.220.31:8000/play/a044
+#EXTINF:-1 group-title="-",That's TV 2
+http://161.123.220.31:8000/play/a03t
+#EXTINF:-1 group-title="-",That's TV 3
+http://161.123.220.31:8000/play/a045
+#EXTINF:-1 group-title="-",Tiny Pop
+http://161.123.220.31:8000/play/a03f
+#EXTINF:-1 group-title="-",Tiny Pop+1
+http://161.123.220.31:8000/play/a03o
+#EXTINF:-1 group-title="-",Together
+http://161.123.220.31:8000/play/a08l
+#EXTINF:-1 group-title="-",Travelxp
+http://161.123.220.31:8000/play/a08q
+#EXTINF:-1 group-title="-",U&Dave
+http://161.123.220.31:8000/play/a052
+#EXTINF:-1 group-title="-",U&Dave
+http://161.123.220.31:8000/play/a04u
+#EXTINF:-1 group-title="-",U&DaveJaVu
+http://161.123.220.31:8000/play/a054
+#EXTINF:-1 group-title="-",U&Drama
+http://161.123.220.31:8000/play/a04x
+#EXTINF:-1 group-title="-",U&Drama
+http://161.123.220.31:8000/play/a051
+#EXTINF:-1 group-title="-",U&Drama+1
+http://161.123.220.31:8000/play/a053
+#EXTINF:-1 group-title="-",U&Eden
+http://161.123.220.31:8000/play/a04r
+#EXTINF:-1 group-title="-",U&Eden+1
+http://161.123.220.31:8000/play/a04z
+#EXTINF:-1 group-title="-",U&W
+http://161.123.220.31:8000/play/a04v
+#EXTINF:-1 group-title="-",U&W
+http://161.123.220.31:8000/play/a059
+#EXTINF:-1 group-title="-",U&W+1
+http://161.123.220.31:8000/play/a050
+#EXTINF:-1 group-title="-",U&Yesterday
+http://161.123.220.31:8000/play/a04t
+#EXTINF:-1 group-title="-",U&Yesterday+1
+http://161.123.220.31:8000/play/a056
+#EXTINF:-1 group-title="-",UTV HD
+http://161.123.220.31:8000/play/a06c
+#EXTINF:-1 group-title="-",Virgin Radio
+http://161.123.220.31:8000/play/a07i
+#EXTINF:-1 group-title="-",talkSPORT
+http://161.123.220.31:8000/play/a07v
