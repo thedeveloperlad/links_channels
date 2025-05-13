@@ -263,8 +263,8 @@ http://190.52.105.146:8000/play/a0gd/index.m3u8
 http://190.52.105.146:8000/play/a092/index.m3u8
 #EXTINF:-1,Pasiones HD
 http://190.52.105.146:8000/play/a0fu/index.m3u8
-#EXTINF:-1,Playboy HD
-http://190.52.105.146:8000/play/a0fx/index.m3u8
+/**** #EXTINF:-1,Playboy HD ****/
+/**** http://190.52.105.146:8000/play/a0fx/index.m3u8 ****/
 #EXTINF:-1,RCN HD
 http://190.52.105.146:8000/play/a09u/index.m3u8
 #EXTINF:-1,RCN Novelas
