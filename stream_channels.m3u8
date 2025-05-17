@@ -42,6 +42,6 @@ http://190.217.23.56:1010/play/a0et/index.m3u8
 #EXTINF:-1 group-title="-",CBS 8 San Diego
 https://livevideo.tegnadigital.com/kfmb/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KFMB/elvs/live.m3u8
 #EXTINF:-1 group-title="-",Padres TV (temporal link SD)
-https://tvpass.org/live/mlb-25/sd
+https://tvpass.org/live/mlb-02/sd
 #EXTINF:-1 group-title="-",Padres GAME (temporal link 720p)
 https://57b1.crackstreamslivehd.com/mlb14/tracks-v1a1/mono.m3u8?ip=177.239.38.226&token=d3b261dda4cb5bbc388fc2a7493282b652fad622-eb-1747295271-1747262871
