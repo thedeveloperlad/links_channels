@@ -39,6 +39,32 @@ http://45.68.35.218:4001/play/a00x/index.m3u8
 http://190.217.23.56:1010/play/a0eg/index.m3u8
 #EXTINF:-1 group-title="-",Win Sports+ HD
 http://190.217.23.56:1010/play/a0et/index.m3u8
+#EXTINF:-1,4k TEST
+http://190.92.10.66:4000/play/a00a/index.m3u8
+#EXTINF:-1,AZTECA 7 HD
+http://190.92.10.66:4000/play/a007/index.m3u8
+#EXTINF:-1,BUNDESLIGA
+http://190.92.10.66:4000/play/a006/index.m3u8
+#EXTINF:-1,DEPORTES TVC 1
+http://190.92.10.66:4000/play/a008/index.m3u8
+#EXTINF:-1,ESPN DEPORTES USA
+http://190.92.10.66:4000/play/a003/index.m3u8
+#EXTINF:-1,FUTV
+http://190.92.10.66:4000/play/a00c/index.m3u8
+#EXTINF:-1,SKY SPORT LA LIGA
+http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1,TELEMUNDO 51
+http://190.92.10.66:4000/play/a004/index.m3u8
+#EXTINF:-1,TEST2
+http://190.92.10.66:4000/play/a0h7/index.m3u8
+#EXTINF:-1,TIGO CDN
+http://190.92.10.66:4000/play/a00b/index.m3u8
+#EXTINF:-1,TUDN USA
+http://190.92.10.66:4000/play/a002/index.m3u8
+#EXTINF:-1,TVC multicast
+http://190.92.10.66:4000/play/a00e/index.m3u8
+#EXTINF:-1,UNIVISION 51
+http://190.92.10.66:4000/play/a005/index.m3u8
 #EXTINF:-1 group-title="-",CBS 8 San Diego
 https://livevideo.tegnadigital.com/kfmb/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KFMB/elvs/live.m3u8
 #EXTINF:-1 group-title="-",Padres TV (temporal link SD)
