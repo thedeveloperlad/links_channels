@@ -15,6 +15,22 @@ http://45.68.35.218:4001/play/a02y/index.m3u8
 http://45.68.35.218:4001/play/a02z/index.m3u8
 #EXTINF:-1 group-title="-",ESPN DEPORTES USA
 http://45.68.35.218:4001/play/a015/index.m3u8
+#EXTINF:-1 group-title="Argentina",Fox Sports 2 HD ARG
+http://181.10.123.154:14000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="Argentina",Fox Sports 3 HD ARG
+http://181.10.123.154:14000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="Argentina",Fox Sports HD ARG
+http://181.10.123.154:14000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="Argentina",ESPN 2 HD
+http://181.10.123.154:14000/play/a059/index.m3u8
+#EXTINF:-1 group-title="Argentina",ESPN 3 HD
+http://181.10.123.154:14000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="Argentina",ESPN 4 HD
+http://181.10.123.154:14000/play/a076/index.m3u8
+#EXTINF:-1 group-title="Argentina",ESPN HD
+http://181.10.123.154:14000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="Argentina",ESPN Premium HD
+http://181.10.123.154:14000/play/a078/index.m3u8
 #EXTINF:-1 group-title="-",FOX SPORT 1
 http://45.68.35.218:4001/play/a021/index.m3u8
 #EXTINF:-1 group-title="-",FOX SPORT 2
