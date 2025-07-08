@@ -90,9 +90,7 @@ http://190.92.10.66:4000/play/a005/index.m3u8
 #EXTINF:-1 group-title="-",CBS 8 San Diego
 https://livevideo.tegnadigital.com/kfmb/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KFMB/elvs/live.m3u8
 #EXTINF:-1 group-title="-",Padres GAME (temporal link 720p)
-https://florcd1.crackstreamslivehd.com/mlb13/tracks-v1a1/mono.m3u8?ip=177.239.38.226&token=abf3415b54fd751083385ac3bbc652a71eb60688-66-1751808717-1751754717
-#EXTINF:-1 group-title-"-", Temporal Fox Sports Premium
-https://manolo.crackstreamslivehd.com/foxsportspremium/tracks-v1a1/mono.m3u8?ip=177.239.38.226&token=77805def6914a594dd0bbbf00596c217c63b1053-49-1751767944-1751713944
+https://madrid.crackstreamslivehd.com/mlb9/tracks-v1a1/mono.m3u8?ip=177.239.38.227&token=0a448678be51f5d721906fd33da2a24ca5130a21-2e-1751982083-1751928083
 
 /***/
 #EXTINF:-1 group-title="Bics DEPORTES LFA", US: LFA 01
