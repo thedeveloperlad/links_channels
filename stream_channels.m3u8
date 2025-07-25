@@ -253,13 +253,13 @@ http://fl5.moveonjoy.com/NHL_15/index.m3u8
 ****************************** TEST ****************************************
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DV-VPOydRcM/maxresdefault.jpg" date="April 7, 2021" group-title="2021", Bayern vs Paris Saint-Germain UCL QF April 7, 2021
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DV-VPOydRcM/maxresdefault.jpg" date="April 7, 2021" group-title="-", Bayern vs Paris Saint-Germain UCL QF April 7, 2021
 https://dn720300.ca.archive.org/0/items/bayernvspsg2021/Bayern%20vs%20PSG%20%281%29.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DV-VPOydRcM/maxresdefault.jpg" date="April 7, 2021" group-title="2021", Bayern vs Paris Saint-Germain UCL QF April 7, 2021
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DV-VPOydRcM/maxresdefault.jpg" date="April 7, 2021" group-title="-", Bayern vs Paris Saint-Germain UCL QF April 7, 2021
 https://dn720300.ca.archive.org/0/items/bayernvspsg2021/Bayern%20vs%20PSG%20%282%29.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CG1B6rxlZ-8/maxresdefault.jpg" date="May 26, 2018" group-title="2018", Real Madrid vs Liverpool UCL FINAL May 26, 2018
-https://archive.org/details/liverpool-x-real-1st-half/Liverpool+x+Real+-+1st+half.mkv
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CG1B6rxlZ-8/maxresdefault.jpg" date="May 26, 2018" group-title="2018", Real Madrid vs Liverpool UCL FINAL May 26, 2018
-https://archive.org/details/liverpool-x-real-1st-half/Liverpool+x+Real+-+2nd+half.mkv
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CG1B6rxlZ-8/maxresdefault.jpg" date="May 26, 2018" group-title="2018", Real Madrid vs Liverpool UCL FINAL May 26, 2018
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CG1B6rxlZ-8/maxresdefault.jpg" date="May 26, 2018" group-title="-", Real Madrid vs Liverpool UCL FINAL May 26, 2018
+https://archive.org/download/liverpool-x-real-1st-half/Liverpool%20x%20Real%20-%201st%20half.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CG1B6rxlZ-8/maxresdefault.jpg" date="May 26, 2018" group-title="-", Real Madrid vs Liverpool UCL FINAL May 26, 2018
+https://archive.org/download/liverpool-x-real-1st-half/Liverpool%20x%20Real%20-%202nd%20half.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CG1B6rxlZ-8/maxresdefault.jpg" date="May 26, 2018" group-title="-", Real Madrid vs Liverpool UCL FINAL May 26, 2018
 https://archive.org/details/liverpool-x-real-1st-half/Trophy+Celebration+.mkv
