@@ -604,3 +604,14 @@ http://190.52.105.146:8000/play/a03e/index.m3u8
 http://190.52.105.146:8000/play/a00h/index.m3u8
 #EXTINF:-1,Willax
 http://190.52.105.146:8000/play/a088/index.m3u8
+
+#EXTINF:-1,HBO 2 (ESP)
+http://181.78.85.53:9002/play/a04v/index.m3u8
+#EXTINF:-1,HBO Family (ESP)
+http://181.78.85.53:9002/play/a002/index.m3u8
+#EXTINF:-1,HBO HD (ESP)
+http://181.78.85.53:9002/play/a023/index.m3u8
+#EXTINF:-1,HBO POP HD (ESP)
+http://181.78.85.53:9002/play/a00a/index.m3u8
+#EXTINF:-1,HBO XTREME HD (ESP)
+http://181.78.85.53:9002/play/a00d/index.m3u8
