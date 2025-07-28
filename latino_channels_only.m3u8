@@ -506,3 +506,13 @@ http://200.107.142.38:9000/play/a01d/index.m3u8
 #EXTINF:-1,Univision HD
 http://200.107.142.38:9000/play/a01r/index.m3u8
 
+#EXTINF:-1,HBO 2 (ESP)
+http://181.78.85.53:9002/play/a04v/index.m3u8
+#EXTINF:-1,HBO Family (ESP)
+http://181.78.85.53:9002/play/a002/index.m3u8
+#EXTINF:-1,HBO HD (ESP)
+http://181.78.85.53:9002/play/a023/index.m3u8
+#EXTINF:-1,HBO POP HD (ESP)
+http://181.78.85.53:9002/play/a00a/index.m3u8
+#EXTINF:-1,HBO XTREME HD (ESP)
+http://181.78.85.53:9002/play/a00d/index.m3u8
