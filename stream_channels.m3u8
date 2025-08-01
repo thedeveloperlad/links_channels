@@ -91,8 +91,8 @@ http://190.92.10.66:4000/play/a005/index.m3u8
 https://livevideo.tegnadigital.com/kfmb/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KFMB/elvs/live.m3u8
 #EXTINF:-1 group-title="-",Padres GAME (temporal link 720p)
 https://99a1.crackstreamslivehd.com/mlb4/tracks-v1a1/mono.m3u8?ip=177.239.38.227&token=04c04f9a753439b3effe803ca59d05b605a5520e-fa-1752923315-1752869315
-#EXTINF:-1 group-title="-",Xolos GAME (temporal link 720p)
-https://rwo1.dbcast.live/DF3UKvUpIklp2hDomHrskg/1754047574/323830363a3235303a3132303a636237663a313861643a626564633a663663303a36656166/ff440/playlist.m3u8?b=1
+#EXTINF:-1 group-title="-",Xolos GAME temp
+https://rwo2.dbcast.live/jkAbBWMcSbsL9EMhPbkleA/1754047386/323830363a3235303a3132303a636237663a313861643a626564633a663663303a36656166/ff440/playlist.m3u8?b=1
 
 #EXTINF:-1 tvg-id="I469.111046.zap2it.com" tvg-name="TYC SPORTS" tvg-logo="https://app.newtvmx.com/Imagenes/LOGOTIPOS/DEPORTES/tycsports.png" group-title="⚽ DEPORTES",TYC SPORTS
 http://new-tv.cloud:25461/Emmanuel2/HGXFUyKv7gUN/690016
