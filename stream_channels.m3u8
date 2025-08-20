@@ -21,6 +21,12 @@ http://181.10.123.154:14000/play/a05c/index.m3u8
 http://181.10.123.154:14000/play/a02t/index.m3u8
 #EXTINF:-1 group-title="Argentina",Fox Sports HD ARG
 http://181.10.123.154:14000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="Argentina",Fox Sports 2 HD
+http://143.0.67.77:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="Argentina",Fox Sports 3 HD
+http://143.0.67.77:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="Argentina",Fox Sports HD
+http://143.0.67.77:8000/play/a07j/index.m3u8
 #EXTINF:-1 group-title="Argentina",ESPN 2 HD
 http://181.10.123.154:14000/play/a059/index.m3u8
 #EXTINF:-1 group-title="Argentina",ESPN 3 HD
