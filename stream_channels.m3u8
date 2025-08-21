@@ -1,20 +1,50 @@
 #EXTM3U
-#EXTINF:-1 group-title="-",ESPN 1 SRT SUR
-http://45.68.35.218:4001/play/a02t/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2 SRT SUR
-http://45.68.35.218:4001/play/a02u/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 3 SRT SUR
-http://45.68.35.218:4001/play/a02v/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 4 SRT SUR
-http://45.68.35.218:4001/play/a02w/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 5 SRT SUR
-http://45.68.35.218:4001/play/a02x/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 6 SRT SUR
-http://45.68.35.218:4001/play/a02y/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 7 SRT SUR
-http://45.68.35.218:4001/play/a02z/index.m3u8
-#EXTINF:-1 group-title="-",ESPN DEPORTES USA
-http://45.68.35.218:4001/play/a015/index.m3u8
+#EXTINF:-1 group-title="Colombia",ESPN
+http://45.181.206.7:10000/play/a0rb
+#EXTINF:-1 group-title="Colombia",ESPN 2 HD
+http://45.181.206.7:10000/play/a0pl
+#EXTINF:-1 group-title="Colombia",ESPN 2 HD
+http://45.181.206.7:10000/play/a0q3
+#EXTINF:-1 group-title="Colombia",ESPN 2 HD
+http://45.181.206.7:10000/play/a0ir
+#EXTINF:-1 group-title="Colombia",ESPN 3
+http://45.181.206.7:10000/play/a0ie
+#EXTINF:-1 group-title="Colombia",ESPN 3 HD
+http://45.181.206.7:10000/play/a0o7
+#EXTINF:-1 group-title="Colombia",ESPN 3 HD
+http://45.181.206.7:10000/play/a0ip
+#EXTINF:-1 group-title="Colombia",ESPN 4
+http://45.181.206.7:10000/play/a0id
+#EXTINF:-1 group-title="Colombia",ESPN 4HD
+http://45.181.206.7:10000/play/a0pg
+#EXTINF:-1 group-title="Colombia",ESPN 4HD
+http://45.181.206.7:10000/play/a0io
+#EXTINF:-1 group-title="Colombia",ESPN 5HD
+http://45.181.206.7:10000/play/a0q0
+#EXTINF:-1 group-title="Colombia",ESPN 5HD
+http://45.181.206.7:10000/play/a0o0
+#EXTINF:-1 group-title="Colombia",ESPN 6
+http://45.181.206.7:10000/play/a0ic
+#EXTINF:-1 group-title="Colombia",ESPN 6HD
+http://45.181.206.7:10000/play/a0nu
+#EXTINF:-1 group-title="Colombia",ESPN 6HD
+http://45.181.206.7:10000/play/a0iq
+#EXTINF:-1 group-title="Colombia",ESPN 7
+http://45.181.206.7:10000/play/a0kp
+#EXTINF:-1 group-title="Colombia",ESPN 7HD
+http://45.181.206.7:10000/play/a0p8
+#EXTINF:-1 group-title="-Colombia",ESPN HD
+http://45.181.206.7:10000/play/a0pf
+#EXTINF:-1 group-title="Colombia",ESPN HD
+http://45.181.206.7:10000/play/a0q7
+#EXTINF:-1 group-title="Colombia",ESPN HD
+http://45.181.206.7:10000/play/a0iu
+#EXTINF:-1 group-title="Colombia",ESPN Premium HD
+http://45.181.206.7:10000/play/a0iy
+#EXTINF:-1 group-title="Tubi", FOX
+https://aegis-cloudfront-1.tubi.video/cb1aab3f-2082-4ee1-a55e-25b817aefb14/index_1.m3u8
+#EXTINF:-1 group-title="Tubi", FOX Tubi
+https://apollo.production-public.tubi.io/live/fox-en-tubi-dai-iVfxRy/1280x720.m3u8?ap.debug=0&ap.fb=aHR0cHM6Ly9saXZlLW1hbmlmZXN0LnByb2R1Y3Rpb24tcHVibGljLnR1YmkuaW8vbGl2ZS9iZWRkNmNjZS1mZDAwLTQ5YTYtYWRjNS1lMTIzNDYxNmZjNzEvcGxheWxpc3QubTN1OD90b2tlbj1leUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIzVnVkSEo1SWpvaVRWZ2lMQ0prWlhacFkyVmZhV1FpT2lJMk16bGpaRGt6T1Mwek1UWTRMVFJoTldNdFlXVXhZUzFoWmpkallXTmpNREE1TWpFaUxDSmxlSEFpT2pFM05UWXdOelV3TVRrc0ltbHpjeUk2SW14cGRtVmZibVYzYzE5dFlXNXBabVZ6ZENJc0luQnNZWFJtYjNKdElqb2lWMFZDSWl3aWNuTnpJam9pY21NNmFIUjBjSE02THk5aFpXZHBjeTFqYkc5MVpHWnliMjUwTFRFdWRIVmlhUzUyYVdSbGJ5ODVPRE15TUdSaE5pMHpaREppTFRRek5tRXRPREkxT0MxbU9XUTVaRGhsWkdZME9Ua3ZjR3hoZVd4cGMzUXViVE4xT0NJc0luVnpaWEpmYVdRaU9qQjkuOHZRNHE4Y1o2TG4tZExGaWFmQWZ6dG9OOGxZaDhCbmgxY1B6YVBTOUVzWGt1UnVWMzJZSmtZRmN5SmZaX1pnQWJvZEJzQS1uU3o1dnFwaGJlVWgyS1EmdGIuc2lkPWYwZmYyMzcyLTdkYTItNGNjMi1hYmY4LTM4NmZiNTRjYWQ5OA&ap.furl=0&ap.pt=2&ap.sid=f3e95500-7851-4bae-a038-77bfe6fe0a63&ap.skip_fallback=0&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=400000122&content_type=mp4&device_id=639cd939-3168-4a5c-ae1a-af7cacc00921&language=en&now_pos=0&platform=WEB&playback_start_ts=1755815958&pub_id=21f12146acbab325bb229e55010b88c3&tb.sid=43297bc8-4457-4e95-851a-7eb9592e473d&vpaid_enabled=false&ap.c=Cohort-2&ap.ss=fa03447a5935a683686746d76521ccc0
 #EXTINF:-1 group-title="Argentina",Fox Sports 2 HD ARG
 http://181.10.123.154:14000/play/a05c/index.m3u8
 #EXTINF:-1 group-title="Argentina",Fox Sports 3 HD ARG
@@ -67,6 +97,7 @@ http://45.68.35.218:4001/play/a00x/index.m3u8
 http://190.217.23.56:1010/play/a0eg/index.m3u8
 #EXTINF:-1 group-title="-",Win Sports+ HD
 http://190.217.23.56:1010/play/a0et/index.m3u8
+/****/
 #EXTINF:-1,4k TEST
 http://190.92.10.66:4000/play/a00a/index.m3u8
 #EXTINF:-1,AZTECA 7 HD
