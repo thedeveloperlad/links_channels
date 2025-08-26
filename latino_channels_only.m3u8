@@ -125,3 +125,29 @@ http://190.56.9.114:8000/play/a03k/index.m3u8
 /** http://190.56.9.114:8000/play/a02u/index.m3u8 **/
 #EXTINF:11,WARNER TV
 http://190.56.9.114:8000/play/a05q/index.m3u8
+
+/* August 26, 2025*/
+#EXTINF:-1 group-title="-",FX Movies HD
+http://200.12.41.194:8000/play/a0gx/index.m3u8
+#EXTINF:-1 group-title="-",HBO Family HD
+http://200.12.41.194:8000/play/a0l5/index.m3u8
+#EXTINF:-1 group-title="-",HBO HD
+http://200.12.41.194:8000/play/a0l2/index.m3u8
+#EXTINF:-1 group-title="-",HBO Plus HD
+http://200.12.41.194:8000/play/a0l4/index.m3u8
+#EXTINF:-1 group-title="-",HBO XTREME HD
+http://200.12.41.194:8000/play/a0l6/index.m3u8
+#EXTINF:-1 group-title="-",HBO2 HD
+http://200.12.41.194:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="-",TNT HD
+http://200.12.41.194:8000/play/a0hu/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL CINEMA HD
+http://200.12.41.194:8000/play/a0kt/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL COMEDY HD
+http://200.12.41.194:8000/play/a0i5/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL CRIME HD
+http://200.12.41.194:8000/play/a0i4/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL PREMIERE HD
+http://200.12.41.194:8000/play/a0i1/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL REALITY HD
+http://200.12.41.194:8000/play/a0i3/index.m3u8
