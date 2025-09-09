@@ -126,31 +126,17 @@ http://190.56.9.114:8000/play/a03k/index.m3u8
 #EXTINF:11,WARNER TV
 http://190.56.9.114:8000/play/a05q/index.m3u8
 
-/* August 26, 2025*/
-#EXTINF:-1,FX Movies HD
-http://200.12.41.194:8000/play/a0gx/index.m3u8
-#EXTINF:-1,HBO Family HD
-http://200.12.41.194:8000/play/a0l5/index.m3u8
-#EXTINF:-1,HBO HD
-http://200.12.41.194:8000/play/a0l2/index.m3u8
-#EXTINF:-1,HBO Plus HD
-http://200.12.41.194:8000/play/a0l4/index.m3u8
-#EXTINF:-1,HBO XTREME HD
-http://200.12.41.194:8000/play/a0l6/index.m3u8
-#EXTINF:-1,HBO2 HD
-http://200.12.41.194:8000/play/a00c/index.m3u8
-#EXTINF:-1,TNT HD
-http://200.12.41.194:8000/play/a0hu/index.m3u8
-#EXTINF:-1,UNIVERSAL CINEMA HD
-http://200.12.41.194:8000/play/a0kt/index.m3u8
-#EXTINF:-1,UNIVERSAL COMEDY HD
-http://200.12.41.194:8000/play/a0i5/index.m3u8
-#EXTINF:-1,UNIVERSAL CRIME HD
-http://200.12.41.194:8000/play/a0i4/index.m3u8
-#EXTINF:-1 group-title="-",UNIVERSAL PREMIERE HD
-http://200.12.41.194:8000/play/a0i1/index.m3u8
-#EXTINF:-1 group-title="-",UNIVERSAL REALITY HD
-http://200.12.41.194:8000/play/a0i3/index.m3u8
+/* September 8, 2025*/
+#EXTINF:-1,065 HBO Family HD
+http://190.14.10.19:16000/play/a043/index.m3u8
+#EXTINF:-1,066 HBO HD
+http://190.14.10.19:16000/play/a040/index.m3u8
+#EXTINF:-1,067 HBO Plus HD
+http://190.14.10.19:16000/play/a042/index.m3u8
+#EXTINF:-1,068 HBO XTREME HD
+http://190.14.10.19:16000/play/a08k/index.m3u8
+#EXTINF:-1,069 HBO2 HD
+http://190.14.10.19:16000/play/a041/index.m3u8
 
 /* September 3, 2025*/
 #EXTINF:11,ESPN
