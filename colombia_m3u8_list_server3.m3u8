@@ -5,633 +5,629 @@ ISP: Ufinet Colombia S. A.
 25 August 2025
 */
 #EXTM3U
-#EXTINF:-1 group-title="-",3ABN
+#EXTINF:-1 group-title="Colombia",3ABN
 http://190.61.55.34:2401/play/a02o/index.m3u8
-#EXTINF:-1 group-title="-",ABN
+#EXTINF:-1 group-title="Colombia",ABN
 http://190.61.55.34:2401/play/a02a/index.m3u8
-#EXTINF:-1 group-title="-",AE Mundo
+#EXTINF:-1 group-title="Colombia",AE Mundo
 http://190.61.55.34:2401/play/a011/index.m3u8
-#EXTINF:-1 group-title="-",AMC
+#EXTINF:-1 group-title="Colombia",AMC
 http://190.61.55.34:2401/play/a027/index.m3u8
-#EXTINF:-1 group-title="-",AMC HD
+#EXTINF:-1 group-title="Colombia",AMC HD
 http://190.61.55.34:2401/play/a050/index.m3u8
-#EXTINF:-1 group-title="-",ATRES SERIES HD
+#EXTINF:-1 group-title="Colombia",ATRES SERIES HD
 http://190.61.55.34:2401/play/a065/index.m3u8
-#EXTINF:-1 group-title="-",AXN
+#EXTINF:-1 group-title="Colombia",AXN
 http://190.61.55.34:2401/play/a00e/index.m3u8
-#EXTINF:-1 group-title="-",AZ-CINEMA
+#EXTINF:-1 group-title="Colombia",AZ-CINEMA
 http://190.61.55.34:2401/play/a06l/index.m3u8
-#EXTINF:-1 group-title="-",AZ-CLICK
+#EXTINF:-1 group-title="Colombia",AZ-CLICK
 http://190.61.55.34:2401/play/a06o/index.m3u8
-#EXTINF:-1 group-title="-",AZ-CORAZON
+#EXTINF:-1 group-title="Colombia",AZ-CORAZON
 http://190.61.55.34:2401/play/a06p/index.m3u8
-#EXTINF:-1 group-title="-",AZ-DEPORTES
+#EXTINF:-1 group-title="Colombia",AZ-DEPORTES
 http://190.61.55.34:2401/play/a06q/index.m3u8
-#EXTINF:-1 group-title="-",Animal Planet
+#EXTINF:-1 group-title="Colombia",Animal Planet
 http://190.61.55.34:2401/play/a00x/index.m3u8
-#EXTINF:-1 group-title="-",BANDA MAX
+#EXTINF:-1 group-title="Colombia",BANDA MAX
 http://190.61.55.34:2401/play/a06m/index.m3u8
-#EXTINF:-1 group-title="-",BITME
+#EXTINF:-1 group-title="Colombia",BITME
 http://190.61.55.34:2401/play/a06n/index.m3u8
-#EXTINF:-1 group-title="-",BabyFirst
+#EXTINF:-1 group-title="Colombia",BabyFirst
 http://190.61.55.34:2401/play/a01r/index.m3u8
-#EXTINF:-1 group-title="-",CABLE NOTICIAS
+#EXTINF:-1 group-title="Colombia",CABLE NOTICIAS
 http://190.61.55.34:2401/play/a02h/index.m3u8
-#EXTINF:-1 group-title="-",CANAL 13
+#EXTINF:-1 group-title="Colombia",CANAL 13
 http://190.61.55.34:2401/play/a006/index.m3u8
-#EXTINF:-1 group-title="-",CANAL CAPITAL
+#EXTINF:-1 group-title="Colombia",CANAL CAPITAL
 http://190.61.55.34:2401/play/a005/index.m3u8
-#EXTINF:-1 group-title="-",CANAL INSTITUCIONAL
+#EXTINF:-1 group-title="Colombia",CANAL INSTITUCIONAL
 http://190.61.55.34:2401/play/a002/index.m3u8
-#EXTINF:-1 group-title="-",CANAL UNO
+#EXTINF:-1 group-title="Colombia",CANAL UNO
 http://190.61.55.34:2401/play/a001/index.m3u8
-#EXTINF:-1 group-title="-",CARACOL HD
+#EXTINF:-1 group-title="Colombia",CARACOL HD
 http://190.61.55.34:2401/play/a021/index.m3u8
-#EXTINF:-1 group-title="-",CARACOLHD
+#EXTINF:-1 group-title="Colombia",CARACOLHD
 http://190.61.55.34:2401/play/a02q/index.m3u8
-#EXTINF:-1 group-title="-",CAYENA TV
+#EXTINF:-1 group-title="Colombia",CAYENA TV
 http://190.61.55.34:2401/play/a022/index.m3u8
-#EXTINF:-1 group-title="-",CIUDAD MAGAZINE
+#EXTINF:-1 group-title="Colombia",CIUDAD MAGAZINE
 http://190.61.55.34:2401/play/a02b/index.m3u8
-#EXTINF:-1 group-title="-",CNN Espanol
+#EXTINF:-1 group-title="Colombia",CNN Espanol
 http://190.61.55.34:2401/play/a017/index.m3u8
-#EXTINF:-1 group-title="-",Canal Estrellas
+#EXTINF:-1 group-title="Colombia",Canal Estrellas
 http://190.61.55.34:2401/play/a014/index.m3u8
-#EXTINF:-1 group-title="-",Canal del Congreso
+#EXTINF:-1 group-title="Colombia",Canal del Congreso
 http://190.61.55.34:2401/play/a069/index.m3u8
-#EXTINF:-1 group-title="-",Caracol HD
+#EXTINF:-1 group-title="Colombia",Caracol HD
 http://190.61.55.34:2401/play/a04c/index.m3u8
-#EXTINF:-1 group-title="-",Cartoon Network
+#EXTINF:-1 group-title="Colombia",Cartoon Network
 http://190.61.55.34:2401/play/a01o/index.m3u8
-#EXTINF:-1 group-title="-",Cartoonito
+#EXTINF:-1 group-title="Colombia",Cartoonito
 http://190.61.55.34:2401/play/a066/index.m3u8
-#EXTINF:-1 group-title="-",Cinecanal
+#EXTINF:-1 group-title="Colombia",Cinecanal
 http://190.61.55.34:2401/play/a01i/index.m3u8
-#EXTINF:-1 group-title="-",Cinecanal HD
+#EXTINF:-1 group-title="Colombia",Cinecanal HD
 http://190.61.55.34:2401/play/a06d/index.m3u8
-#EXTINF:-1 group-title="-",Cinemax
+#EXTINF:-1 group-title="Colombia",Cinemax
 http://190.61.55.34:2401/play/a00c/index.m3u8
-#EXTINF:-1 group-title="-",City TV
+#EXTINF:-1 group-title="Colombia",City TV
 http://190.61.55.34:2401/play/a00n/index.m3u8
-#EXTINF:-1 group-title="-",Comedy Central HD
+#EXTINF:-1 group-title="Colombia",Comedy Central HD
 http://190.61.55.34:2401/play/a04w/index.m3u8
-#EXTINF:-1 group-title="-",D Peliculas
+#EXTINF:-1 group-title="Colombia",D Peliculas
 http://190.61.55.34:2401/play/a02n/index.m3u8
-#EXTINF:-1 group-title="-",DHE HD
+#EXTINF:-1 group-title="Colombia",DHE HD
 http://190.61.55.34:2401/play/a05p/index.m3u8
-#EXTINF:-1 group-title="-",DW ESPANOL
+#EXTINF:-1 group-title="Colombia",DW ESPANOL
 http://190.61.55.34:2401/play/a02v/index.m3u8
-#EXTINF:-1 group-title="-",De PelŦcula
+#EXTINF:-1 group-title="Colombia",De PelŦcula
 http://190.61.55.34:2401/play/a04s/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Channel
+#EXTINF:-1 group-title="Colombia",Discovery Channel
 http://190.61.55.34:2401/play/a00w/index.m3u8
-#EXTINF:-1 group-title="-",Discovery ID
+#EXTINF:-1 group-title="Colombia",Discovery ID
 http://190.61.55.34:2401/play/a00p/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Kids
+#EXTINF:-1 group-title="Colombia",Discovery Kids
 http://190.61.55.34:2401/play/a016/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Science
+#EXTINF:-1 group-title="Colombia",Discovery Science
 http://190.61.55.34:2401/play/a02k/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Theater HD
+#EXTINF:-1 group-title="Colombia",Discovery Theater HD
 http://190.61.55.34:2401/play/a04e/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Turbo
+#EXTINF:-1 group-title="Colombia",Discovery Turbo
 http://190.61.55.34:2401/play/a00i/index.m3u8
-#EXTINF:-1 group-title="-",Discovery World HD
+#EXTINF:-1 group-title="Colombia",Discovery World HD
 http://190.61.55.34:2401/play/a05w/index.m3u8
-#EXTINF:-1 group-title="-",Disney Channel
+#EXTINF:-1 group-title="Colombia",Disney Channel
 http://190.61.55.34:2401/play/a00v/index.m3u8
-#EXTINF:-1 group-title="-",Disney Jr
+#EXTINF:-1 group-title="Colombia",Disney Jr
 http://190.61.55.34:2401/play/a01a/index.m3u8
-#EXTINF:-1 group-title="-",E Entertainment
+#EXTINF:-1 group-title="Colombia",E Entertainment
 http://190.61.55.34:2401/play/a00z/index.m3u8
-#EXTINF:-1 group-title="-",ESPN
+#EXTINF:-1 group-title="Colombia",ESPN
 http://190.61.55.34:2401/play/a010/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2
+#EXTINF:-1 group-title="Colombia",ESPN 2
 http://190.61.55.34:2401/play/a02j/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2 HD
+#EXTINF:-1 group-title="Colombia",ESPN 2 HD
 http://190.61.55.34:2401/play/a03d/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 3 HD
+#EXTINF:-1 group-title="Colombia",ESPN 3 HD
 http://190.61.55.34:2401/play/a03x/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 4HD
+#EXTINF:-1 group-title="Colombia",ESPN 4HD
 http://190.61.55.34:2401/play/a049/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 5
+#EXTINF:-1 group-title="Colombia",ESPN 5
 http://190.61.55.34:2401/play/a06i/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 5 HD
+#EXTINF:-1 group-title="Colombia",ESPN 5 HD
 http://190.61.55.34:2401/play/a01v/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 5HD
+#EXTINF:-1 group-title="Colombia",ESPN 5HD
 http://190.61.55.34:2401/play/a05s/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 6 HD
+#EXTINF:-1 group-title="Colombia",ESPN 6 HD
 http://190.61.55.34:2401/play/a01w/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 6HD
+#EXTINF:-1 group-title="Colombia",ESPN 6HD
 http://190.61.55.34:2401/play/a03c/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 7 HD
+#EXTINF:-1 group-title="Colombia",ESPN 7 HD
 http://190.61.55.34:2401/play/a01x/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 7HD
+#EXTINF:-1 group-title="Colombia",ESPN 7HD
 http://190.61.55.34:2401/play/a05a/index.m3u8
-#EXTINF:-1 group-title="-",ESPN CO
+#EXTINF:-1 group-title="Colombia",ESPN CO
 http://190.61.55.34:2401/play/a00k/index.m3u8
-#EXTINF:-1 group-title="-",ESPN HD
+#EXTINF:-1 group-title="Colombia",ESPN HD
 http://190.61.55.34:2401/play/a04f/index.m3u8
-#EXTINF:-1 group-title="-",EURO CHANNEL
+#EXTINF:-1 group-title="Colombia",EURO CHANNEL
 http://190.61.55.34:2401/play/a025/index.m3u8
-#EXTINF:-1 group-title="-",EWTN
+#EXTINF:-1 group-title="Colombia",EWTN
 http://190.61.55.34:2401/play/a067/index.m3u8
-#EXTINF:-1 group-title="-",EWTN
+#EXTINF:-1 group-title="Colombia",EWTN
 http://190.61.55.34:2401/play/a02i/index.m3u8
-#EXTINF:-1 group-title="-",El Gourmet HD
+#EXTINF:-1 group-title="Colombia",El Gourmet HD
 http://190.61.55.34:2401/play/a04x/index.m3u8
-#EXTINF:-1 group-title="-",Enlace
+#EXTINF:-1 group-title="Colombia",Enlace
 http://190.61.55.34:2401/play/a01q/index.m3u8
-#EXTINF:-1 group-title="-",Esne TV
+#EXTINF:-1 group-title="Colombia",Esne TV
 http://190.61.55.34:2401/play/a00j/index.m3u8
-#EXTINF:-1 group-title="-",FX
+#EXTINF:-1 group-title="Colombia",FX
 http://190.61.55.34:2401/play/a00g/index.m3u8
-#EXTINF:-1 group-title="-",Film&Arts
+#EXTINF:-1 group-title="Colombia",Film&Arts
 http://190.61.55.34:2401/play/a061/index.m3u8
-#EXTINF:-1 group-title="-",Food Network HD
+#EXTINF:-1 group-title="Colombia",Food Network HD
 http://190.61.55.34:2401/play/a063/index.m3u8
-#EXTINF:-1 group-title="-",Golden Edge
+#EXTINF:-1 group-title="Colombia",Golden Edge
 http://190.61.55.34:2401/play/a04r/index.m3u8
-#EXTINF:-1 group-title="-",HTV
+#EXTINF:-1 group-title="Colombia",HTV
 http://190.61.55.34:2401/play/a02m/index.m3u8
-#EXTINF:-1 group-title="-",History 2
+#EXTINF:-1 group-title="Colombia",History 2
 http://190.61.55.34:2401/play/a060/index.m3u8
-#EXTINF:-1 group-title="-",History Channel
+#EXTINF:-1 group-title="Colombia",History Channel
 http://190.61.55.34:2401/play/a01hi/index.m3u8
-#EXTINF:-1 group-title="-",HomeandHealth
+#EXTINF:-1 group-title="Colombia",HomeandHealth
 http://190.61.55.34:2401/play/a00r/index.m3u8
-#EXTINF:-1 group-title="-",Kanal D Drama
+#EXTINF:-1 group-title="Colombia",Kanal D Drama
 http://190.61.55.34:2401/play/a05e/index.m3u8
-#EXTINF:-1 group-title="-",Lifetime
+#EXTINF:-1 group-title="Colombia",Lifetime
 http://190.61.55.34:2401/play/a01s/index.m3u8
-#EXTINF:-1 group-title="-",MTV
+#EXTINF:-1 group-title="Colombia",MTV
 http://190.61.55.34:2401/play/a01k/index.m3u8
-#EXTINF:-1 group-title="-",MTV 00s HD
+#EXTINF:-1 group-title="Colombia",MTV 00s HD
 http://190.61.55.34:2401/play/a064/index.m3u8
-#EXTINF:-1 group-title="-",MTV HD
+#EXTINF:-1 group-title="Colombia",MTV HD
 http://190.61.55.34:2401/play/a051/index.m3u8
-#EXTINF:-1 group-title="-",MTV LIVE HD
+#EXTINF:-1 group-title="Colombia",MTV LIVE HD
 http://190.61.55.34:2401/play/a05v/index.m3u8
-#EXTINF:-1 group-title="-",Nat Geo
+#EXTINF:-1 group-title="Colombia",Nat Geo
 http://190.61.55.34:2401/play/a01g/index.m3u8
-#EXTINF:-1 group-title="-",Nick Jr
+#EXTINF:-1 group-title="Colombia",Nick Jr
 http://190.61.55.34:2401/play/a00h/index.m3u8
-#EXTINF:-1 group-title="-",Nickelodeon
+#EXTINF:-1 group-title="Colombia",Nickelodeon
 http://190.61.55.34:2401/play/a01f/index.m3u8
-#EXTINF:-1 group-title="-",PARAMOUNT HD
+#EXTINF:-1 group-title="Colombia",PARAMOUNT HD
 http://190.61.55.34:2401/play/a02f/index.m3u8
-#EXTINF:-1 group-title="-",PASIONES
+#EXTINF:-1 group-title="Colombia",PASIONES
 http://190.61.55.34:2401/play/a029/index.m3u8
-#EXTINF:-1 group-title="-",PRUEBA-SRT-BACKUP-CH
+#EXTINF:-1 group-title="Colombia",PRUEBA-SRT-BACKUP-CH
 http://190.61.55.34:2401/play/a06j/index.m3u8
-#EXTINF:-1 group-title="-",Pasiones HD
+#EXTINF:-1 group-title="Colombia",Pasiones HD
 http://190.61.55.34:2401/play/a05o/index.m3u8
-#EXTINF:-1 group-title="-",RCN
+#EXTINF:-1 group-title="Colombia",RCN
 http://190.61.55.34:2401/play/a023/index.m3u8
-#EXTINF:-1 group-title="-",RCN
+#EXTINF:-1 group-title="Colombia",RCN
 http://190.61.55.34:2401/play/a06c/index.m3u8
-#EXTINF:-1 group-title="-",RCN HD
+#EXTINF:-1 group-title="Colombia",RCN HD
 http://190.61.55.34:2401/play/a04b/index.m3u8
-#EXTINF:-1 group-title="-",RCN Novelas
+#EXTINF:-1 group-title="Colombia",RCN Novelas
 http://190.61.55.34:2401/play/a00o/index.m3u8
-#EXTINF:-1 group-title="-",RUMBA TV
+#EXTINF:-1 group-title="Colombia",RUMBA TV
 http://190.61.55.34:2401/play/a02g/index.m3u8
-#EXTINF:-1 group-title="-",SENAL COLOMBIA
+#EXTINF:-1 group-title="Colombia",SENAL COLOMBIA
 http://190.61.55.34:2401/play/a003/index.m3u8
-#EXTINF:-1 group-title="-",STAR CHANNEL
+#EXTINF:-1 group-title="Colombia",STAR CHANNEL
 http://190.61.55.34:2401/play/a01m/index.m3u8
-#EXTINF:-1 group-title="-",Sony
+#EXTINF:-1 group-title="Colombia",Sony
 http://190.61.55.34:2401/play/a00d/index.m3u8
-#EXTINF:-1 group-title="-",Sony HD
+#EXTINF:-1 group-title="Colombia",Sony HD
 http://190.61.55.34:2401/play/a05t/index.m3u8
-#EXTINF:-1 group-title="-",Space
+#EXTINF:-1 group-title="Colombia",Space
 http://190.61.55.34:2401/play/a00f/index.m3u8
-#EXTINF:-1 group-title="-",Studio Universal
+#EXTINF:-1 group-title="Colombia",Studio Universal
 http://190.61.55.34:2401/play/a01b/index.m3u8
-#EXTINF:-1 group-title="-",TCM
+#EXTINF:-1 group-title="Colombia",TCM
 http://190.61.55.34:2401/play/a01n/index.m3u8
-#EXTINF:-1 group-title="-",TELE NOVELAS
+#EXTINF:-1 group-title="Colombia",TELE NOVELAS
 http://190.61.55.34:2401/play/a02e/index.m3u8
-#EXTINF:-1 group-title="-",TELE VID
+#EXTINF:-1 group-title="Colombia",TELE VID
 http://190.61.55.34:2401/play/a02p/index.m3u8
-#EXTINF:-1 group-title="-",TELEANTIOQUIA
+#EXTINF:-1 group-title="Colombia",TELEANTIOQUIA
 http://190.61.55.34:2401/play/a007/index.m3u8
-#EXTINF:-1 group-title="-",TELECAFE
+#EXTINF:-1 group-title="Colombia",TELECAFE
 http://190.61.55.34:2401/play/a00a/index.m3u8
-#EXTINF:-1 group-title="-",TELECARIBE
+#EXTINF:-1 group-title="Colombia",TELECARIBE
 http://190.61.55.34:2401/play/a008/index.m3u8
-#EXTINF:-1 group-title="-",TELEHIT MUSICA
+#EXTINF:-1 group-title="Colombia",TELEHIT MUSICA
 http://190.61.55.34:2401/play/a06t/index.m3u8
-#EXTINF:-1 group-title="-",TELEPACIFICO
+#EXTINF:-1 group-title="Colombia",TELEPACIFICO
 http://190.61.55.34:2401/play/a009/index.m3u8
-#EXTINF:-1 group-title="-",TLC
+#EXTINF:-1 group-title="Colombia",TLC
 http://190.61.55.34:2401/play/a012/index.m3u8
-#EXTINF:-1 group-title="-",TLN
+#EXTINF:-1 group-title="Colombia",TLN
 http://190.61.55.34:2401/play/a026/index.m3u8
-#EXTINF:-1 group-title="-",TNT
+#EXTINF:-1 group-title="Colombia",TNT
 http://190.61.55.34:2401/play/a01p/index.m3u8
-#EXTINF:-1 group-title="-",TNT HD
+#EXTINF:-1 group-title="Colombia",TNT HD
 http://190.61.55.34:2401/play/a039/index.m3u8
-#EXTINF:-1 group-title="-",TNT Novelas
+#EXTINF:-1 group-title="Colombia",TNT Novelas
 http://190.61.55.34:2401/play/a00q/index.m3u8
-#EXTINF:-1 group-title="-",TNT SERIES HD
+#EXTINF:-1 group-title="Colombia",TNT SERIES HD
 http://190.61.55.34:2401/play/a024/index.m3u8
-#EXTINF:-1 group-title="-",TNT Series HD
+#EXTINF:-1 group-title="Colombia",TNT Series HD
 http://190.61.55.34:2401/play/a05l/index.m3u8
-#EXTINF:-1 group-title="-",TOONCAST
+#EXTINF:-1 group-title="Colombia",TOONCAST
 http://190.61.55.34:2401/play/a02c/index.m3u8
-#EXTINF:-1 group-title="-",TRO
+#EXTINF:-1 group-title="Colombia",TRO
 http://190.61.55.34:2401/play/a00b/index.m3u8
-#EXTINF:-1 group-title="-",TV AGRO
+#EXTINF:-1 group-title="Colombia",TV AGRO
 http://190.61.55.34:2401/play/a028/index.m3u8
-#EXTINF:-1 group-title="-",TVE
+#EXTINF:-1 group-title="Colombia",TVE
 http://190.61.55.34:2401/play/a02t/index.m3u8
-#EXTINF:-1 group-title="-",Tele Vid
+#EXTINF:-1 group-title="Colombia",Tele Vid
 http://190.61.55.34:2401/play/a06f/index.m3u8
-#EXTINF:-1 group-title="-",Teleislas
+#EXTINF:-1 group-title="Colombia",Teleislas
 http://190.61.55.34:2401/play/a00m/index.m3u8
-#EXTINF:-1 group-title="-",Telemundo
+#EXTINF:-1 group-title="Colombia",Telemundo
 http://190.61.55.34:2401/play/a015/index.m3u8
-#EXTINF:-1 group-title="-",Telenovelas
+#EXTINF:-1 group-title="Colombia",Telenovelas
 http://190.61.55.34:2401/play/a062/index.m3u8
-#EXTINF:-1 group-title="-",UNIVERSAL CHANNEL HD
+#EXTINF:-1 group-title="Colombia",UNIVERSAL CHANNEL HD
 http://190.61.55.34:2401/play/a05u/index.m3u8
-#EXTINF:-1 group-title="-",USA SD
+#EXTINF:-1 group-title="Colombia",USA SD
 http://190.61.55.34:2401/play/a01t/index.m3u8
-#EXTINF:-1 group-title="-",Universal
+#EXTINF:-1 group-title="Colombia",Universal
 http://190.61.55.34:2401/play/a01j/index.m3u8
-#EXTINF:-1 group-title="-",Universal Cinema SD
+#EXTINF:-1 group-title="Colombia",Universal Cinema SD
 http://190.61.55.34:2401/play/a01d/index.m3u8
-#EXTINF:-1 group-title="-",Universal Comedy SD
+#EXTINF:-1 group-title="Colombia",Universal Comedy SD
 http://190.61.55.34:2401/play/a01e/index.m3u8
-#EXTINF:-1 group-title="-",Universal Premiere SD
+#EXTINF:-1 group-title="Colombia",Universal Premiere SD
 http://190.61.55.34:2401/play/a01c/index.m3u8
-#EXTINF:-1 group-title="-",ViaX
+#EXTINF:-1 group-title="Colombia",ViaX
 http://190.61.55.34:2401/play/a013/index.m3u8
-#EXTINF:-1 group-title="-",WIN SPORT HD
+#EXTINF:-1 group-title="Colombia",WIN SPORT HD
 http://190.61.55.34:2401/play/win/index.m3u8
-#EXTINF:-1 group-title="-",Warner
+#EXTINF:-1 group-title="Colombia",Warner
 http://190.61.55.34:2401/play/a00y/index.m3u8
-#EXTINF:-1 group-title="-",Warner Channel HD
+#EXTINF:-1 group-title="Colombia",Warner Channel HD
 http://190.61.55.34:2401/play/a06e/index.m3u8
-#EXTINF:-1 group-title="-",Zona Latina
+#EXTINF:-1 group-title="Colombia",Zona Latina
 http://190.61.55.34:2401/play/a01l/index.m3u8
-#EXTINF:-1 group-title="-",Zoom
+#EXTINF:-1 group-title="Colombia",Zoom
 http://190.61.55.34:2401/play/a00l/index.m3u8
-#EXTINF:-1 group-title="-",adultsw
+#EXTINF:-1 group-title="Colombia",adultsw
 http://190.61.55.34:2401/play/a02d/index.m3u8
 
 
 /**** Abril 20, 2025 ***/
 /** Venezuela **/
 /* 
-Astra Venezuela
-Country: Venezuela
-Organization: AS394684 GOLD DATA USA INC
-ISP: Gold Data C.A.
-17 September 2025
+17/09/2025
 */
 #EXTM3U
-#EXTINF:-1,123 TV
+#EXTINF:-1 group-title="Venezuela",123 TV
 http://190.52.105.146:8000/play/a04n/index.m3u8
-#EXTINF:-1,A&E HD
+#EXTINF:-1 group-title="Venezuela",A&E HD
 http://190.52.105.146:8000/play/a0ax/index.m3u8
-#EXTINF:-1,AE Mundo
+#EXTINF:-1 group-title="Venezuela",AE Mundo
 http://190.52.105.146:8000/play/a03m/index.m3u8
-#EXTINF:-1,ALBA TV
+#EXTINF:-1 group-title="Venezuela",ALBA TV
 http://190.52.105.146:8000/play/a04o/index.m3u8
-#EXTINF:-1,AMC HD
+#EXTINF:-1 group-title="Venezuela",AMC HD
 http://190.52.105.146:8000/play/a0b9/index.m3u8
-#EXTINF:-1,AME CH 47
+#EXTINF:-1 group-title="Venezuela",AME CH 47
 http://190.52.105.146:8000/play/a067/index.m3u8
-#EXTINF:-1,ANTV
+#EXTINF:-1 group-title="Venezuela",ANTV
 http://190.52.105.146:8000/play/a04l/index.m3u8
-#EXTINF:-1,ATRES SERIES
+#EXTINF:-1 group-title="Venezuela",ATRES SERIES
 http://190.52.105.146:8000/play/a0hh/index.m3u8
-#EXTINF:-1,ATV
+#EXTINF:-1 group-title="Venezuela",ATV
 http://190.52.105.146:8000/play/a08b/index.m3u8
-#EXTINF:-1,AVILA TV
+#EXTINF:-1 group-title="Venezuela",AVILA TV
 http://190.52.105.146:8000/play/a04s/index.m3u8
-#EXTINF:-1,AXN
+#EXTINF:-1 group-title="Venezuela",AXN
 http://190.52.105.146:8000/play/a0li/index.m3u8
-#EXTINF:-1,America TV
+#EXTINF:-1 group-title="Venezuela",America TV
 http://190.52.105.146:8000/play/a089/index.m3u8
-#EXTINF:-1,America TV HD
+#EXTINF:-1 group-title="Venezuela",America TV HD
 http://190.52.105.146:8000/play/a0bo/index.m3u8
-#EXTINF:-1,Animal Planet
+#EXTINF:-1 group-title="Venezuela",Animal Planet
 http://190.52.105.146:8000/play/a0he/index.m3u8
-#EXTINF:-1,Baby First
+#EXTINF:-1 group-title="Venezuela",Baby First
 http://190.52.105.146:8000/play/a0kb/index.m3u8
-#EXTINF:-1,CANAL 9
+#EXTINF:-1 group-title="Venezuela",CANAL 9
 http://190.52.105.146:8000/play/a059/index.m3u8
-#EXTINF:-1,CANAL HABANA
+#EXTINF:-1 group-title="Venezuela",CANAL HABANA
 http://190.52.105.146:8000/play/a05h/index.m3u8
-#EXTINF:-1,CANAL I
+#EXTINF:-1 group-title="Venezuela",CANAL I
 http://190.52.105.146:8000/play/a04z/index.m3u8
-#EXTINF:-1,CANAL PUBLICO DE ARGENTINA
+#EXTINF:-1 group-title="Venezuela",CANAL PUBLICO DE ARGENTINA
 http://190.52.105.146:8000/play/a051/index.m3u8
-#EXTINF:-1,CANAL VASCO
+#EXTINF:-1 group-title="Venezuela",CANAL VASCO
 http://190.52.105.146:8000/play/a052/index.m3u8
-#EXTINF:-1,CCI CHANNEL
+#EXTINF:-1 group-title="Venezuela",CCI CHANNEL
 http://190.52.105.146:8000/play/a057/index.m3u8
-#EXTINF:-1,CCS MOVIE
+#EXTINF:-1 group-title="Venezuela",CCS MOVIE
 http://190.52.105.146:8000/play/a05b/index.m3u8
-#EXTINF:-1,CGTN
+#EXTINF:-1 group-title="Venezuela",CGTN
 http://190.52.105.146:8000/play/a04f/index.m3u8
-#EXTINF:-1,CHV HD
+#EXTINF:-1 group-title="Venezuela",CHV HD
 http://190.52.105.146:8000/play/a0fe/index.m3u8
-#EXTINF:-1,CLAVE
+#EXTINF:-1 group-title="Venezuela",CLAVE
 http://190.52.105.146:8000/play/a05f/index.m3u8
-#EXTINF:-1,COLOMBEIA
+#EXTINF:-1 group-title="Venezuela",COLOMBEIA
 http://190.52.105.146:8000/play/a04m/index.m3u8
-#EXTINF:-1,CONCIENCIA TV
+#EXTINF:-1 group-title="Venezuela",CONCIENCIA TV
 http://190.52.105.146:8000/play/a04p/index.m3u8
-#EXTINF:-1,CUBAVISION INTERNACIONAL
+#EXTINF:-1 group-title="Venezuela",CUBAVISION INTERNACIONAL
 http://190.52.105.146:8000/play/a05g/index.m3u8
-#EXTINF:-1,Canal 13 HD
+#EXTINF:-1 group-title="Venezuela",Canal 13 HD
 http://190.52.105.146:8000/play/a0gb/index.m3u8
-#EXTINF:-1,Canal 24 Horas HD
+#EXTINF:-1 group-title="Venezuela",Canal 24 Horas HD
 http://190.52.105.146:8000/play/a0hn/index.m3u8
-#EXTINF:-1,Canal Estrellas
+#EXTINF:-1 group-title="Venezuela",Canal Estrellas
 http://190.52.105.146:8000/play/a03q/index.m3u8
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 group-title="Venezuela",Cartoon Network
 http://190.52.105.146:8000/play/a0k5/index.m3u8
-#EXTINF:-1,Cinecanal
+#EXTINF:-1 group-title="Venezuela",Cinecanal
 http://190.52.105.146:8000/play/a0jy/index.m3u8
-#EXTINF:-1,Cinemax
+#EXTINF:-1 group-title="Venezuela",Cinemax
 http://190.52.105.146:8000/play/a0lg/index.m3u8
-#EXTINF:-1,Comedy Central HD
+#EXTINF:-1 group-title="Venezuela",Comedy Central HD
 http://190.52.105.146:8000/play/a0ay/index.m3u8
-#EXTINF:-1,DHE HD
+#EXTINF:-1 group-title="Venezuela",DHE HD
 http://190.52.105.146:8000/play/a0hp/index.m3u8
-#EXTINF:-1,DISCOVERY TURBO
+#EXTINF:-1 group-title="Venezuela",DISCOVERY TURBO
 http://190.52.105.146:8000/play/a05z/index.m3u8
-#EXTINF:-1,DISNEY JUNIOR
+#EXTINF:-1 group-title="Venezuela",DISNEY JUNIOR
 http://190.52.105.146:8000/play/a05x/index.m3u8
-#EXTINF:-1,DTV
+#EXTINF:-1 group-title="Venezuela",DTV
 http://190.52.105.146:8000/play/a055/index.m3u8
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1 group-title="Venezuela",Discovery Channel
 http://190.52.105.146:8000/play/a03c/index.m3u8
-#EXTINF:-1,Discovery ID
+#EXTINF:-1 group-title="Venezuela",Discovery ID
 http://190.52.105.146:8000/play/a03v/index.m3u8
-#EXTINF:-1,Discovery Kids
+#EXTINF:-1 group-title="Venezuela",Discovery Kids
 http://190.52.105.146:8000/play/a0hq/index.m3u8
-#EXTINF:-1,Discovery Theater HD
+#EXTINF:-1 group-title="Venezuela",Discovery Theater HD
 http://190.52.105.146:8000/play/a0jd/index.m3u8
-#EXTINF:-1,Discovery Turbo
+#EXTINF:-1 group-title="Venezuela",Discovery Turbo
 http://190.52.105.146:8000/play/a0ls/index.m3u8
-#EXTINF:-1,Discovery World HD
+#EXTINF:-1 group-title="Venezuela",Discovery World HD
 http://190.52.105.146:8000/play/a0gn/index.m3u8
-#EXTINF:-1,Disney Channel
+#EXTINF:-1 group-title="Venezuela",Disney Channel
 http://190.52.105.146:8000/play/a03b/index.m3u8
-#EXTINF:-1,Disney Jr
+#EXTINF:-1 group-title="Venezuela",Disney Jr
 http://190.52.105.146:8000/play/a0i3/index.m3u8
-#EXTINF:-1,E Entertainment
+#EXTINF:-1 group-title="Venezuela",E Entertainment
 http://190.52.105.146:8000/play/a03f/index.m3u8
-#EXTINF:-1,ECUAVISA
+#EXTINF:-1 group-title="Venezuela",ECUAVISA
 http://190.52.105.146:8000/play/a058/index.m3u8
-#EXTINF:-1,ESPN
+#EXTINF:-1 group-title="Venezuela",ESPN
 http://190.52.105.146:8000/play/a03i/index.m3u8
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 group-title="Venezuela",ESPN 2 HD
 http://190.52.105.146:8000/play/a0jg/index.m3u8
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 group-title="Venezuela",ESPN 2 HD
 http://190.52.105.146:8000/play/a0j4/index.m3u8
-#EXTINF:-1,ESPN 2 Latin
+#EXTINF:-1 group-title="Venezuela",ESPN 2 Latin
 http://190.52.105.146:8000/play/a03h/index.m3u8
-#EXTINF:-1,ESPN 3
+#EXTINF:-1 group-title="Venezuela",ESPN 3
 http://190.52.105.146:8000/play/a0lt/index.m3u8
-#EXTINF:-1,ESPN 3 HD
+#EXTINF:-1 group-title="Venezuela",ESPN 3 HD
 http://190.52.105.146:8000/play/a0gq/index.m3u8
-#EXTINF:-1,ESPN 5
+#EXTINF:-1 group-title="Venezuela",ESPN 5
 http://190.52.105.146:8000/play/a045/index.m3u8
-#EXTINF:-1,ESPN 5HD
+#EXTINF:-1 group-title="Venezuela",ESPN 5HD
 http://190.52.105.146:8000/play/a0gi/index.m3u8
-#EXTINF:-1,ESPN 6
+#EXTINF:-1 group-title="Venezuela",ESPN 6
 http://190.52.105.146:8000/play/a03s/index.m3u8
-#EXTINF:-1,ESPN 6HD
+#EXTINF:-1 group-title="Venezuela",ESPN 6HD
 http://190.52.105.146:8000/play/a0as/index.m3u8
-#EXTINF:-1,ESPN 7
+#EXTINF:-1 group-title="Venezuela",ESPN 7
 http://190.52.105.146:8000/play/a03r/index.m3u8
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 group-title="Venezuela",ESPN HD
 http://190.52.105.146:8000/play/a0h6/index.m3u8
-#EXTINF:-1,ESPN Premium HD
+#EXTINF:-1 group-title="Venezuela",ESPN Premium HD
 http://190.52.105.146:8000/play/a0jr/index.m3u8
-#EXTINF:-1,ESPN Premium HD
+#EXTINF:-1 group-title="Venezuela",ESPN Premium HD
 http://190.52.105.146:8000/play/a0h9/index.m3u8
-#EXTINF:-1,EURO CHANNEL
+#EXTINF:-1 group-title="Venezuela",EURO CHANNEL
 http://190.52.105.146:8000/play/a0m0/index.m3u8
-#EXTINF:-1,EWTN ESPAÑOL
+#EXTINF:-1 group-title="Venezuela",EWTN ESPAÑOL
 http://190.52.105.146:8000/play/a05d/index.m3u8
-#EXTINF:-1,El Gourmet HD
+#EXTINF:-1 group-title="Venezuela",El Gourmet HD
 http://190.52.105.146:8000/play/a0az/index.m3u8
-#EXTINF:-1,El Trece
+#EXTINF:-1 group-title="Venezuela",El Trece
 http://190.52.105.146:8000/play/a0eo/index.m3u8
-#EXTINF:-1,Enlace
+#EXTINF:-1 group-title="Venezuela",Enlace
 http://190.52.105.146:8000/play/a0k9/index.m3u8
-#EXTINF:-1,FX
+#EXTINF:-1 group-title="Venezuela",FX
 http://190.52.105.146:8000/play/a0lk/index.m3u8
-#EXTINF:-1,Food Network HD
+#EXTINF:-1 group-title="Venezuela",Food Network HD
 http://190.52.105.146:8000/play/a0ho/index.m3u8
-#EXTINF:-1,France 24
+#EXTINF:-1 group-title="Venezuela",France 24
 http://190.52.105.146:8000/play/a0iw/index.m3u8
-#EXTINF:-1,GAMAVISION
+#EXTINF:-1 group-title="Venezuela",GAMAVISION
 http://190.52.105.146:8000/play/a066/index.m3u8
-#EXTINF:-1,GLOBOVISION
+#EXTINF:-1 group-title="Venezuela",GLOBOVISION
 http://190.52.105.146:8000/play/a04t/index.m3u8
-#EXTINF:-1,Golf Channel
+#EXTINF:-1 group-title="Venezuela",Golf Channel
 http://190.52.105.146:8000/play/a0ep/index.m3u8
-#EXTINF:-1,HBO 2
+#EXTINF:-1 group-title="Venezuela",HBO 2
 http://190.52.105.146:8000/play/a0hz/index.m3u8
-#EXTINF:-1,HBO Family HD
+#EXTINF:-1 group-title="Venezuela",HBO Family HD
 http://190.52.105.146:8000/play/a0fr/index.m3u8
-#EXTINF:-1,HBO HD
+#EXTINF:-1 group-title="Venezuela",HBO HD
 http://190.52.105.146:8000/play/a0gm/index.m3u8
-#EXTINF:-1,HBO POP HD
+#EXTINF:-1 group-title="Venezuela",HBO POP HD
 http://190.52.105.146:8000/play/a0h2/index.m3u8
-#EXTINF:-1,HBO Plus
+#EXTINF:-1 group-title="Venezuela",HBO Plus
 http://190.52.105.146:8000/play/a0i0/index.m3u8
-#EXTINF:-1,HBO Signature
+#EXTINF:-1 group-title="Venezuela",HBO Signature
 http://190.52.105.146:8000/play/a0f2/index.m3u8
-#EXTINF:-1,HBO XTREME HD
+#EXTINF:-1 group-title="Venezuela",HBO XTREME HD
 http://190.52.105.146:8000/play/a0fw/index.m3u8
-#EXTINF:-1,HBO Xtreme SD
+#EXTINF:-1 group-title="Venezuela",HBO Xtreme SD
 http://190.52.105.146:8000/play/a0i1/index.m3u8
-#EXTINF:-1,HCH
+#EXTINF:-1 group-title="Venezuela",HCH
 http://190.52.105.146:8000/play/a05e/index.m3u8
-#EXTINF:-1,HEI HD
+#EXTINF:-1 group-title="Venezuela",HEI HD
 http://190.52.105.146:8000/play/a0hd/index.m3u8
-#EXTINF:-1,HISPAN TV
+#EXTINF:-1 group-title="Venezuela",HISPAN TV
 http://190.52.105.146:8000/play/a04e/index.m3u8
-#EXTINF:-1,HTV
+#EXTINF:-1 group-title="Venezuela",HTV
 http://190.52.105.146:8000/play/a05y/index.m3u8
-#EXTINF:-1,History Channel
+#EXTINF:-1 group-title="Venezuela",History Channel
 http://190.52.105.146:8000/play/a0jx/index.m3u8
-#EXTINF:-1,Hola TV
+#EXTINF:-1 group-title="Venezuela",Hola TV
 http://190.52.105.146:8000/play/a0hk/index.m3u8
-#EXTINF:-1,HomeandHealth
+#EXTINF:-1 group-title="Venezuela",HomeandHealth
 http://190.52.105.146:8000/play/a040/index.m3u8
-#EXTINF:-1,ID
+#EXTINF:-1 group-title="Venezuela",ID
 http://190.52.105.146:8000/play/a0iv/index.m3u8
-#EXTINF:-1,IVC
+#EXTINF:-1 group-title="Venezuela",IVC
 http://190.52.105.146:8000/play/a05q/index.m3u8
-#EXTINF:-1,LATIN AMERICAN
+#EXTINF:-1 group-title="Venezuela",LATIN AMERICAN
 http://190.52.105.146:8000/play/a05u/index.m3u8
-#EXTINF:-1,La Red HD
+#EXTINF:-1 group-title="Venezuela",La Red HD
 http://190.52.105.146:8000/play/a0hm/index.m3u8
-#EXTINF:-1,Las Estrellas HD
+#EXTINF:-1 group-title="Venezuela",Las Estrellas HD
 http://190.52.105.146:8000/play/a0gt/index.m3u8
-#EXTINF:-1,Latina
+#EXTINF:-1 group-title="Venezuela",Latina
 http://190.52.105.146:8000/play/a0j0/index.m3u8
-#EXTINF:-1,Latina HD
+#EXTINF:-1 group-title="Venezuela",Latina HD
 http://190.52.105.146:8000/play/a0di/index.m3u8
-#EXTINF:-1,Lifetime
+#EXTINF:-1 group-title="Venezuela",Lifetime
 http://190.52.105.146:8000/play/a0kc/index.m3u8
-#EXTINF:-1,MEGA HD
+#EXTINF:-1 group-title="Venezuela",MEGA HD
 http://190.52.105.146:8000/play/a0am/index.m3u8
-#EXTINF:-1,MERIDIANO
+#EXTINF:-1 group-title="Venezuela",MERIDIANO
 http://190.52.105.146:8000/play/a04v/index.m3u8
-#EXTINF:-1,MTV
+#EXTINF:-1 group-title="Venezuela",MTV
 http://190.52.105.146:8000/play/a0k0/index.m3u8
-#EXTINF:-1,MTV 00s
+#EXTINF:-1 group-title="Venezuela",MTV 00s
 http://190.52.105.146:8000/play/a08y/index.m3u8
-#EXTINF:-1,MTV HD
+#EXTINF:-1 group-title="Venezuela",MTV HD
 http://190.52.105.146:8000/play/a0bb/index.m3u8
-#EXTINF:-1,MTV LIVE HD
+#EXTINF:-1 group-title="Venezuela",MTV LIVE HD
 http://190.52.105.146:8000/play/a0go/index.m3u8
-#EXTINF:-1,NTV
+#EXTINF:-1 group-title="Venezuela",NTV
 http://190.52.105.146:8000/play/a0jj/index.m3u8
-#EXTINF:-1,National Geographic
+#EXTINF:-1 group-title="Venezuela",National Geographic
 http://190.52.105.146:8000/play/a0jw/index.m3u8
-#EXTINF:-1,Nick HD
+#EXTINF:-1 group-title="Venezuela",Nick HD
 http://190.52.105.146:8000/play/a0h3/index.m3u8
-#EXTINF:-1,Nick Jr
+#EXTINF:-1 group-title="Venezuela",Nick Jr
 http://190.52.105.146:8000/play/a0lr/index.m3u8
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1 group-title="Venezuela",Nickelodeon
 http://190.52.105.146:8000/play/a0jv/index.m3u8
-#EXTINF:-1,OROMAR TV
+#EXTINF:-1 group-title="Venezuela",OROMAR TV
 http://190.52.105.146:8000/play/a050/index.m3u8
-#EXTINF:-1,PLIM PLIM
+#EXTINF:-1 group-title="Venezuela",PLIM PLIM
 http://190.52.105.146:8000/play/a054/index.m3u8
-#EXTINF:-1,POPULAR TV
+#EXTINF:-1 group-title="Venezuela",POPULAR TV
 http://190.52.105.146:8000/play/a0j9/index.m3u8
-#EXTINF:-1,Panamericana TV
+#EXTINF:-1 group-title="Venezuela",Panamericana TV
 http://190.52.105.146:8000/play/a08a/index.m3u8
-#EXTINF:-1,Paramount HD
+#EXTINF:-1 group-title="Venezuela",Paramount HD
 http://190.52.105.146:8000/play/a0gd/index.m3u8
-#EXTINF:-1,Pasiones HD
+#EXTINF:-1 group-title="Venezuela",Pasiones HD
 http://190.52.105.146:8000/play/a0fu/index.m3u8
-#EXTINF:-1,RCN Novelas
+#EXTINF:-1 group-title="Venezuela",RCN Novelas
 http://190.52.105.146:8000/play/a03u/index.m3u8
-#EXTINF:-1,REC TV
+#EXTINF:-1 group-title="Venezuela",REC TV
 http://190.52.105.146:8000/play/a0ja/index.m3u8
-#EXTINF:-1,RED ADVENIR
+#EXTINF:-1 group-title="Venezuela",RED ADVENIR
 http://190.52.105.146:8000/play/a05n/index.m3u8
-#EXTINF:-1,RTP I
+#EXTINF:-1 group-title="Venezuela",RTP I
 http://190.52.105.146:8000/play/a0m9/index.m3u8
-#EXTINF:-1,SHOW VEN
+#EXTINF:-1 group-title="Venezuela",SHOW VEN
 http://190.52.105.146:8000/play/a064/index.m3u8
-#EXTINF:-1,SHOW VEN
+#EXTINF:-1 group-title="Venezuela",SHOW VEN
 http://190.52.105.146:8000/play/a04r/index.m3u8
-#EXTINF:-1,STAR Channel
+#EXTINF:-1 group-title="Venezuela",STAR Channel
 http://190.52.105.146:8000/play/a0k3/index.m3u8
-#EXTINF:-1,Sin Limites
+#EXTINF:-1 group-title="Venezuela",Sin Limites
 http://190.52.105.146:8000/play/a08e/index.m3u8
-#EXTINF:-1,Sony
+#EXTINF:-1 group-title="Venezuela",Sony
 http://190.52.105.146:8000/play/a0lh/index.m3u8
-#EXTINF:-1,Space
+#EXTINF:-1 group-title="Venezuela",Space
 http://190.52.105.146:8000/play/a0lj/index.m3u8
-#EXTINF:-1,Stingray Concerts HD
+#EXTINF:-1 group-title="Venezuela",Stingray Concerts HD
 http://190.52.105.146:8000/play/a0bk/index.m3u8
-#EXTINF:-1,Studio Universal
+#EXTINF:-1 group-title="Venezuela",Studio Universal
 http://190.52.105.146:8000/play/a0i5/index.m3u8
-#EXTINF:-1,Studio Universal HD
+#EXTINF:-1 group-title="Venezuela",Studio Universal HD
 http://190.52.105.146:8000/play/a0bl/index.m3u8
-#EXTINF:-1,Studio Universal HD
+#EXTINF:-1 group-title="Venezuela",Studio Universal HD
 http://190.52.105.146:8000/play/a0fy/index.m3u8
-#EXTINF:-1,Sun Channel HD
+#EXTINF:-1 group-title="Venezuela",Sun Channel HD
 http://190.52.105.146:8000/play/a0hc/index.m3u8
-#EXTINF:-1,TCM
+#EXTINF:-1 group-title="Venezuela",TCM
 http://190.52.105.146:8000/play/a0k4/index.m3u8
-#EXTINF:-1,TELESUR
+#EXTINF:-1 group-title="Venezuela",TELESUR
 http://190.52.105.146:8000/play/a04k/index.m3u8
-#EXTINF:-1,TIN TV
+#EXTINF:-1 group-title="Venezuela",TIN TV
 http://190.52.105.146:8000/play/a0m3/index.m3u8
-#EXTINF:-1,TLC
+#EXTINF:-1 group-title="Venezuela",TLC
 http://190.52.105.146:8000/play/a03o/index.m3u8
-#EXTINF:-1,TLT
+#EXTINF:-1 group-title="Venezuela",TLT
 http://190.52.105.146:8000/play/a04y/index.m3u8
-#EXTINF:-1,TNT
+#EXTINF:-1 group-title="Venezuela",TNT
 http://190.52.105.146:8000/play/a0k6/index.m3u8
-#EXTINF:-1,TNT Novelas
+#EXTINF:-1 group-title="Venezuela",TNT Novelas
 http://190.52.105.146:8000/play/a03y/index.m3u8
-#EXTINF:-1,TNT Novelas HD
+#EXTINF:-1 group-title="Venezuela",TNT Novelas HD
 http://190.52.105.146:8000/play/a0gp/index.m3u8
-#EXTINF:-1,TNT Series HD
+#EXTINF:-1 group-title="Venezuela",TNT Series HD
 http://190.52.105.146:8000/play/a0gl/index.m3u8
-#EXTINF:-1,TNT Sports Premiun HD
+#EXTINF:-1 group-title="Venezuela",TNT Sports Premiun HD
 http://190.52.105.146:8000/play/a0ac/index.m3u8
-#EXTINF:-1,TRACE BRASIL
+#EXTINF:-1 group-title="Venezuela",TRACE BRASIL
 http://190.52.105.146:8000/play/a0m2/index.m3u8
-#EXTINF:-1,TRACE SPORTS
+#EXTINF:-1 group-title="Venezuela",TRACE SPORTS
 http://190.52.105.146:8000/play/a0m1/index.m3u8
-#EXTINF:-1,TRAVEL XP
+#EXTINF:-1 group-title="Venezuela",TRAVEL XP
 http://190.52.105.146:8000/play/a0m4/index.m3u8
-#EXTINF:-1,TV CULTURAS
+#EXTINF:-1 group-title="Venezuela",TV CULTURAS
 http://190.52.105.146:8000/play/a05i/index.m3u8
-#EXTINF:-1,TV FANB
+#EXTINF:-1 group-title="Venezuela",TV FANB
 http://190.52.105.146:8000/play/a04q/index.m3u8
-#EXTINF:-1,TV GALICIA
+#EXTINF:-1 group-title="Venezuela",TV GALICIA
 http://190.52.105.146:8000/play/a053/index.m3u8
-#EXTINF:-1,TV Peru SD
+#EXTINF:-1 group-title="Venezuela",TV Peru SD
 http://190.52.105.146:8000/play/a0j2/index.m3u8
-#EXTINF:-1,TV+ HD
+#EXTINF:-1 group-title="Venezuela",TV+ HD
 http://190.52.105.146:8000/play/a0hl/index.m3u8
-#EXTINF:-1,TVE
+#EXTINF:-1 group-title="Venezuela",TVE
 http://190.52.105.146:8000/play/a0ka/index.m3u8
-#EXTINF:-1,TVES
+#EXTINF:-1 group-title="Venezuela",TVES
 http://190.52.105.146:8000/play/a04i/index.m3u8
-#EXTINF:-1,TVN HD
+#EXTINF:-1 group-title="Venezuela",TVN HD
 http://190.52.105.146:8000/play/a0a9/index.m3u8
-#EXTINF:-1,Telemundo
+#EXTINF:-1 group-title="Venezuela",Telemundo
 http://190.52.105.146:8000/play/a03t/index.m3u8
-#EXTINF:-1,Teletrak
+#EXTINF:-1 group-title="Venezuela",Teletrak
 http://190.52.105.146:8000/play/a0jb/index.m3u8
-#EXTINF:-1,TyC
+#EXTINF:-1 group-title="Venezuela",TyC
 http://190.52.105.146:8000/play/a03k/index.m3u8
-#EXTINF:-1,UNITEL HD
+#EXTINF:-1 group-title="Venezuela",UNITEL HD
 http://190.52.105.146:8000/play/a05m/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
+#EXTINF:-1 group-title="Venezuela",UNIVERSAL CHANNEL HD
 http://190.52.105.146:8000/play/a0gh/index.m3u8
-#EXTINF:-1,USA SD
+#EXTINF:-1 group-title="Venezuela",USA SD
 http://190.52.105.146:8000/play/a0kd/index.m3u8
-#EXTINF:-1,Universal
+#EXTINF:-1 group-title="Venezuela",Universal
 http://190.52.105.146:8000/play/a0jz/index.m3u8
-#EXTINF:-1,Universal
+#EXTINF:-1 group-title="Venezuela",Universal
 http://190.52.105.146:8000/play/a0g4/index.m3u8
-#EXTINF:-1,Universal Cinema SD
+#EXTINF:-1 group-title="Venezuela",Universal Cinema SD
 http://190.52.105.146:8000/play/a0i8/index.m3u8
-#EXTINF:-1,Universal Comedy SD
+#EXTINF:-1 group-title="Venezuela",Universal Comedy SD
 http://190.52.105.146:8000/play/a0i9/index.m3u8
-#EXTINF:-1,Universal Premiere SD
+#EXTINF:-1 group-title="Venezuela",Universal Premiere SD
 http://190.52.105.146:8000/play/a0i7/index.m3u8
-#EXTINF:-1,VENEVISION
+#EXTINF:-1 group-title="Venezuela",VENEVISION
 http://190.52.105.146:8000/play/a04u/index.m3u8
-#EXTINF:-1,VIVE TV
+#EXTINF:-1 group-title="Venezuela",VIVE TV
 http://190.52.105.146:8000/play/a04h/index.m3u8
-#EXTINF:-1,VPACO
+#EXTINF:-1 group-title="Venezuela",VPACO
 http://190.52.105.146:8000/play/a04x/index.m3u8
-#EXTINF:-1,VTV
+#EXTINF:-1 group-title="Venezuela",VTV
 http://190.52.105.146:8000/play/a04g/index.m3u8
-#EXTINF:-1,VTV HD
+#EXTINF:-1 group-title="Venezuela",VTV HD
 http://190.52.105.146:8000/play/a069/index.m3u8
-#EXTINF:-1,ViaX
+#EXTINF:-1 group-title="Venezuela",ViaX
 http://190.52.105.146:8000/play/a087/index.m3u8
-#EXTINF:-1,Warner
+#EXTINF:-1 group-title="Venezuela",Warner
 http://190.52.105.146:8000/play/a03e/index.m3u8
-#EXTINF:-1,Willax
+#EXTINF:-1 group-title="Venezuela",Willax
 http://190.52.105.146:8000/play/a088/index.m3u8
-#EXTINF:-1,ZOO MO
+#EXTINF:-1 group-title="Venezuela",ZOO MO
 http://190.52.105.146:8000/play/a0lz/index.m3u8
-#EXTINF:-1,Zona Latina
+#EXTINF:-1 group-title="Venezuela",Zona Latina
 http://190.52.105.146:8000/play/a0k1/index.m3u8
 
 #EXTINF:-1,HBO 2 (ESP)
@@ -644,4 +640,5 @@ http://181.78.85.53:9002/play/a023/index.m3u8
 http://181.78.85.53:9002/play/a00a/index.m3u8
 #EXTINF:-1,HBO XTREME HD (ESP)
 http://181.78.85.53:9002/play/a00d/index.m3u8
+
 
