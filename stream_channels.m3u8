@@ -56,34 +56,9 @@ http://190.52.105.146:8000/play/a0h6/index.m3u8
 http://190.52.105.146:8000/play/a0jr/index.m3u8
 #EXTINF:-1 group-title="Venezuela",ESPN Premium HD
 http://190.52.105.146:8000/play/a0h9/index.m3u8
-#EXTINF:-1 group-title="Argentina",Fox Sports 2 HD ARG
-http://181.10.123.154:14000/play/a05c/index.m3u8
-#EXTINF:-1 group-title="Argentina",Fox Sports 3 HD ARG
-http://181.10.123.154:14000/play/a02t/index.m3u8
-#EXTINF:-1 group-title="Argentina",Fox Sports HD ARG
-http://181.10.123.154:14000/play/a07j/index.m3u8
-#EXTINF:-1 group-title="Argentina",Fox Sports 2 HD
-http://143.0.67.77:8000/play/a05c/index.m3u8
-#EXTINF:-1 group-title="Argentina",Fox Sports 3 HD
-http://143.0.67.77:8000/play/a02t/index.m3u8
-#EXTINF:-1 group-title="Argentina",Fox Sports HD
-http://143.0.67.77:8000/play/a07j/index.m3u8
-#EXTINF:-1 group-title="Argentina",ESPN 2 HD
-http://181.10.123.154:14000/play/a059/index.m3u8
-#EXTINF:-1 group-title="Argentina",ESPN 3 HD
-http://181.10.123.154:14000/play/a05b/index.m3u8
-#EXTINF:-1 group-title="Argentina",ESPN 4 HD
-http://181.10.123.154:14000/play/a076/index.m3u8
-#EXTINF:-1 group-title="Argentina",ESPN HD
-http://181.10.123.154:14000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="Argentina",ESPN Premium HD
-http://181.10.123.154:14000/play/a078/index.m3u8
-#EXTINF:-1 group-title="Argentina", DSPORTS 1
-http://38.211.242.128:8001/play/a09s/index.m3u8
-#EXTINF:-1 group-title="Argentina", DSPORTS 2
-http://38.211.242.128:8001/play/a05g/index.m3u8
-#EXTINF:-1 group-title="Argentina", DSPORTS +
-http://38.211.242.128:8001/play/a05h/index.m3u8
+/*argentina*/
+
+/*argentina*/
 #EXTINF:-1 group-title="-",FOX SPORT 1
 http://45.68.35.218:4001/play/a021/index.m3u8
 #EXTINF:-1 group-title="-",FOX SPORT 2
