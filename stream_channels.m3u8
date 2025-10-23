@@ -116,6 +116,8 @@ https://livevideo.tegnadigital.com/kfmb/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e
 https://pixeldrain.com/api/file/89ReTpVu
 #EXTINF:-1 group-title="temp", Puebla Xolos temp
 https://florcd1.crackstreamslivehd.com/tudn_usa/tracks-v1a1/mono.m3u8?ip=177.239.36.226&token=4abf2d0f5c2aaa26478afb3f42a1e890001642eb-9e-1760796348-1760742348
+#EXTINF:-1,TUDN USA (HD)
+http://tvmate.icu:8080/Alan/Alan1234/82241
 
 #EXTINF:-1 tvg-id="I469.111046.zap2it.com" tvg-name="TYC SPORTS" tvg-logo="https://app.newtvmx.com/Imagenes/LOGOTIPOS/DEPORTES/tycsports.png" group-title="⚽ DEPORTES",TYC SPORTS
 http://new-tv.cloud:25461/Emmanuel2/HGXFUyKv7gUN/690016
