@@ -27,7 +27,7 @@ http://190.61.55.34:2401/play/a05a/index.m3u8
 http://190.61.55.34:2401/play/a00k/index.m3u8
 #EXTINF:-1 group-title="Colombia",ESPN HD
 http://190.61.55.34:2401/play/a04f/index.m3u8
-/**/
+/* Venezuela links not working anymore*/
 #EXTINF:-1 group-title="Venezuela",ESPN
 http://190.52.105.146:8000/play/a03i/index.m3u8
 #EXTINF:-1 group-title="Venezuela",ESPN 2 HD
@@ -56,9 +56,27 @@ http://190.52.105.146:8000/play/a0h6/index.m3u8
 http://190.52.105.146:8000/play/a0jr/index.m3u8
 #EXTINF:-1 group-title="Venezuela",ESPN Premium HD
 http://190.52.105.146:8000/play/a0h9/index.m3u8
-/*argentina*/
+/*Chile*/
+#EXTINF:-1,57-ESPN (IKS ARP2)
+http://38.225.198.65:8081/play/a01k
+#EXTINF:-1,58-ESPN 2 (IKS ARP2)
+http://38.225.198.65:8081/play/a00j
+#EXTINF:-1,60-ESPN 3 (IKS ARP2)
+http://38.225.198.65:8081/play/a02w
+#EXTINF:-1,61-ESPN 5 (IKS ARP)
+http://38.225.198.65:8081/play/a01i
+#EXTINF:-1,67-ESPN 6 (IKS VL)
+http://38.225.198.65:8081/play/a07d
+#EXTINF:-1,68-ESPN Premium (IKS VL)
+http://38.225.198.65:8081/play/a07t
+#EXTINF:-1,69-TyC (IKS ARP)
+http://38.225.198.65:8081/play/a01m
+#EXTINF:-1,56-TNT SPORTS 2 (IKS ARP2)
+http://38.225.198.65:8081/play/a00a
+#EXTINF:-1,71-TNT SPORTS 3 (IKS ARP)
+http://38.225.198.65:8081/play/a01n
 
-/*argentina*/
+/*Argentina*/
 #EXTINF:-1 group-title="-",FOX SPORT 1
 http://45.68.35.218:4001/play/a021/index.m3u8
 #EXTINF:-1 group-title="-",FOX SPORT 2
