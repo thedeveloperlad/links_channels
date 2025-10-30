@@ -27,6 +27,9 @@ http://190.61.55.34:2401/play/a05a/index.m3u8
 http://190.61.55.34:2401/play/a00k/index.m3u8
 #EXTINF:-1 group-title="Colombia",ESPN HD
 http://190.61.55.34:2401/play/a04f/index.m3u8
+
+#EXTINF:-1,@848 TVC Deportes HD
+http://148.230.149.45:1020/play/a01d/index.m3u8
 /* Venezuela links not working anymore*/
 #EXTINF:-1 group-title="Venezuela",ESPN
 http://190.52.105.146:8000/play/a03i/index.m3u8
