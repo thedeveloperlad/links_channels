@@ -30,35 +30,6 @@ http://190.61.55.34:2401/play/a04f/index.m3u8
 
 #EXTINF:-1,@848 TVC Deportes HD
 http://148.230.149.45:1020/play/a01d/index.m3u8
-/* Venezuela links not working anymore*/
-#EXTINF:-1 group-title="Venezuela",ESPN
-http://190.52.105.146:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="Venezuela",ESPN 2 HD
-http://190.52.105.146:8000/play/a0jg/index.m3u8
-#EXTINF:-1 group-title="Venezuela",ESPN 2 HD
-http://190.52.105.146:8000/play/a0j4/index.m3u8
-#EXTINF:-1 group-title="Venezuela",ESPN 2 Latin
-http://190.52.105.146:8000/play/a03h/index.m3u8
-#EXTINF:-1 group-title="Venezuela",ESPN 3
-http://190.52.105.146:8000/play/a0lt/index.m3u8
-#EXTINF:-1 group-title="Venezuela",ESPN 3 HD
-http://190.52.105.146:8000/play/a0gq/index.m3u8
-#EXTINF:-1 group-title="Venezuela",ESPN 5
-http://190.52.105.146:8000/play/a045/index.m3u8
-#EXTINF:-1 group-title="Venezuela",ESPN 5HD
-http://190.52.105.146:8000/play/a0gi/index.m3u8
-#EXTINF:-1 group-title="Venezuela",ESPN 6
-http://190.52.105.146:8000/play/a03s/index.m3u8
-#EXTINF:-1 group-title="Venezuela",ESPN 6HD
-http://190.52.105.146:8000/play/a0as/index.m3u8
-#EXTINF:-1 group-title="Venezuela",ESPN 7
-http://190.52.105.146:8000/play/a03r/index.m3u8
-#EXTINF:-1 group-title="Venezuela",ESPN HD
-http://190.52.105.146:8000/play/a0h6/index.m3u8
-#EXTINF:-1 group-title="Venezuela",ESPN Premium HD
-http://190.52.105.146:8000/play/a0jr/index.m3u8
-#EXTINF:-1 group-title="Venezuela",ESPN Premium HD
-http://190.52.105.146:8000/play/a0h9/index.m3u8
 /*Chile*/
 #EXTINF:-1,57-ESPN (IKS ARP2)
 http://38.225.198.65:8081/play/a01k
