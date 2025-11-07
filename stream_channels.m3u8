@@ -27,28 +27,26 @@ http://190.61.55.34:2401/play/a05a/index.m3u8
 http://190.61.55.34:2401/play/a00k/index.m3u8
 #EXTINF:-1 group-title="Colombia",ESPN HD
 http://190.61.55.34:2401/play/a04f/index.m3u8
-
 #EXTINF:-1,@848 TVC Deportes HD
 http://148.230.149.45:1020/play/a01d/index.m3u8
+/* England */
+#EXTINF:0, group-title="United Kingdom", 500. SKY SPORTS FOOTBALL
+http://178.33.239.54:8080/500a/index.m3u8
+#EXTINF:0, group-title="United Kingdom", 501. SKY SPORTS NEWS
+http://178.33.239.54:8080/501a/index.m3u8
+#EXTINF:0, group-title="United Kingdom", 502. SKY SPORT MAIN EVENT
+http://178.33.239.54:8080/502a/index.m3u8
+#EXTINF:0, group-title="United Kingdom", 503. SKY SPORT CRICKET
+http://178.33.239.54:8080/503a/index.m3u8
+#EXTINF:0, group-title="United Kingdom", 504. SKY SPORT ACTION
+http://178.33.239.54:8080/504a/index.m3u8
+#EXTINF:0, group-title="United Kingdom", 506. SKY SPORT PREMIER LEAGUE
+http://178.33.239.54:8080/506a/index.m3u8
+#EXTINF:0, group-title="United Kingdom", 507. SKY SPORTS MIX HD
+http://178.33.239.54:8080/507a/index.m3u8
+#EXTINF:0,group-title="United Kingdom", 508. Sky SPORTS F1
+http://178.33.239.54:8080/508a/index.m3u8
 /*Chile*/
-#EXTINF:-1,57-ESPN (IKS ARP2)
-http://38.225.198.65:8081/play/a01k
-#EXTINF:-1,58-ESPN 2 (IKS ARP2)
-http://38.225.198.65:8081/play/a00j
-#EXTINF:-1,60-ESPN 3 (IKS ARP2)
-http://38.225.198.65:8081/play/a02w
-#EXTINF:-1,61-ESPN 5 (IKS ARP)
-http://38.225.198.65:8081/play/a01i
-#EXTINF:-1,67-ESPN 6 (IKS VL)
-http://38.225.198.65:8081/play/a07d
-#EXTINF:-1,68-ESPN Premium (IKS VL)
-http://38.225.198.65:8081/play/a07t
-#EXTINF:-1,69-TyC (IKS ARP)
-http://38.225.198.65:8081/play/a01m
-#EXTINF:-1,56-TNT SPORTS 2 (IKS ARP2)
-http://38.225.198.65:8081/play/a00a
-#EXTINF:-1,71-TNT SPORTS 3 (IKS ARP)
-http://38.225.198.65:8081/play/a01n
 
 /*Argentina*/
 #EXTINF:-1 group-title="-",FOX SPORT 1
