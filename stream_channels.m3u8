@@ -48,6 +48,43 @@ http://178.33.239.54:8080/507a/index.m3u8
 http://178.33.239.54:8080/508a/index.m3u8
 /*Chile*/
 
+/*Peru*/
+#EXTINF:-1 group-title="Peru",CLARO SPORTS 1 HD
+http://181.66.181.222:1983/play/a1uj/index.m3u8
+#EXTINF:-1 group-title="Peru",CLARO SPORTS 2 HD
+http://181.66.181.222:1983/play/a1uk/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN
+http://181.66.181.222:1983/play/a1t4/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 2
+http://181.66.181.222:1983/play/a1t3/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 2 HD
+http://181.66.181.222:1983/play/a1kj/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 3 HD
+http://181.66.181.222:1983/play/a1lk/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 4
+http://181.66.181.222:1983/play/a0la/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 4HD
+http://181.66.181.222:1983/play/a1k7/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 5HD
+http://181.66.181.222:1983/play/a1lc/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 6
+http://181.66.181.222:1983/play/a1to/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 6HD
+http://181.66.181.222:1983/play/a1jr/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 7
+http://181.66.181.222:1983/play/a1tn/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 7HD
+http://181.66.181.222:1983/play/a1ld/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN HD
+http://181.66.181.222:1983/play/a1p8/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN Premium HD
+http://181.66.181.222:1983/play/a1pd/index.m3u8
+#EXTINF:-1 group-title="Peru",FOX SPORT 1 HD
+http://181.66.181.222:1983/play/a1ug/index.m3u8
+#EXTINF:-1 group-title="Peru",FOX SPORT 2 HD
+http://181.66.181.222:1983/play/a1uh/index.m3u8
+#EXTINF:-1 group-title="Peru",FOX SPORT 3 HD
+http://181.66.181.222:1983/play/a1ui/index.m3u8
 /*Argentina*/
 #EXTINF:-1 group-title="-",FOX SPORT 1
 http://45.68.35.218:4001/play/a021/index.m3u8
