@@ -343,3 +343,416 @@ http://201.174.175.3:8000/play/a0sw/index.m3u8
 http://201.174.175.3:8000/play/a0q9/index.m3u8
 #EXTINF:-0 group-title="Mexico", 133 Golden Premiere HD
 http://201.174.175.3:8000/play/a0q8/index.m3u8
+
+/* Diciembre 5, 2025 */
+#EXTM3U
+#EXTINF:-1 group-title="Mexico",Universal
+http://200.92.227.238:8000/play/a0uc/index.m3u8
+#EXTINF:-1 group-title="Mexico",11 - Repretel
+http://200.92.227.238:8000/play/a0n2/index.m3u8
+#EXTINF:-1 group-title="Mexico",4 - Repretel
+http://200.92.227.238:8000/play/a0nu/index.m3u8
+#EXTINF:-1 group-title="Mexico",6 - Repretel
+http://200.92.227.238:8000/play/a0n0/index.m3u8
+#EXTINF:-1 group-title="Mexico",A&E
+http://200.92.227.238:8000/play/a0o0/index.m3u8
+#EXTINF:-1 group-title="Mexico",A&E HD
+http://200.92.227.238:8000/play/a0mb/index.m3u8
+#EXTINF:-1 group-title="Mexico",AMC
+http://200.92.227.238:8000/play/a0lw/index.m3u8
+#EXTINF:-1 group-title="Mexico",AMC HD
+http://200.92.227.238:8000/play/a0mc/index.m3u8
+#EXTINF:-1 group-title="Mexico",AXN
+http://200.92.227.238:8000/play/a0lu/index.m3u8
+#EXTINF:-1 group-title="Mexico",AXN HD
+http://200.92.227.238:8000/play/a0uk/index.m3u8
+#EXTINF:-1 group-title="Mexico",AZ click HD
+http://200.92.227.238:8000/play/a0mi/index.m3u8
+#EXTINF:-1 group-title="Mexico",Adult Swim
+http://200.92.227.238:8000/play/a0tc/index.m3u8
+#EXTINF:-1 group-title="Mexico",Animal Planet
+http://200.92.227.238:8000/play/a0o3/index.m3u8
+#EXTINF:-1 group-title="Mexico",Animal Planet HD
+http://200.92.227.238:8000/play/a0m8/index.m3u8
+#EXTINF:-1 group-title="Mexico",Antena 7- RD
+http://200.92.227.238:8000/play/a0rn/index.m3u8
+#EXTINF:-1 group-title="Mexico",Azcorazon
+http://200.92.227.238:8000/play/a0ll/index.m3u8
+#EXTINF:-1 group-title="Mexico",Azmundo
+http://200.92.227.238:8000/play/a0nw/index.m3u8
+#EXTINF:-1 group-title="Mexico",Azteca 7
+http://200.92.227.238:8000/play/a0uw/index.m3u8
+#EXTINF:-1 group-title="Mexico",Azteca Uno
+http://200.92.227.238:8000/play/a0ux/index.m3u8
+#EXTINF:-1 group-title="Mexico",BBC News
+http://200.92.227.238:8000/play/a0rw/index.m3u8
+#EXTINF:-1 group-title="Mexico",BBC World
+http://200.92.227.238:8000/play/a0ly/index.m3u8
+#EXTINF:-1 group-title="Mexico",Baby First
+http://200.92.227.238:8000/play/a0n3/index.m3u8
+#EXTINF:-1 group-title="Mexico",Banda Max
+http://200.92.227.238:8000/play/a0v1/index.m3u8
+#EXTINF:-1 group-title="Mexico",CANAL 13 - NI
+http://200.92.227.238:8000/play/a0sa/index.m3u8
+#EXTINF:-1 group-title="Mexico",CARTOON NT HD
+http://200.92.227.238:8000/play/a0mp/index.m3u8
+#EXTINF:-1 group-title="Mexico",CDN2- RD
+http://200.92.227.238:8000/play/a0s7/index.m3u8
+#EXTINF:-1 group-title="Mexico",CDN37 - RD
+http://200.92.227.238:8000/play/a0ss/index.m3u8
+#EXTINF:-1 group-title="Mexico",CERTV
+http://200.92.227.238:8000/play/a0tp/index.m3u8
+#EXTINF:-1 group-title="Mexico",CINECANAL HD
+http://200.92.227.238:8000/play/a0od/index.m3u8
+#EXTINF:-1 group-title="Mexico",CNNE
+http://200.92.227.238:8000/play/a0lx/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal 21 - ESA
+http://200.92.227.238:8000/play/a0tw/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal 11 - GUA
+http://200.92.227.238:8000/play/a0mz/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal 11 - HON
+http://200.92.227.238:8000/play/a0rl/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal 12 - ESA
+http://200.92.227.238:8000/play/a0s2/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal 13-GUA
+http://200.92.227.238:8000/play/a0my/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal 14 - NIC
+http://200.92.227.238:8000/play/a0s5/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal 19 ESA
+http://200.92.227.238:8000/play/a0sg/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal 2 - ESA
+http://200.92.227.238:8000/play/a0sm/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal 2 - NIC
+http://200.92.227.238:8000/play/a0so/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal 3 - GUA
+http://200.92.227.238:8000/play/a0nt/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal 3 Telesistemas HND
+http://200.92.227.238:8000/play/a0ty/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal 4 - ESA
+http://200.92.227.238:8000/play/a0sl/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal 5 - HON
+http://200.92.227.238:8000/play/a0sn/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal 6 - ESA
+http://200.92.227.238:8000/play/a0s1/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal 6 - NI
+http://200.92.227.238:8000/play/a0s9/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal 7 - GUA
+http://200.92.227.238:8000/play/a0ns/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal 7 HD CR
+http://200.92.227.238:8000/play/a0ry/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal Antigua - GUA
+http://200.92.227.238:8000/play/a0nq/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal Azteca - GUA
+http://200.92.227.238:8000/play/a0nr/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal Claro
+http://200.92.227.238:8000/play/a0lc/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal VTV HND
+http://200.92.227.238:8000/play/a0tz/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal del Congreso
+http://200.92.227.238:8000/play/a0ts/index.m3u8
+#EXTINF:-1 group-title="Mexico",Canal5
+http://200.92.227.238:8000/play/a0v7/index.m3u8
+#EXTINF:-1 group-title="Mexico",Cartoon Network
+http://200.92.227.238:8000/play/a0le/index.m3u8
+#EXTINF:-1 group-title="Mexico",Cartoonito
+http://200.92.227.238:8000/play/a0lg/index.m3u8
+#EXTINF:-1 group-title="Mexico",Cine Latino
+http://200.92.227.238:8000/play/a0ue/index.m3u8
+#EXTINF:-1 group-title="Mexico",CineCanal
+http://200.92.227.238:8000/play/a0uh/index.m3u8
+#EXTINF:-1 group-title="Mexico",CineMax
+http://200.92.227.238:8000/play/a0uf/index.m3u8
+#EXTINF:-1 group-title="Mexico",Claro Sports 1 HD
+http://200.92.227.238:8000/play/a0qe/index.m3u8
+#EXTINF:-1 group-title="Mexico",Claro Sports 3 HD
+http://200.92.227.238:8000/play/a0us/index.m3u8
+#EXTINF:-1 group-title="Mexico",Color Vision 9 - RD
+http://200.92.227.238:8000/play/a0sr/index.m3u8
+#EXTINF:-1 group-title="Mexico",Comedy Central HD
+http://200.92.227.238:8000/play/a0on/index.m3u8
+#EXTINF:-1 group-title="Mexico",Concert Channel
+http://200.92.227.238:8000/play/a0ub/index.m3u8
+#EXTINF:-1 group-title="Mexico",D Pelicula
+http://200.92.227.238:8000/play/a0v4/index.m3u8
+#EXTINF:-1 group-title="Mexico",DHE
+http://200.92.227.238:8000/play/a0qb/index.m3u8
+#EXTINF:-1 group-title="Mexico",DHE HD
+http://200.92.227.238:8000/play/a0mh/index.m3u8
+#EXTINF:-1 group-title="Mexico",DISC THEATHER HD
+http://200.92.227.238:8000/play/a0ok/index.m3u8
+#EXTINF:-1 group-title="Mexico",Digital 15 - RD
+http://200.92.227.238:8000/play/a0s6/index.m3u8
+#EXTINF:-1 group-title="Mexico",Discovery Channel
+http://200.92.227.238:8000/play/a0o2/index.m3u8
+#EXTINF:-1 group-title="Mexico",Discovery Channel HD
+http://200.92.227.238:8000/play/a0q0/index.m3u8
+#EXTINF:-1 group-title="Mexico",Discovery Home & Health
+http://200.92.227.238:8000/play/a0u5/index.m3u8
+#EXTINF:-1 group-title="Mexico",Discovery ID HD
+http://200.92.227.238:8000/play/a0q4/index.m3u8
+#EXTINF:-1 group-title="Mexico",Discovery Kids
+http://200.92.227.238:8000/play/a0u0/index.m3u8
+#EXTINF:-1 group-title="Mexico",Discovery Turbo
+http://200.92.227.238:8000/play/a0u4/index.m3u8
+#EXTINF:-1 group-title="Mexico",Discovery World HD
+http://200.92.227.238:8000/play/a0q1/index.m3u8
+#EXTINF:-1 group-title="Mexico",Disney
+http://200.92.227.238:8000/play/a0u2/index.m3u8
+#EXTINF:-1 group-title="Mexico",Disney JR
+http://200.92.227.238:8000/play/a0lh/index.m3u8
+#EXTINF:-1 group-title="Mexico",Distrito Comedia
+http://200.92.227.238:8000/play/a0v0/index.m3u8
+#EXTINF:-1 group-title="Mexico",E!
+http://200.92.227.238:8000/play/a0nz/index.m3u8
+#EXTINF:-1 group-title="Mexico",E! Entertairment HD
+http://200.92.227.238:8000/play/a0m9/index.m3u8
+#EXTINF:-1 group-title="Mexico",ESPN
+http://200.92.227.238:8000/play/a0o6/index.m3u8
+#EXTINF:-1 group-title="Mexico",ESPN 4 HD
+http://200.92.227.238:8000/play/a0ti/index.m3u8
+#EXTINF:-1 group-title="Mexico",ESPN 2
+http://200.92.227.238:8000/play/a0o7/index.m3u8
+#EXTINF:-1 group-title="Mexico",ESPN 2 HD
+http://200.92.227.238:8000/play/a0tk/index.m3u8
+#EXTINF:-1 group-title="Mexico",ESPN 3
+http://200.92.227.238:8000/play/a0tf/index.m3u8
+#EXTINF:-1 group-title="Mexico",ESPN 3
+http://200.92.227.238:8000/play/a0nb/index.m3u8
+#EXTINF:-1 group-title="Mexico",ESPN 3 HD
+http://200.92.227.238:8000/play/a0tl/index.m3u8
+#EXTINF:-1 group-title="Mexico",ESPN 4
+http://200.92.227.238:8000/play/a0tg/index.m3u8
+#EXTINF:-1 group-title="Mexico",ESPN 5
+http://200.92.227.238:8000/play/a0u9/index.m3u8
+#EXTINF:-1 group-title="Mexico",ESPN 5 HD
+http://200.92.227.238:8000/play/a0um/index.m3u8
+#EXTINF:-1 group-title="Mexico",ESPN 6
+http://200.92.227.238:8000/play/a0th/index.m3u8
+#EXTINF:-1 group-title="Mexico",ESPN 6 HD
+http://200.92.227.238:8000/play/a0tm/index.m3u8
+#EXTINF:-1 group-title="Mexico",ESPN HD
+http://200.92.227.238:8000/play/a0tj/index.m3u8
+#EXTINF:-1 group-title="Mexico",ESPN HD
+http://200.92.227.238:8000/play/a0pt/index.m3u8
+#EXTINF:-1 group-title="Mexico",EURO Channel
+http://200.92.227.238:8000/play/a0n6/index.m3u8
+#EXTINF:-1 group-title="Mexico",EWTN
+http://200.92.227.238:8000/play/a0m1/index.m3u8
+#EXTINF:-1 group-title="Mexico",El Gourmet
+http://200.92.227.238:8000/play/a0n8/index.m3u8
+#EXTINF:-1 group-title="Mexico",Europa HD
+http://200.92.227.238:8000/play/a0mf/index.m3u8
+#EXTINF:-1 group-title="Mexico",Exa TV
+http://200.92.227.238:8000/play/a0o8/index.m3u8
+#EXTINF:-1 group-title="Mexico",FOX SPORTS 3 HD
+http://200.92.227.238:8000/play/a0pw/index.m3u8
+#EXTINF:-1 group-title="Mexico",FUTV CR
+http://200.92.227.238:8000/play/a0tq/index.m3u8
+#EXTINF:-1 group-title="Mexico",FUTV HD CR
+http://200.92.227.238:8000/play/a0ta/index.m3u8
+#EXTINF:-1 group-title="Mexico",FX
+http://200.92.227.238:8000/play/a0n4/index.m3u8
+#EXTINF:-1 group-title="Mexico",FX HD
+http://200.92.227.238:8000/play/a0me/index.m3u8
+#EXTINF:-1 group-title="Mexico",Film & Arts
+http://200.92.227.238:8000/play/a0l6/index.m3u8
+#EXTINF:-1 group-title="Mexico",Film & arts HD
+http://200.92.227.238:8000/play/a0ma/index.m3u8
+#EXTINF:-1 group-title="Mexico",Fox Sport 3
+http://200.92.227.238:8000/play/a0lr/index.m3u8
+#EXTINF:-1 group-title="Mexico",Fox Sport Premium
+http://200.92.227.238:8000/play/a0uy/index.m3u8
+#EXTINF:-1 group-title="Mexico",France24
+http://200.92.227.238:8000/play/a0lz/index.m3u8
+#EXTINF:-1 group-title="Mexico",Golden
+http://200.92.227.238:8000/play/a0nh/index.m3u8
+#EXTINF:-1 group-title="Mexico",Golf Channel HD
+http://200.92.227.238:8000/play/a0mk/index.m3u8
+#EXTINF:-1 group-title="Mexico",Guatevision - GUA
+http://200.92.227.238:8000/play/a0ld/index.m3u8
+#EXTINF:-1 group-title="Mexico",H2
+http://200.92.227.238:8000/play/a0n7/index.m3u8
+#EXTINF:-1 group-title="Mexico",HBO Family HD
+http://200.92.227.238:8000/play/a0mt/index.m3u8
+#EXTINF:-1 group-title="Mexico",HBO HD
+http://200.92.227.238:8000/play/a0mq/index.m3u8
+#EXTINF:-1 group-title="Mexico",HBO Plus HD
+http://200.92.227.238:8000/play/a0ms/index.m3u8
+#EXTINF:-1 group-title="Mexico",HBO XTREME
+http://200.92.227.238:8000/play/a0mu/index.m3u8
+#EXTINF:-1 group-title="Mexico",HBO2 HD
+http://200.92.227.238:8000/play/a0qj/index.m3u8
+#EXTINF:-1 group-title="Mexico",HCH- HON
+http://200.92.227.238:8000/play/a0rs/index.m3u8
+#EXTINF:-1 group-title="Mexico",HOLA! TV HD
+http://200.92.227.238:8000/play/a0om/index.m3u8
+#EXTINF:-1 group-title="Mexico",HTV
+http://200.92.227.238:8000/play/a0ng/index.m3u8
+#EXTINF:-1 group-title="Mexico",History Channel
+http://200.92.227.238:8000/play/a0o4/index.m3u8
+#EXTINF:-1 group-title="Mexico",History HD
+http://200.92.227.238:8000/play/a0ml/index.m3u8
+#EXTINF:-1 group-title="Mexico",Home & Health HD
+http://200.92.227.238:8000/play/a0ol/index.m3u8
+#EXTINF:-1 group-title="Mexico",ID
+http://200.92.227.238:8000/play/a0u6/index.m3u8
+#EXTINF:-1 group-title="Mexico",Imagen Tv
+http://200.92.227.238:8000/play/a0v2/index.m3u8
+#EXTINF:-1 group-title="Mexico",LAS ESTRELLAS
+http://200.92.227.238:8000/play/a0uu/index.m3u8
+#EXTINF:-1 group-title="Mexico",LIFE TIME
+http://200.92.227.238:8000/play/a0lq/index.m3u8
+#EXTINF:-1 group-title="Mexico",La voz de Maria
+http://200.92.227.238:8000/play/a0u8/index.m3u8
+#EXTINF:-1 group-title="Mexico",Latin America Sport
+http://200.92.227.238:8000/play/a0nd/index.m3u8
+#EXTINF:-1 group-title="Mexico",MTV
+http://200.92.227.238:8000/play/a0ua/index.m3u8
+#EXTINF:-1 group-title="Mexico",MTV 00s
+http://200.92.227.238:8000/play/a0nf/index.m3u8
+#EXTINF:-1 group-title="Mexico",MTV 00s HD
+http://200.92.227.238:8000/play/a0op/index.m3u8
+#EXTINF:-1 group-title="Mexico",MTV 80s
+http://200.92.227.238:8000/play/a0lt/index.m3u8
+#EXTINF:-1 group-title="Mexico",MTV HD
+http://200.92.227.238:8000/play/a0mm/index.m3u8
+#EXTINF:-1 group-title="Mexico",MTV Hits
+http://200.92.227.238:8000/play/a0ls/index.m3u8
+#EXTINF:-1 group-title="Mexico",MTV SIM HD
+http://200.92.227.238:8000/play/a0oo/index.m3u8
+#EXTINF:-1 group-title="Mexico",Mexicanal
+http://200.92.227.238:8000/play/a0uz/index.m3u8
+#EXTINF:-1 group-title="Mexico",Multicinema
+http://200.92.227.238:8000/play/a0sk/index.m3u8
+#EXTINF:-1 group-title="Mexico",Multimedios
+http://200.92.227.238:8000/play/a0l3/index.m3u8
+#EXTINF:-1 group-title="Mexico",Multipremier
+http://200.92.227.238:8000/play/a0ud/index.m3u8
+#EXTINF:-1 group-title="Mexico",Nat Geo HD
+http://200.92.227.238:8000/play/a0px/index.m3u8
+#EXTINF:-1 group-title="Mexico",National Geographic
+http://200.92.227.238:8000/play/a0lp/index.m3u8
+#EXTINF:-1 group-title="Mexico",Nicarao TV
+http://200.92.227.238:8000/play/a0rt/index.m3u8
+#EXTINF:-1 group-title="Mexico",Nick Jr
+http://200.92.227.238:8000/play/a0lf/index.m3u8
+#EXTINF:-1 group-title="Mexico",Nick SIM HD
+http://200.92.227.238:8000/play/a0oh/index.m3u8
+#EXTINF:-1 group-title="Mexico",Nickelodeon
+http://200.92.227.238:8000/play/a0u1/index.m3u8
+#EXTINF:-1 group-title="Mexico",PXTV
+http://200.92.227.238:8000/play/a0si/index.m3u8
+#EXTINF:-1 group-title="Mexico",Paramount
+http://200.92.227.238:8000/play/a0l8/index.m3u8
+#EXTINF:-1 group-title="Mexico",Paramount HD
+http://200.92.227.238:8000/play/a0py/index.m3u8
+#EXTINF:-1 group-title="Mexico",Pasiones HD
+http://200.92.227.238:8000/play/a0q2/index.m3u8
+#EXTINF:-1 group-title="Mexico",QATAR en vivo
+http://200.92.227.238:8000/play/a0r1/index.m3u8
+#EXTINF:-1 group-title="Mexico",RCN - GUA
+http://200.92.227.238:8000/play/a0tt/index.m3u8
+#EXTINF:-1 group-title="Mexico",RCN Novelas
+http://200.92.227.238:8000/play/a0n5/index.m3u8
+#EXTINF:-1 group-title="Mexico",RHEMA TV
+http://200.92.227.238:8000/play/a0uj/index.m3u8
+#EXTINF:-1 group-title="Mexico",SEMILLITAS
+http://200.92.227.238:8000/play/a0li/index.m3u8
+#EXTINF:-1 group-title="Mexico",SONY
+http://200.92.227.238:8000/play/a0nx/index.m3u8
+#EXTINF:-1 group-title="Mexico",SONY HD
+http://200.92.227.238:8000/play/a0oc/index.m3u8
+#EXTINF:-1 group-title="Mexico",SPACE
+http://200.92.227.238:8000/play/a0lm/index.m3u8
+#EXTINF:-1 group-title="Mexico",SPACE HD
+http://200.92.227.238:8000/play/a0ul/index.m3u8
+#EXTINF:-1 group-title="Mexico",STAR CHANNEL
+http://200.92.227.238:8000/play/a0u3/index.m3u8
+#EXTINF:-1 group-title="Mexico",STAR CHANNEL HD
+http://200.92.227.238:8000/play/a0oa/index.m3u8
+#EXTINF:-1 group-title="Mexico",Sembrador
+http://200.92.227.238:8000/play/a0nm/index.m3u8
+#EXTINF:-1 group-title="Mexico",Sony Movies HD
+http://200.92.227.238:8000/play/a0mg/index.m3u8
+#EXTINF:-1 group-title="Mexico",Star TVE HD
+http://200.92.227.238:8000/play/a0mj/index.m3u8
+#EXTINF:-1 group-title="Mexico",Studio Universal
+http://200.92.227.238:8000/play/a0ug/index.m3u8
+#EXTINF:-1 group-title="Mexico",Sun Channel
+http://200.92.227.238:8000/play/a0n9/index.m3u8
+#EXTINF:-1 group-title="Mexico",TBN Enlace
+http://200.92.227.238:8000/play/a0m0/index.m3u8
+#EXTINF:-1 group-title="Mexico",TCM
+http://200.92.227.238:8000/play/a0ni/index.m3u8
+#EXTINF:-1 group-title="Mexico",TLC
+http://200.92.227.238:8000/play/a0o5/index.m3u8
+#EXTINF:-1 group-title="Mexico",TLNOVELAS
+http://200.92.227.238:8000/play/a0uv/index.m3u8
+#EXTINF:-1 group-title="Mexico",TNT
+http://200.92.227.238:8000/play/a0lv/index.m3u8
+#EXTINF:-1 group-title="Mexico",TNT HD
+http://200.92.227.238:8000/play/a0oj/index.m3u8
+#EXTINF:-1 group-title="Mexico",TNT Novelas
+http://200.92.227.238:8000/play/a0rv/index.m3u8
+#EXTINF:-1 group-title="Mexico",TNT Series
+http://200.92.227.238:8000/play/a0ln/index.m3u8
+#EXTINF:-1 group-title="Mexico",TNT Series HD
+http://200.92.227.238:8000/play/a0pz/index.m3u8
+#EXTINF:-1 group-title="Mexico",TUDN
+http://200.92.227.238:8000/play/a0ut/index.m3u8
+#EXTINF:-1 group-title="Mexico",TV Oriente ESA
+http://200.92.227.238:8000/play/a0tr/index.m3u8
+#EXTINF:-1 group-title="Mexico",TVE
+http://200.92.227.238:8000/play/a0ui/index.m3u8
+#EXTINF:-1 group-title="Mexico",TVM25 - ESA
+http://200.92.227.238:8000/play/a0tx/index.m3u8
+#EXTINF:-1 group-title="Mexico",Teen Nick HD
+http://200.92.227.238:8000/play/a0m5/index.m3u8
+#EXTINF:-1 group-title="Mexico",Tele Antillas - RD
+http://200.92.227.238:8000/play/a0rm/index.m3u8
+#EXTINF:-1 group-title="Mexico",TeleMicro - RD
+http://200.92.227.238:8000/play/a0sq/index.m3u8
+#EXTINF:-1 group-title="Mexico",Telecentro - RD
+http://200.92.227.238:8000/play/a0sb/index.m3u8
+#EXTINF:-1 group-title="Mexico",Telemundo
+http://200.92.227.238:8000/play/a0lk/index.m3u8
+#EXTINF:-1 group-title="Mexico",Telemundo HD
+http://200.92.227.238:8000/play/a0md/index.m3u8
+#EXTINF:-1 group-title="Mexico",Telesistema RD
+http://200.92.227.238:8000/play/a0ro/index.m3u8
+#EXTINF:-1 group-title="Mexico",Teleunion - RD
+http://200.92.227.238:8000/play/a0sc/index.m3u8
+#EXTINF:-1 group-title="Mexico",Teleuniverso - RD
+http://200.92.227.238:8000/play/a0s8/index.m3u8
+#EXTINF:-1 group-title="Mexico",Televida RD
+http://200.92.227.238:8000/play/a0q6/index.m3u8
+#EXTINF:-1 group-title="Mexico",Tigo Sports HD
+http://200.92.227.238:8000/play/a0og/index.m3u8
+#EXTINF:-1 group-title="Mexico",Tooncast
+http://200.92.227.238:8000/play/a0nv/index.m3u8
+#EXTINF:-1 group-title="Mexico",Tru TV
+http://200.92.227.238:8000/play/a0lj/index.m3u8
+#EXTINF:-1 group-title="Mexico",Tv Largato
+http://200.92.227.238:8000/play/a0v3/index.m3u8
+#EXTINF:-1 group-title="Mexico",UNIVERSAL CINEMA ESTE HD
+http://200.92.227.238:8000/play/a0q5/index.m3u8
+#EXTINF:-1 group-title="Mexico",UNIVERSAL COMEDY HD
+http://200.92.227.238:8000/play/a0ou/index.m3u8
+#EXTINF:-1 group-title="Mexico",UNIVERSAL CRIME HD
+http://200.92.227.238:8000/play/a0ot/index.m3u8
+#EXTINF:-1 group-title="Mexico",UNIVERSAL PREMIERE HD
+http://200.92.227.238:8000/play/a0oq/index.m3u8
+#EXTINF:-1 group-title="Mexico",UNIVERSAL PREMIERE O HD
+http://200.92.227.238:8000/play/a0or/index.m3u8
+#EXTINF:-1 group-title="Mexico",UNIVERSAL REALITY HD
+http://200.92.227.238:8000/play/a0os/index.m3u8
+#EXTINF:-1 group-title="Mexico",Univision HD
+http://200.92.227.238:8000/play/a0q3/index.m3u8
+#EXTINF:-1 group-title="Mexico",VTV Canal 35 ESA
+http://200.92.227.238:8000/play/a0sf/index.m3u8
+#EXTINF:-1 group-title="Mexico",WARNER HD
+http://200.92.227.238:8000/play/a0ob/index.m3u8
+#EXTINF:-1 group-title="Mexico",Warner
+http://200.92.227.238:8000/play/a0ny/index.m3u8
+#EXTINF:-1 group-title="Mexico",cine mexicano
+http://200.92.227.238:8000/play/a0v5/index.m3u8
