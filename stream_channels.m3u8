@@ -29,7 +29,7 @@ http://190.61.55.34:2401/play/a00k/index.m3u8
 http://190.61.55.34:2401/play/a04f/index.m3u8
 #EXTINF:-1,@848 TVC Deportes HD
 http://148.230.149.45:1020/play/a01d/index.m3u8
-/* England */
+/* England - Disable Channels */
 #EXTINF:0, group-title="United Kingdom", 500. SKY SPORTS FOOTBALL
 http://178.33.239.54:8080/500a/index.m3u8
 #EXTINF:0, group-title="United Kingdom", 501. SKY SPORTS NEWS
@@ -85,6 +85,19 @@ http://181.66.181.222:1983/play/a1ug/index.m3u8
 http://181.66.181.222:1983/play/a1uh/index.m3u8
 #EXTINF:-1 group-title="Peru",FOX SPORT 3 HD
 http://181.66.181.222:1983/play/a1ui/index.m3u8
+/*Argentina*/
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://201.217.246.84:9000/play/a098/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD
+http://201.217.246.84:9000/play/a09a/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 4 HD
+http://201.217.246.84:9000/play/a084/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+http://201.217.246.84:9000/play/a099/index.m3u8
+#EXTINF:-1 group-title="-",ESPN Premium HD
+http://201.217.246.84:9000/play/a0eg/index.m3u8
+#EXTINF:-1 group-title="-",TNT Sports HD
+http://201.217.246.84:9000/play/a0eh/index.m3u8
 /*Argentina*/
 #EXTINF:-1 group-title="-",FOX SPORT 1
 http://45.68.35.218:4001/play/a021/index.m3u8
