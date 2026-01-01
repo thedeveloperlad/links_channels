@@ -51,37 +51,37 @@ http://178.33.239.54:8080/508a/index.m3u8
 /*Chile*/
 
 /*Peru*/
-#EXTINF:-1 group-title="-",ESPN 2 HD
+#EXTINF:-1 group-title="Peru",ESPN 2 HD
 http://177.53.153.207:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 3 HD
+#EXTINF:-1 group-title="Peru",ESPN 3 HD
 http://177.53.153.207:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 4 HD
+#EXTINF:-1 group-title="Peru",ESPN 4 HD
 http://177.53.153.207:8000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="-",ESPN HD
+#EXTINF:-1 group-title="Peru",ESPN HD
 http://177.53.153.207:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="-",Film & Arts HD
+#EXTINF:-1 group-title="Peru",Film & Arts HD
 http://177.53.153.207:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="-",Fox Sports 2 HD
+#EXTINF:-1 group-title="Peru",Fox Sports 2 HD
 http://177.53.153.207:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="-",Fox Sports 3 HD
+#EXTINF:-1 group-title="Peru",Fox Sports 3 HD
 http://177.53.153.207:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="-",Fox Sports HD
+#EXTINF:-1 group-title="Peru",Fox Sports HD
 http://177.53.153.207:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="-",TyC Sports HD
+#EXTINF:-1 group-title="Peru",TyC Sports HD
 http://177.53.153.207:8000/play/a005/index.m3u8
 /*Peru*/
 /*Argentina*/
-#EXTINF:-1 group-title="-",ESPN 2 HD
+#EXTINF:-1 group-title="Argentina",ESPN 2 HD
 http://201.217.246.84:9000/play/a098/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 3 HD
+#EXTINF:-1 group-title="Argentina",ESPN 3 HD
 http://201.217.246.84:9000/play/a09a/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 4 HD
+#EXTINF:-1 group-title="Argentina",ESPN 4 HD
 http://201.217.246.84:9000/play/a084/index.m3u8
-#EXTINF:-1 group-title="-",ESPN HD
+#EXTINF:-1 group-title="Argentina",ESPN HD
 http://201.217.246.84:9000/play/a099/index.m3u8
-#EXTINF:-1 group-title="-",ESPN Premium HD
+#EXTINF:-1 group-title="Argentina",ESPN Premium HD
 http://201.217.246.84:9000/play/a0eg/index.m3u8
-#EXTINF:-1 group-title="-",TNT Sports HD
+#EXTINF:-1 group-title="Argentina",TNT Sports HD
 http://201.217.246.84:9000/play/a0eh/index.m3u8
 /*Argentina*/
 #EXTINF:-1 group-title="-",FOX SPORT 1
