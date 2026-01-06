@@ -48,6 +48,32 @@ http://178.33.239.54:8080/507a/index.m3u8
 http://178.33.239.54:8080/508a/index.m3u8
 
 /*Chile*/
+#EXTINF:-1 group-title="Chile",ESPN
+http://177.128.113.1:8000/play/a076
+#EXTINF:-1 group-title="Chile",ESPN 2
+http://177.128.113.1:8000/play/a01c
+#EXTINF:-1 group-title="Chile",ESPN 2 HD
+http://177.128.113.1:8000/play/a04o
+#EXTINF:-1 group-title="Chile",ESPN 3 HD
+http://177.128.113.1:8000/play/a08k
+#EXTINF:-1 group-title="Chile",ESPN 4
+http://177.128.113.1:8000/play/a077
+#EXTINF:-1 group-title="Chile",ESPN 4HD
+http://177.128.113.1:8000/play/a07v
+#EXTINF:-1 group-title="Chile",ESPN 5HD
+http://177.128.113.1:8000/play/a08c
+#EXTINF:-1 group-title="Chile",ESPN 6HD
+http://177.128.113.1:8000/play/a086
+#EXTINF:-1 group-title="Chile",ESPN 7
+http://177.128.113.1:8000/play/a078
+#EXTINF:-1 group-title="Chile",ESPN 7HD
+http://177.128.113.1:8000/play/a05h
+#EXTINF:-1 group-title="Chile",ESPN HD
+http://177.128.113.1:8000/play/a07u
+#EXTINF:-1 group-title="Chile",ESPN HD - ISDBT
+http://177.128.113.1:8000/play/a05x
+#EXTINF:-1 group-title="Chile",ESPN Premium HD
+http://177.128.113.1:8000/play/a08q
 /*Chile*/
 
 /*Peru*/
@@ -69,6 +95,31 @@ http://177.53.153.207:8000/play/a001/index.m3u8
 http://177.53.153.207:8000/play/a008/index.m3u8
 #EXTINF:-1 group-title="Peru",TyC Sports HD
 http://177.53.153.207:8000/play/a005/index.m3u8
+
+#EXTINF:-1 group-title="Peru",ESPN
+http://190.117.20.37:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 2
+http://190.117.20.37:8000/play/a0ca/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 2
+http://190.117.20.37:8000/play/a0e1/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 2
+http://190.117.20.37:8000/play/a06n/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 2 HD
+http://190.117.20.37:8000/play/a0ci/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 2 Latin
+http://190.117.20.37:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 3
+http://190.117.20.37:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 4
+http://190.117.20.37:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 5
+http://190.117.20.37:8000/play/a09u/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN6
+http://190.117.20.37:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN7
+http://190.117.20.37:8000/play/a064/index.m3u8
+#EXTINF:-1 group-title="Peru",LIGA 1 MAX
+http://190.117.20.37:8000/play/a08c/index.m3u8
 /*Peru*/
 /*Argentina*/
 #EXTINF:-1 group-title="Argentina",ESPN 2 HD
