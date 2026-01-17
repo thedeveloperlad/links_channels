@@ -27,6 +27,8 @@ http://190.61.55.34:2401/play/a05a/index.m3u8
 http://190.61.55.34:2401/play/a00k/index.m3u8
 #EXTINF:-1 group-title="Colombia",ESPN HD
 http://190.61.55.34:2401/play/a04f/index.m3u8
+#EXTINF:-1 group-title="Colombia",WIN SPORTS
+http://45.171.180.66:8888/play/a039/index.m3u8
 #EXTINF:-1,@848 TVC Deportes HD
 http://148.230.149.45:1020/play/a01d/index.m3u8
 /* England - Disable Channels */
@@ -134,6 +136,8 @@ http://201.217.246.84:9000/play/a099/index.m3u8
 http://201.217.246.84:9000/play/a0eg/index.m3u8
 #EXTINF:-1 group-title="Argentina",TNT Sports HD
 http://201.217.246.84:9000/play/a0eh/index.m3u8
+#EXTINF:-1 group-title="Argentina",TYC SPORTS
+https://livetrx03.vodgc.net/tyc24/index.m3u8
 /*Argentina*/
 #EXTINF:-1 group-title="-",FOX SPORT 1
 http://45.68.35.218:4001/play/a021/index.m3u8
@@ -159,6 +163,35 @@ http://45.68.35.218:4001/play/a00x/index.m3u8
 http://190.217.23.56:1010/play/a0eg/index.m3u8
 #EXTINF:-1 group-title="-",Win Sports+ HD
 http://190.217.23.56:1010/play/a0et/index.m3u8
+
+/* USA server for latino channels */
+#EXTINF:-1,  group-title="United States", TNT SPORTS PREMIUM CL
+http://192.187.102.26:80/playlistfinder/playlistfinder/14.m3u8
+#EXTINF:-1,  group-title="United States", TNT SPORTS 2
+http://192.187.102.26:80/playlistfinder/playlistfinder/15.m3u8
+#EXTINF:-1,  group-title="United States", ESPN
+http://192.187.102.26:80/playlistfinder/playlistfinder/16.m3u8
+#EXTINF:-1,  group-title="United States", ESPN 2
+http://192.187.102.26:80/playlistfinder/playlistfinder/17.m3u8
+#EXTINF:-1,  group-title="United States", ESPN 3
+http://192.187.102.26:80/playlistfinder/playlistfinder/18.m3u8
+#EXTINF:-1,  group-title="United States", ESPN 4
+http://192.187.102.26:80/playlistfinder/playlistfinder/19.m3u8
+#EXTINF:-1,  group-title="United States", ESPN 6
+http://192.187.102.26:80/playlistfinder/playlistfinder/20.m3u8
+#EXTINF:-1,  group-title="United States", ESPN 7
+http://192.187.102.26:80/playlistfinder/playlistfinder/21.m3u8
+#EXTINF:-1,  group-title="United States", ESPN PREMIUM
+http://192.187.102.26:80/playlistfinder/playlistfinder/22.m3u8
+#EXTINF:-1,  group-title="United States", DIRECTV SPORTS
+http://192.187.102.26:80/playlistfinder/playlistfinder/23.m3u8
+#EXTINF:-1,  group-title="United States", DIRECTV SPORTS 2
+http://192.187.102.26:80/playlistfinder/playlistfinder/24.m3u8
+#EXTINF:-1,  group-title="United States", DSPORTS+
+http://192.187.102.26:80/playlistfinder/playlistfinder/25.m3u8
+#EXTINF:-1,  group-title="United States", DSPORTS FIGHT
+http://192.187.102.26:80/playlistfinder/playlistfinder/26.m3u8
+/* USA server for latino channels */
 /****/
 #EXTINF:-1,4k TEST
 http://190.92.10.66:4000/play/a00a/index.m3u8
