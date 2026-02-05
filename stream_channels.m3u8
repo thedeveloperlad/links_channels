@@ -1,35 +1,26 @@
 #EXTM3U
-#EXTINF:-1 group-title="Colombia",ESPN
-http://190.61.55.34:2401/play/a010/index.m3u8
-#EXTINF:-1 group-title="Colombia",ESPN 2
-http://190.61.55.34:2401/play/a02j/index.m3u8
 #EXTINF:-1 group-title="Colombia",ESPN 2 HD
-http://190.61.55.34:2401/play/a03d/index.m3u8
+http://8.243.64.201:2025/play/a0dv/index.m3u8
 #EXTINF:-1 group-title="Colombia",ESPN 3 HD
-http://190.61.55.34:2401/play/a03x/index.m3u8
+http://8.243.64.201:2025/play/a0g2/index.m3u8
 #EXTINF:-1 group-title="Colombia",ESPN 4HD
-http://190.61.55.34:2401/play/a049/index.m3u8
-#EXTINF:-1 group-title="Colombia",ESPN 5
-http://190.61.55.34:2401/play/a06i/index.m3u8
-#EXTINF:-1 group-title="Colombia",ESPN 5 HD
-http://190.61.55.34:2401/play/a01v/index.m3u8
-#EXTINF:-1 group-title="Colombia",ESPN 5HD
-http://190.61.55.34:2401/play/a05s/index.m3u8
+http://8.243.64.201:2025/play/a0fu/index.m3u8
+#EXTINF:-1 group-title="Colombia" ,ESPN 5HD
+http://8.243.64.201:2025/play/a0fz/index.m3u8
 #EXTINF:-1 group-title="Colombia",ESPN 6 HD
-http://190.61.55.34:2401/play/a01w/index.m3u8
-#EXTINF:-1 group-title="Colombia",ESPN 6HD
-http://190.61.55.34:2401/play/a03c/index.m3u8
+http://8.243.64.201:2025/play/a0d4/index.m3u8
 #EXTINF:-1 group-title="Colombia",ESPN 7 HD
-http://190.61.55.34:2401/play/a01x/index.m3u8
-#EXTINF:-1 group-title="Colombia",ESPN 7HD
-http://190.61.55.34:2401/play/a05a/index.m3u8
-#EXTINF:-1 group-title="Colombia",ESPN CO
-http://190.61.55.34:2401/play/a00k/index.m3u8
+http://8.243.64.201:2025/play/a0en/index.m3u8
 #EXTINF:-1 group-title="Colombia",ESPN HD
-http://190.61.55.34:2401/play/a04f/index.m3u8
-#EXTINF:-1 group-title="Colombia",WIN SPORTS
-http://45.171.180.66:8888/play/a039/index.m3u8
-#EXTINF:-1,@848 TVC Deportes HD
+http://8.243.64.201:2025/play/a0ft/index.m3u8
+#EXTINF:-1 group-title="Colombia",Gol TV
+http://8.243.64.201:2025/play/a0f1/index.m3u8
+#EXTINF:-1 group-title="Colombia",TNT Sports Premiun HD
+http://8.243.64.201:2025/play/a0gt/index.m3u8
+#EXTINF:-1 group-title="Colombia",Win Sports+ HD
+http://8.243.64.201:2025/play/a0hw/index.m3u8
+
+#EXTINF:-1 group-title="Mexico",@848 TVC Deportes HD
 http://148.230.149.45:1020/play/a01d/index.m3u8
 /* England - Disable Channels */
 #EXTINF:0, group-title="United Kingdom", 500. SKY SPORTS FOOTBALL
@@ -87,8 +78,6 @@ http://177.53.153.207:8000/play/a00k/index.m3u8
 http://177.53.153.207:8000/play/a00v/index.m3u8
 #EXTINF:-1 group-title="Peru",ESPN HD
 http://177.53.153.207:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Peru",Film & Arts HD
-http://177.53.153.207:8000/play/a00d/index.m3u8
 #EXTINF:-1 group-title="Peru",Fox Sports 2 HD
 http://177.53.153.207:8000/play/a006/index.m3u8
 #EXTINF:-1 group-title="Peru",Fox Sports 3 HD
@@ -122,6 +111,15 @@ http://190.117.20.37:8000/play/a065/index.m3u8
 http://190.117.20.37:8000/play/a064/index.m3u8
 #EXTINF:-1 group-title="Peru",LIGA 1 MAX
 http://190.117.20.37:8000/play/a08c/index.m3u8
+
+#EXTINF:-1 group-title="Peru",ESPN 01 HD
+http://179.63.6.15:8002/play/a02r
+#EXTINF:-1 group-title="Peru",ESPN 02 HD
+http://179.63.6.15:8002/play/a02s
+#EXTINF:-1 group-title="Peru",ESPN 03 HD
+http://179.63.6.15:8002/play/a02t
+#EXTINF:-1 group-title="Peru",ESPN 04 HD
+http://179.63.6.15:8002/play/a02u
 /*Peru*/
 /*Argentina*/
 #EXTINF:-1 group-title="Argentina",ESPN 2 HD
