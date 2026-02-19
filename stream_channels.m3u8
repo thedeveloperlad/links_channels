@@ -22,6 +22,8 @@ http://8.243.64.201:2025/play/a0hw/index.m3u8
 
 #EXTINF:-1 group-title="Mexico",@848 TVC Deportes HD
 http://148.230.149.45:1020/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Portugal",SPORTV+ HD
+http://185.228.163.146:8000/play/a01k/index.m3u8
 /* England - Disable Channels */
 #EXTINF:0, group-title="United Kingdom", 500. SKY SPORTS FOOTBALL
 http://178.33.239.54:8080/500a/index.m3u8
@@ -94,6 +96,23 @@ http://200.229.147.210:9999/play/a031/index.m3u8
 http://200.229.147.210:9999/play/a08l/index.m3u8
 #EXTINF:-1 group-title="Centroamerica",ESPN HD
 http://200.229.147.210:9999/play/a08i/index.m3u8
+#EXTINF:-1 group-title="Centroamerica",TIGO SPORT HN
+http://200.229.147.210:9999/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Centroamerica",TUDN
+http://200.229.147.210:9999/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Centroamerica",FUTV CR
+http://200.229.147.210:9999/play/a06m/index.m3u8
+#EXTINF:-1 group-title="Centroamerica",FUTV HD CR
+http://200.229.147.210:9999/play/a08h/index.m3u8
+#EXTINF:-1 group-title="Centroamerica",DEPORTES TVC
+http://200.229.147.210:9999/play/a01a/index.m3u8
+#EXTINF:-1 group-title="Centroamerica",Claro Sports 2 SD
+http://200.229.147.210:9999/play/a05a/index.m3u8
+#EXTINF:-1 group-title="Centroamerica",Claro Sports 3
+http://200.229.147.210:9999/play/a05b/index.m3u8
+#EXTINF:-1 group-title="Centroamerica",Claro Sports 3 HD
+http://200.229.147.210:9999/play/a00w/index.m3u8
+
 /*Centroamerica CRC HON NIC PAN*/
 
 /*Peru*/
