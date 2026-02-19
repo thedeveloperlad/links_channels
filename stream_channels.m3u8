@@ -69,48 +69,74 @@ http://177.128.113.1:8000/play/a05x
 http://177.128.113.1:8000/play/a08q
 /*Chile*/
 
-/*Peru*/
-#EXTINF:-1 group-title="Peru",ESPN 2 HD
-http://177.53.153.207:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="Peru",ESPN 3 HD
-http://177.53.153.207:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="Peru",ESPN 4 HD
-http://177.53.153.207:8000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="Peru",ESPN HD
-http://177.53.153.207:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Peru",Fox Sports 2 HD
-http://177.53.153.207:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="Peru",Fox Sports 3 HD
-http://177.53.153.207:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="Peru",Fox Sports HD
-http://177.53.153.207:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="Peru",TyC Sports HD
-http://177.53.153.207:8000/play/a005/index.m3u8
+/*Centroamerica CRC HON NIC PAN*/
+#EXTINF:-1 group-title="Centroamerica",ESPN
+http://200.229.147.210:9999/play/a0ba/index.m3u8
+#EXTINF:-1 group-title="Centroamerica",ESPN 4 HD
+http://200.229.147.210:9999/play/a03e/index.m3u8
+#EXTINF:-1 group-title="Centroamerica",ESPN 2
+http://200.229.147.210:9999/play/a0bb/index.m3u8
+#EXTINF:-1 group-title="Centroamerica",ESPN 2 HD
+http://200.229.147.210:9999/play/a08j/index.m3u8
+#EXTINF:-1 group-title="Centroamerica",ESPN 3
+http://200.229.147.210:9999/play/a05c/index.m3u8
+#EXTINF:-1 group-title="Centroamerica",ESPN 3 HD
+http://200.229.147.210:9999/play/a08k/index.m3u8
+#EXTINF:-1 group-title="Centroamerica",ESPN 4
+http://200.229.147.210:9999/play/a05d/index.m3u8
+#EXTINF:-1 group-title="Centroamerica",ESPN 5
+http://200.229.147.210:9999/play/a077/index.m3u8
+#EXTINF:-1 group-title="Centroamerica",ESPN 5 HD
+http://200.229.147.210:9999/play/a07l/index.m3u8
+#EXTINF:-1 group-title="Centroamerica",ESPN 6
+http://200.229.147.210:9999/play/a031/index.m3u8
+#EXTINF:-1 group-title="Centroamerica",ESPN 6 HD
+http://200.229.147.210:9999/play/a08l/index.m3u8
+#EXTINF:-1 group-title="Centroamerica",ESPN HD
+http://200.229.147.210:9999/play/a08i/index.m3u8
+/*Centroamerica CRC HON NIC PAN*/
 
+/*Peru*/
 #EXTINF:-1 group-title="Peru",ESPN
-http://190.117.20.37:8000/play/a05v/index.m3u8
+http://190.119.195.114:8060/play/a0lu/index.m3u8
 #EXTINF:-1 group-title="Peru",ESPN 2
-http://190.117.20.37:8000/play/a0ca/index.m3u8
-#EXTINF:-1 group-title="Peru",ESPN 2
-http://190.117.20.37:8000/play/a0e1/index.m3u8
-#EXTINF:-1 group-title="Peru",ESPN 2
-http://190.117.20.37:8000/play/a06n/index.m3u8
+http://190.119.195.114:8060/play/a0k3/index.m3u8
 #EXTINF:-1 group-title="Peru",ESPN 2 HD
-http://190.117.20.37:8000/play/a0ci/index.m3u8
-#EXTINF:-1 group-title="Peru",ESPN 2 Latin
-http://190.117.20.37:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="Peru",ESPN 3
-http://190.117.20.37:8000/play/a07t/index.m3u8
-#EXTINF:-1 group-title="Peru",ESPN 4
-http://190.117.20.37:8000/play/a05k/index.m3u8
+http://190.119.195.114:8060/play/a0nw/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 2 HD
+http://190.119.195.114:8060/play/a0n3/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 2 HD
+http://190.119.195.114:8060/play/a0iz/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 3 HD
+http://190.119.195.114:8060/play/a0nh/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 4 HD
+http://190.119.195.114:8060/play/a0oy/index.m3u8
 #EXTINF:-1 group-title="Peru",ESPN 5
-http://190.117.20.37:8000/play/a09u/index.m3u8
-#EXTINF:-1 group-title="Peru",ESPN6
-http://190.117.20.37:8000/play/a065/index.m3u8
-#EXTINF:-1 group-title="Peru",ESPN7
-http://190.117.20.37:8000/play/a064/index.m3u8
-#EXTINF:-1 group-title="Peru",LIGA 1 MAX
-http://190.117.20.37:8000/play/a08c/index.m3u8
+http://190.119.195.114:8060/play/a0lg/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 5 HD
+http://190.119.195.114:8060/play/a0n4/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 6
+http://190.119.195.114:8060/play/a0nd/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 6 HD
+http://190.119.195.114:8060/play/a0mx/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 7
+http://190.119.195.114:8060/play/a0jp/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN 7 HD
+http://190.119.195.114:8060/play/a0or/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN HD
+http://190.119.195.114:8060/play/a0jb/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN HD
+http://190.119.195.114:8060/play/a0o5/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN HD
+http://190.119.195.114:8060/play/a0pi/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN HD
+http://190.119.195.114:8060/play/a0iy/index.m3u8
+#EXTINF:-1 group-title="Peru",ESPN Premium HD
+http://190.119.195.114:8060/play/a0o9/index.m3u8
+#EXTINF:-1 group-title="Peru",Movistar Deportes
+http://190.119.195.114:8060/play/a0kj/index.m3u8
+#EXTINF:-1 group-title="Peru",TNT Sports Premiun HD
+http://190.119.195.114:8060/play/a0nv/index.m3u8
 
 #EXTINF:-1 group-title="Peru",ESPN 01 HD
 http://179.63.6.15:8002/play/a02r
