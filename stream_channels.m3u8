@@ -20,6 +20,23 @@ http://8.243.64.201:2025/play/a0gt/index.m3u8
 #EXTINF:-1 group-title="Colombia",Win Sports+ HD
 http://8.243.64.201:2025/play/a0hw/index.m3u8
 
+#EXTINF:-1 group-title="Colombia 2",ESPN
+http://201.219.193.210:3002/play/a0s7
+#EXTINF:-1 group-title="Colombia 2",ESPN 2 HD
+http://201.219.193.210:3002/play/a0qj
+#EXTINF:-1 group-title="Colombia 2",ESPN 3 HD
+http://201.219.193.210:3002/play/a0s6
+#EXTINF:-1 group-title="Colombia 2",ESPN 4 HD
+http://201.219.193.210:3002/play/a0s9
+#EXTINF:-1 group-title="Colombia 2",ESPN 5 HD
+http://201.219.193.210:3002/play/a0s5
+#EXTINF:-1 group-title="Colombia 2",ESPN 6 HD
+http://201.219.193.210:3002/play/a0s3
+#EXTINF:-1 group-title="Colombia 2",ESPN 7 HD
+http://201.219.193.210:3002/play/a0s8
+#EXTINF:-1 group-title="Colombia 2",Espn Premium
+http://201.219.193.210:3002/play/a0r2
+
 #EXTINF:-1 group-title="Mexico",@848 TVC Deportes HD
 http://148.230.149.45:1020/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Portugal",SPORTV+ HD
