@@ -19,6 +19,10 @@ http://8.243.64.201:2025/play/a0f1/index.m3u8
 http://8.243.64.201:2025/play/a0gt/index.m3u8
 #EXTINF:-1 group-title="Colombia",Win Sports+ HD
 http://8.243.64.201:2025/play/a0hw/index.m3u8
+#EXTINF:-1 group-title="United States", FOX Sports 1 - FS1
+http://cord-cutter.net:8080/GloriaMassicotte/Massicotte/1846
+#EXTINF:-1 group-title="United States", FOX Sports 2 - FS2
+http://cord-cutter.net:8080/GloriaMassicotte/Massicotte/1847
 
 #EXTINF:-1 group-title="Colombia 2",ESPN
 http://201.219.193.210:3002/play/a0s7
