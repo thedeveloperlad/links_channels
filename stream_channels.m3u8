@@ -53,6 +53,54 @@ http://201.219.193.210:3002/play/a0r2
 http://148.230.149.45:1020/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Portugal",SPORTV+ HD
 http://185.228.163.146:8000/play/a01k/index.m3u8
+---------------------------------------------
+/*Brasil - March 26, 2026*/
+#EXTINF:-1 group-title="Brasil",ESPN 2 HD
+http://177.0.150.216:8000/play/a009
+#EXTINF:-1 group-title="Brasil",ESPN 3 HD
+http://177.0.150.216:8000/play/a040
+#EXTINF:-1 group-title="Brasil",ESPN 4 HD
+http://177.0.150.216:8000/play/a03e
+#EXTINF:-1 group-title="Brasil",ESPN 5 HD
+http://177.0.150.216:8000/play/a03f
+#EXTINF:-1 group-title="Brasil",ESPN 6 HD
+http://177.0.150.216:8000/play/a00v
+#EXTINF:-1 group-title="Brasil",ESPN HD
+http://177.0.150.216:8000/play/a008
+#EXTINF:-1 group-title="Brasil",NSPORTS HD
+http://177.0.150.216:8000/play/a007
+#EXTINF:-1 group-title="Brasil",Premiere 2 HD
+http://177.0.150.216:8000/play/a00c
+#EXTINF:-1 group-title="Brasil",Premiere 3 HD
+http://177.0.150.216:8000/play/a01c
+#EXTINF:-1 group-title="Brasil",Premiere 4 HD
+http://177.0.150.216:8000/play/a00r
+#EXTINF:-1 group-title="Brasil",Premiere 5 HD
+http://177.0.150.216:8000/play/a00s
+#EXTINF:-1 group-title="Brasil",Premiere 6 HD
+http://177.0.150.216:8000/play/a03l
+#EXTINF:-1 group-title="Brasil",Premiere 7 HD
+http://177.0.150.216:8000/play/a03m
+#EXTINF:-1 group-title="Brasil",Premiere Clubes HD
+http://177.0.150.216:8000/play/a00b
+#EXTINF:-1 group-title="Brasil",Prime Box Brazil HD
+http://177.0.150.216:8000/play/a031
+#EXTINF:-1 group-title="Brasil",SPORTYNET
+http://177.0.150.216:8000/play/a00e
+#EXTINF:-1 group-title="Brasil",SPORTYNET + 1
+http://177.0.150.216:8000/play/a041
+#EXTINF:-1 group-title="Brasil",SPORTYNET + 2
+http://177.0.150.216:8000/play/a00h
+#EXTINF:-1 group-title="Brasil",SPORTYNET + 3
+http://177.0.150.216:8000/play/a00i
+#EXTINF:-1 group-title="Brasil",sportv HD
+http://177.0.150.216:8000/play/a01b
+#EXTINF:-1 group-title="Brasil",sportv2 HD
+http://177.0.150.216:8000/play/a01a
+#EXTINF:-1 group-title="Brasil",sportv3 HD
+http://177.0.150.216:8000/play/a021
+/*Brasil - March 26, 2026*/
+----------------------------
 /* England - Disable Channels */
 #EXTINF:0, group-title="United Kingdom", 500. SKY SPORTS FOOTBALL
 http://178.33.239.54:8080/500a/index.m3u8
