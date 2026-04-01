@@ -33,8 +33,8 @@ http://fortv.cc:8080/ez4evr@icloud.com/7Qw7aHb4x3/1846
 http://fortv.cc:8080/ez4evr@icloud.com/7Qw7aHb4x3/1847
 
 /**/
-#EXTINF:-1 tvg-id="" tvg-name="MLB11  : Giants VS Padres (Giants Feed ) @ 16:10" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (04/01)",MLB11  : Giants VS Padres (Giants Feed ) @ 16:10
-http://supersonictv.live:8080/006943/072377/87710
+#EXTINF:-1 tvg-id="SP: NBCSN BAY AREA" tvg-name="USA CBSN Bay Area" tvg-logo="https://www.crispincorp.com/wp-content/uploads/2018/02/CBSN-logo.png" group-title="NEWS & WEATHER",USA CBSN Bay Area
+http://supersonictv.live:8080/006943/072377/77559
 
 #EXTINF:-1 group-title="Colombia 2",ESPN
 http://201.219.193.210:3002/play/a0s7
