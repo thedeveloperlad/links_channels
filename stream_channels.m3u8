@@ -33,10 +33,8 @@ http://fortv.cc:8080/ez4evr@icloud.com/7Qw7aHb4x3/1846
 http://fortv.cc:8080/ez4evr@icloud.com/7Qw7aHb4x3/1847
 
 /**/
-#EXTINF:-1 tvg-id="US: NBC SPORTS BAY AREA" tvg-name="USA NBC Sports Bay Area Plus" tvg-logo="https://www.kindpng.com/picc/m/469-4690554_nbc-sports-bay-area-nbc-sports-bay-area.png" group-title="FOX & NBC SPORTS",USA NBC Sports Bay Area Plus
-http://supersonictv.live:8080/006943/072377/78964
-#EXTINF:-1 tvg-id="US: NBC SPORTS BAY AREA" tvg-name="USA NBC Sports Bay Area" tvg-logo="https://www.kindpng.com/picc/m/469-4690554_nbc-sports-bay-area-nbc-sports-bay-area.png" group-title="FOX & NBC SPORTS",USA NBC Sports Bay Area
-http://supersonictv.live:8080/006943/072377/78963
+#EXTINF:-1 xui-id="80421" tvg-id="SanDiegoPadres.mlb" tvg-name="MLB SAN DIEGO PADRES" tvg-logo="http://46.151.196.243:80/images/nrVk1YX_5J1i5EmzOJtm2imB79GAya8oQQ6bI1UBU1iWsN5IDGLRWtcwqCRCpUcIuWWeJdrhJuScSMRqP5DpQiZJN-RA8-koMfnUneUonaI.png" group-title="MLB Extra Innings (Sports)",MLB SAN DIEGO PADRES
+http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lv4T2SgENkdPmevuQwA8jCf7KWM-WOPSCgH4-8Tt3cvdl
 
 #EXTINF:-1 group-title="Colombia 2",ESPN
 http://201.219.193.210:3002/play/a0s7
