@@ -31,6 +31,31 @@ http://cord-cutter.net:8080/GloriaMassicotte/Massicotte/46792
 http://fortv.cc:8080/ez4evr@icloud.com/7Qw7aHb4x3/1846
 #EXTINF:-1 group-title="United States", FOX Sports 2 - FS2
 http://fortv.cc:8080/ez4evr@icloud.com/7Qw7aHb4x3/1847
+
+#EXTINF:-1 group-title="Georgia ",Diema Sport 2 HD
+http://45.9.44.143:5020/play/a03a/index.m3u8
+#EXTINF:-1 group-title="Georgia ",Diema Sport HD
+http://45.9.44.143:5020/play/a038/index.m3u8
+#EXTINF:-1 group-title="Georgia ",FEED 2
+http://45.9.44.143:5020/play/a0b3/index.m3u8
+#EXTINF:-1 group-title="Georgia ",LTU-005 main
+http://45.9.44.143:5020/play/a0b0/index.m3u8
+#EXTINF:-1 group-title="Georgia ",MAX Sport 1 HD
+http://45.9.44.143:5020/play/1f0a/index.m3u8
+#EXTINF:-1 group-title="Georgia ",MAX Sport 2 HD
+http://45.9.44.143:5020/play/rvgu/index.m3u8
+#EXTINF:-1 group-title="Georgia ",MAX Sport 3 HD
+http://45.9.44.143:5020/play/yuk1/index.m3u8
+#EXTINF:-1 group-title="Georgia ",MAX Sport 4 HD
+http://45.9.44.143:5020/play/a04a/index.m3u8
+#EXTINF:-1 group-title="Georgia ",NLEMG HOL270-1
+http://45.9.44.143:5020/play/a0b5/index.m3u8
+#EXTINF:-1 group-title="Georgia ",Polsat Sport Premium 1
+http://45.9.44.143:5020/play/a08x/index.m3u8
+#EXTINF:-1 group-title="Georgia ",Polsat Sport Premium 2
+http://45.9.44.143:5020/play/a08y/index.m3u8
+#EXTINF:-1 group-title="Georgia ",SUI-44-3
+http://45.9.44.143:5020/play/a0b4/index.m3u8
 /**/
 #EXTINF:-1 tvg-id="ABC ALBANY NY WTEN" tvg-name="MLB 04 | SAN DIEGO PADRES VS PITTSBURGH PIRATES APR 7 6:40 PM" tvg-logo="" group-title="MLB EXTRA INNINGS (04/07)",MLB 04 | SAN DIEGO PADRES VS PITTSBURGH PIRATES APR 7 6:40 PM
 http://supersonictv.live:8080/006943/072377/13693
