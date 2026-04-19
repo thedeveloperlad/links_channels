@@ -57,10 +57,11 @@ http://45.9.44.143:5020/play/a08y/index.m3u8
 #EXTINF:-1 group-title="Georgia ",SUI-44-3
 http://45.9.44.143:5020/play/a0b4/index.m3u8
 /**/
-#EXTINF:-1 tvg-id="ABC ALBANY NY WTEN" tvg-name="MLB 04 | SAN DIEGO PADRES VS PITTSBURGH PIRATES APR 7 6:40 PM" tvg-logo="" group-title="MLB EXTRA INNINGS (04/07)",MLB 04 | SAN DIEGO PADRES VS PITTSBURGH PIRATES APR 7 6:40 PM
-http://supersonictv.live:8080/006943/072377/13693
-#EXTINF:-1 tvg-id="" tvg-name="MLB17 :  San Diego Padres vs Pittsburgh Pirates @ 06:40 pm EDT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (04/07)", San Diego Padres vs Pittsburgh Pirates @ 06:40 pm EDT
-http://supersonictv.live:8080/006943/072377/87716
+#EXTINF:-1 xui-id="1002155" tvg-id="ESPN+ 172" tvg-name="ESPN+ 172 | 03:23PM SAN DIEGO PADRES VS. LOS ANGELES ANGELS (APR 19)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/9ff9ddbe-58f4-490e-96a4-113bba2caa2c/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ (Sports)",ESPN+ 172 | 03:23PM SAN DIEGO PADRES VS. LOS ANGELES ANGELS (APR 19)
+http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lvxON4WcOiEXyt1JXOHajlEMqEwV5Docy0yAw-UHRmntY
+#EXTINF:-1 xui-id="1002161" tvg-id="ESPN+ 178" tvg-name="ESPN+ 178 | 04:00PM SAN DIEGO PADRES VS. LOS ANGELES ANGELS (APR 19)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/94c747ac-e43a-4812-96e7-5dc446725740/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ (Sports)",ESPN+ 178 | 04:00PM SAN DIEGO PADRES VS. LOS ANGELES ANGELS (APR 19)
+http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lvxON4WcOiEXyt1JXOHajlENMPrbNCAiarpCu7gjoMlTK
+
 /**/
 #EXTINF:-1 xui-id="80399" tvg-id="ArizonaDiamondbacks.mlb" tvg-name="MLB ARIZONA DIAMONDBACKS" tvg-logo="http://46.151.196.243:80/images/75Dasug4Cl3n03mPqiyvKVsQ2F8hkXGvkQ3ODsETx1k.png" group-title="MLB Extra Innings (Sports)",MLB ARIZONA DIAMONDBACKS
 http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lv59zlvmCJa0AQWgSqlCb4MhifxTSUT2JqOFdnNa_CvdQ
