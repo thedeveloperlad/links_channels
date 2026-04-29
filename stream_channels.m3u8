@@ -65,12 +65,8 @@ http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lvxON4WcOiEXyt1JXOHajlEMqEwV5Do
 http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lvxON4WcOiEXyt1JXOHajlENMPrbNCAiarpCu7gjoMlTK
 #EXTINF:-1 tvg-id="US: MARQUEE SPORTS NETWORK" tvg-name="USA Marquee Sports Network" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTcwMjczNDM1MTM2NTY2NjA3/marquee-logo-smaller.jpg" group-title="OTHER SPORTS (US+UK+CA)",USA Marquee Sports Network
 http://supersonictv.live:8080/006943/072377/40408
-#EXTINF:-1 tvg-id="ABC ALBANY NY WTEN" tvg-name="MLB 07 | CHICAGO CUBS VS SAN DIEGO PADRES APR 27 9:40 PM" tvg-logo="" group-title="MLB EXTRA INNINGS (04/27)",MLB 07 | CHICAGO CUBS VS SAN DIEGO PADRES APR 27 9:40 PM
-http://supersonictv.live:8080/006943/072377/13696
-#EXTINF:-1 tvg-id="" tvg-name="MLB05 : Cubs VS Padres (Cubs Feed ) @ 21:40" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (04/27)",MLB05 : Cubs VS Padres (Cubs Feed ) @ 21:40
-http://supersonictv.live:8080/006943/072377/87704
-#EXTINF:-1 tvg-id="ABC ALBANY NY WTEN" tvg-name="MLB 07 | CHICAGO CUBS VS SAN DIEGO PADRES APR 27 9:40 PM" tvg-logo="" group-title="MLB EXTRA INNINGS (04/27)",MLB 07 | CHICAGO CUBS VS SAN DIEGO PADRES APR 27 9:40 PM
-http://supersonictv.live:8080/006943/072377/13696
+#EXTINF:-1 tvg-id="" tvg-name="MLB11  :   Cubs VS Padres (Cubs Feed ) @ 21:40" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (04/28)",MLB11  :   Cubs VS Padres (Cubs Feed ) @ 21:40
+http://supersonictv.live:8080/006943/072377/87710
 /**/
 #EXTINF:-1 xui-id="80399" tvg-id="ArizonaDiamondbacks.mlb" tvg-name="MLB ARIZONA DIAMONDBACKS" tvg-logo="http://46.151.196.243:80/images/75Dasug4Cl3n03mPqiyvKVsQ2F8hkXGvkQ3ODsETx1k.png" group-title="MLB Extra Innings (Sports)",MLB ARIZONA DIAMONDBACKS
 http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lv59zlvmCJa0AQWgSqlCb4MhifxTSUT2JqOFdnNa_CvdQ
@@ -165,6 +161,43 @@ http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lv59zlvmCJa0AQWgSqlCb4Mhs9D_8zy
 http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lv59zlvmCJa0AQWgSqlCb4MjXd6Gnrr_PLGBjiZC6vAxP
 #EXTINF:-1 xui-id="80373" tvg-id="MLB 16" tvg-name="MLB 16 |" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Kk1HiuyLAc1EHKQ_cMFRMwHaFe%26pid%3DApi&f=1&ipt=138084b29e523a17d5c63563a9897d935d114b854abcdb1780efa8cf50600832&ipo=images" group-title="MLB Extra Innings (Sports)",MLB 16 |
 http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lv59zlvmCJa0AQWgSqlCb4MiBU6ZRl6yNd_V5vY8AM5tw
+
+/*TODAY APRL 28, 2026*/
+#EXTINF:-1 tvg-id="" tvg-name="MLB 01  : Astros VS Orioles (Orioles Feed ) @ 18:35" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (04/28)",MLB 01  : Astros VS Orioles (Orioles Feed ) @ 18:35
+http://supersonictv.live:8080/006943/072377/87700
+#EXTINF:-1 tvg-id="" tvg-name="MLB02 : Astros VS Orioles (Astros Feed ) @ 18:35" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (04/28)",MLB02 : Astros VS Orioles (Astros Feed ) @ 18:35
+http://supersonictv.live:8080/006943/072377/87701
+#EXTINF:-1 tvg-id="" tvg-name="MLB03 :  Rockies VS Reds (Rockies Feed ) @ 18:40" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (04/28)",MLB03 :  Rockies VS Reds (Rockies Feed ) @ 18:40
+http://supersonictv.live:8080/006943/072377/87702
+#EXTINF:-1 tvg-id="" tvg-name="MLB04 : Giants VS Phillies (Phillies Feed ) @ 18:40" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (04/28)",MLB04 : Giants VS Phillies (Phillies Feed ) @ 18:40
+http://supersonictv.live:8080/006943/072377/87703
+#EXTINF:-1 tvg-id="" tvg-name="MLB05 : Giants VS Phillies (Giants Feed ) @ 18:40" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (04/28)",MLB05 : Giants VS Phillies (Giants Feed ) @ 18:40
+http://supersonictv.live:8080/006943/072377/87704
+#EXTINF:-1 tvg-id="" tvg-name="MLB06 :  Nationals VS Mets (Mets Feed ) @ 19:10" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (04/28)",MLB06 :  Nationals VS Mets (Mets Feed ) @ 19:10
+http://supersonictv.live:8080/006943/072377/87705
+#EXTINF:-1 tvg-id="" tvg-name="MLB07 :Tigers VS Braves (TBS Feed ) @ 19:15" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (04/28)",MLB07 :Tigers VS Braves (TBS Feed ) @ 19:15
+http://supersonictv.live:8080/006943/072377/87706
+#EXTINF:-1 tvg-id="" tvg-name="MLB08 : D-backs VS Brewers (D-backs Feed ) @ 19:40" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (04/28)",MLB08 : D-backs VS Brewers (D-backs Feed ) @ 19:40
+http://supersonictv.live:8080/006943/072377/87707
+#EXTINF:-1 tvg-id="" tvg-name="MLB 09 : Yankees VS Rangers (Rangers Feed ) @ 20:05" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (04/28)",MLB 09 : Yankees VS Rangers (Rangers Feed ) @ 20:05
+http://supersonictv.live:8080/006943/072377/87708
+#EXTINF:-1 tvg-id="" tvg-name="MLB10 :   Royals VS Athletics (Athletics Feed ) @ 21:40" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (04/28)",MLB10 :   Royals VS Athletics (Athletics Feed ) @ 21:40
+http://supersonictv.live:8080/006943/072377/87709
+#EXTINF:-1 tvg-id="" tvg-name="MLB11  :   Cubs VS Padres (Cubs Feed ) @ 21:40" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (04/28)",MLB11  :   Cubs VS Padres (Cubs Feed ) @ 21:40
+http://supersonictv.live:8080/006943/072377/87710
+#EXTINF:-1 tvg-id="" tvg-name="MLB12 :   Marlins VS Dodgers (Dodgers Feed ) @ 22:10" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (04/28)",MLB12 :   Marlins VS Dodgers (Dodgers Feed ) @ 22:10
+http://supersonictv.live:8080/006943/072377/87711
+#EXTINF:-1 tvg-id="" tvg-name="MLB13 :   Tampa Bay Rays vs Cleveland Guardians @ 06:10 pm EDT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (04/28)",MLB13 :   Tampa Bay Rays vs Cleveland Guardians @ 06:10 pm EDT
+http://supersonictv.live:8080/006943/072377/87712
+#EXTINF:-1 tvg-id="" tvg-name="MLB14 :  St. Louis Cardinals vs Pittsburgh Pirates @ 06:40 pm EDT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (04/28)",MLB14 :  St. Louis Cardinals vs Pittsburgh Pirates @ 06:40 pm EDT
+http://supersonictv.live:8080/006943/072377/87713
+#EXTINF:-1 tvg-id="" tvg-name="MLB15 : Boston Red Sox vs Toronto Blue Jays @ 07:07 pm EDT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (04/28)",MLB15 : Boston Red Sox vs Toronto Blue Jays @ 07:07 pm EDT
+http://supersonictv.live:8080/006943/072377/87714
+#EXTINF:-1 tvg-id="" tvg-name="MLB16 : Los Angeles Angels vs Chicago White Sox @ 07:40 pm EDT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (04/28)",MLB16 : Los Angeles Angels vs Chicago White Sox @ 07:40 pm EDT
+http://supersonictv.live:8080/006943/072377/87715
+#EXTINF:-1 tvg-id="" tvg-name="MLB17 :  Seattle Mariners vs Minnesota Twins @ 07:40 pm EDT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (04/28)",MLB17 :  Seattle Mariners vs Minnesota Twins @ 07:40 pm EDT
+http://supersonictv.live:8080/006943/072377/87716
+/*TODAY APRL 28, 2026*/
 
 #EXTINF:-1 group-title="Colombia 2",ESPN
 http://201.219.193.210:3002/play/a0s7
