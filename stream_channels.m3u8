@@ -20,6 +20,8 @@ http://8.243.64.201:2025/play/a0gt/index.m3u8
 #EXTINF:-1 group-title="Colombia",Win Sports+ HD
 http://8.243.64.201:2025/play/a0hw/index.m3u8
 #EXTINF:-1 group-title="United States", FOX Deportes
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 group-title="United States", FOX Deportes (Tubi USA)
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 #EXTINF:-1 group-title="United States", FOX Sports 1 - FS1
 http://cord-cutter.net:8080/GloriaMassicotte/Massicotte/1846
