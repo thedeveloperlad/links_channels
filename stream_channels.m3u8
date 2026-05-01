@@ -21,6 +21,58 @@ http://8.243.64.201:2025/play/a0f1/index.m3u8
 http://8.243.64.201:2025/play/a0gt/index.m3u8
 #EXTINF:-1 group-title="Colombia",Win Sports+ HD
 http://8.243.64.201:2025/play/a0hw/index.m3u8
+
+#EXTINF:-1 group-title="Ecuador",ESPN
+http://170.244.209.30:8000/play/a0yw/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN
+http://170.244.209.30:8000/play/a064/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN
+http://170.244.209.30:8000/play/a0yx/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN 4 HD
+http://170.244.209.30:8000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN 2
+http://170.244.209.30:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN 2 HD
+http://170.244.209.30:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN 2 HD
+http://170.244.209.30:8000/play/a0hg/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN 3 HD
+http://170.244.209.30:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN 3 HD
+http://170.244.209.30:8000/play/a0mr/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN 4HD
+http://170.244.209.30:8000/play/a0nj/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN 5
+http://170.244.209.30:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN 5
+http://170.244.209.30:8000/play/a132/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN 5 HD
+http://170.244.209.30:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN 5HD
+http://170.244.209.30:8000/play/a0mm/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN 6
+http://170.244.209.30:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN 6 HD
+http://170.244.209.30:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN 6HD
+http://170.244.209.30:8000/play/a0go/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN 6HD
+http://170.244.209.30:8000/play/a0mq/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN 7
+http://170.244.209.30:8000/play/a15h/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN 7HD
+http://170.244.209.30:8000/play/a0ni/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN 7HD
+http://170.244.209.30:8000/play/a0ib/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN HD
+http://170.244.209.30:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN HD
+http://170.244.209.30:8000/play/a0mo/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN HD
+http://170.244.209.30:8000/play/a153/index.m3u8
+#EXTINF:-1 group-title="Ecuador",ESPN Premium HD
+http://170.244.209.30:8000/play/a0sb/index.m3u8
+
 #EXTINF:-1 group-title="United States", FOX Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 group-title="United States", FOX Deportes (Tubi USA)
