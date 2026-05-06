@@ -168,8 +168,6 @@ http://45.9.44.143:5020/play/a0b4/index.m3u8
 /**/
 #EXTINF:-1 tvg-id="US: MARQUEE SPORTS NETWORK" tvg-name="USA Marquee Sports Network" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTcwMjczNDM1MTM2NTY2NjA3/marquee-logo-smaller.jpg" group-title="OTHER SPORTS (US+UK+CA)",USA Marquee Sports Network
 http://supersonictv.live:8080/006943/072377/40408
-#EXTINF:-1 tvg-id="" tvg-name="MLB16 :  Chicago White Sox vs San Diego Padres c @ 09:40 pm EDT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (05/01)",MLB16 :  Chicago White Sox vs San Diego Padresc @ 09:40 pm EDT
-http://supersonictv.live:8080/006943/072377/87715
 /**/
 #EXTINF:-1 xui-id="80399" tvg-id="ArizonaDiamondbacks.mlb" tvg-name="MLB ARIZONA DIAMONDBACKS" tvg-logo="http://46.151.196.243:80/images/75Dasug4Cl3n03mPqiyvKVsQ2F8hkXGvkQ3ODsETx1k.png" group-title="MLB Extra Innings (Sports)",MLB ARIZONA DIAMONDBACKS
 http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lv59zlvmCJa0AQWgSqlCb4MhifxTSUT2JqOFdnNa_CvdQ
@@ -265,21 +263,6 @@ http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lv59zlvmCJa0AQWgSqlCb4MjXd6Gnrr
 #EXTINF:-1 xui-id="80373" tvg-id="MLB 16" tvg-name="MLB 16 |" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Kk1HiuyLAc1EHKQ_cMFRMwHaFe%26pid%3DApi&f=1&ipt=138084b29e523a17d5c63563a9897d935d114b854abcdb1780efa8cf50600832&ipo=images" group-title="MLB Extra Innings (Sports)",MLB 16 |
 http://46.151.196.243:80/play/Q3cftrGRoQO7W-mpLB4lv59zlvmCJa0AQWgSqlCb4MiBU6ZRl6yNd_V5vY8AM5tw
 
-/*TODAY APRL 28, 2026*/
-#EXTINF:-1 tvg-id="I213.62081.schedulesdirect.org" tvg-name="MLB Network" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" group-title="DEPORTES",MLB Network
-http://satk.pro:2082/diegomartinez/1743dgm/38900
-#EXTINF:-1 tvg-id="" tvg-name="MLB Network 2" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" group-title="DEPORTES",MLB Network 2
-http://satk.pro:2082/diegomartinez/1743dgm/49190
-#EXTINF:-1 tvg-id="" tvg-name="MLB Network 3" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" group-title="DEPORTES",MLB Network 3
-http://satk.pro:2082/diegomartinez/1743dgm/49191
-#EXTINF:-1 tvg-id="" tvg-name="MLB Network 4" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" group-title="DEPORTES",MLB Network 4
-http://satk.pro:2082/diegomartinez/1743dgm/52073
-#EXTINF:-1 tvg-id="" tvg-name="MLB Network 5" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" group-title="DEPORTES",MLB Network 5
-http://satk.pro:2082/diegomartinez/1743dgm/76978
-#EXTINF:-1 tvg-id="" tvg-name="MLB Network 6" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" group-title="DEPORTES",MLB Network 6
-http://satk.pro:2082/diegomartinez/1743dgm/76979
-/*TODAY APRL 28, 2026*/
-
 #EXTINF:-1 group-title="Colombia 2",ESPN
 http://201.219.193.210:3002/play/a0s7
 #EXTINF:-1 group-title="Colombia 2",ESPN 2 HD
@@ -305,52 +288,9 @@ http://148.230.149.45:1020/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Portugal",SPORTV+ HD
 http://185.228.163.146:8000/play/a01k/index.m3u8
 ---------------------------------------------
-/*Brasil - March 26, 2026*/
-#EXTINF:-1 group-title="Brasil",ESPN 2 HD
-http://177.0.150.216:8000/play/a009
-#EXTINF:-1 group-title="Brasil",ESPN 3 HD
-http://177.0.150.216:8000/play/a040
-#EXTINF:-1 group-title="Brasil",ESPN 4 HD
-http://177.0.150.216:8000/play/a03e
-#EXTINF:-1 group-title="Brasil",ESPN 5 HD
-http://177.0.150.216:8000/play/a03f
-#EXTINF:-1 group-title="Brasil",ESPN 6 HD
-http://177.0.150.216:8000/play/a00v
-#EXTINF:-1 group-title="Brasil",ESPN HD
-http://177.0.150.216:8000/play/a008
-#EXTINF:-1 group-title="Brasil",NSPORTS HD
-http://177.0.150.216:8000/play/a007
-#EXTINF:-1 group-title="Brasil",Premiere 2 HD
-http://177.0.150.216:8000/play/a00c
-#EXTINF:-1 group-title="Brasil",Premiere 3 HD
-http://177.0.150.216:8000/play/a01c
-#EXTINF:-1 group-title="Brasil",Premiere 4 HD
-http://177.0.150.216:8000/play/a00r
-#EXTINF:-1 group-title="Brasil",Premiere 5 HD
-http://177.0.150.216:8000/play/a00s
-#EXTINF:-1 group-title="Brasil",Premiere 6 HD
-http://177.0.150.216:8000/play/a03l
-#EXTINF:-1 group-title="Brasil",Premiere 7 HD
-http://177.0.150.216:8000/play/a03m
-#EXTINF:-1 group-title="Brasil",Premiere Clubes HD
-http://177.0.150.216:8000/play/a00b
-#EXTINF:-1 group-title="Brasil",Prime Box Brazil HD
-http://177.0.150.216:8000/play/a031
-#EXTINF:-1 group-title="Brasil",SPORTYNET
-http://177.0.150.216:8000/play/a00e
-#EXTINF:-1 group-title="Brasil",SPORTYNET + 1
-http://177.0.150.216:8000/play/a041
-#EXTINF:-1 group-title="Brasil",SPORTYNET + 2
-http://177.0.150.216:8000/play/a00h
-#EXTINF:-1 group-title="Brasil",SPORTYNET + 3
-http://177.0.150.216:8000/play/a00i
-#EXTINF:-1 group-title="Brasil",sportv HD
-http://177.0.150.216:8000/play/a01b
-#EXTINF:-1 group-title="Brasil",sportv2 HD
-http://177.0.150.216:8000/play/a01a
-#EXTINF:-1 group-title="Brasil",sportv3 HD
-http://177.0.150.216:8000/play/a021
-/*Brasil - March 26, 2026*/
+/*Brasil*/
+
+/*Brasil*/
 ----------------------------
 /* England - Disable Channels */
 #EXTINF:0, group-title="United Kingdom", 500. SKY SPORTS FOOTBALL
@@ -371,32 +311,6 @@ http://178.33.239.54:8080/507a/index.m3u8
 http://178.33.239.54:8080/508a/index.m3u8
 
 /*Chile*/
-#EXTINF:-1 group-title="Chile",ESPN
-http://177.128.113.1:8000/play/a076
-#EXTINF:-1 group-title="Chile",ESPN 2
-http://177.128.113.1:8000/play/a01c
-#EXTINF:-1 group-title="Chile",ESPN 2 HD
-http://177.128.113.1:8000/play/a04o
-#EXTINF:-1 group-title="Chile",ESPN 3 HD
-http://177.128.113.1:8000/play/a08k
-#EXTINF:-1 group-title="Chile",ESPN 4
-http://177.128.113.1:8000/play/a077
-#EXTINF:-1 group-title="Chile",ESPN 4HD
-http://177.128.113.1:8000/play/a07v
-#EXTINF:-1 group-title="Chile",ESPN 5HD
-http://177.128.113.1:8000/play/a08c
-#EXTINF:-1 group-title="Chile",ESPN 6HD
-http://177.128.113.1:8000/play/a086
-#EXTINF:-1 group-title="Chile",ESPN 7
-http://177.128.113.1:8000/play/a078
-#EXTINF:-1 group-title="Chile",ESPN 7HD
-http://177.128.113.1:8000/play/a05h
-#EXTINF:-1 group-title="Chile",ESPN HD
-http://177.128.113.1:8000/play/a07u
-#EXTINF:-1 group-title="Chile",ESPN HD - ISDBT
-http://177.128.113.1:8000/play/a05x
-#EXTINF:-1 group-title="Chile",ESPN Premium HD
-http://177.128.113.1:8000/play/a08q
 /*Chile*/
 
 /*Centroamerica CRC HON NIC PAN*/
@@ -440,7 +354,6 @@ http://200.229.147.210:9999/play/a05a/index.m3u8
 http://200.229.147.210:9999/play/a05b/index.m3u8
 #EXTINF:-1 group-title="Centroamerica",Claro Sports 3 HD
 http://200.229.147.210:9999/play/a00w/index.m3u8
-
 /*Centroamerica CRC HON NIC PAN*/
 
 /*Peru*/
@@ -495,53 +408,8 @@ http://179.63.6.15:8002/play/a02t
 http://179.63.6.15:8002/play/a02u
 /*Peru*/
 /*Argentina - 14 April 2026 */
-#EXTINF:-1 group-title="Argentina",ESPN 1 HD FIBRA
-http://186.52.166.70:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="Argentina",ESPN 2 HD Bu (81w)
-http://186.52.166.70:8000/play/a08a/index.m3u8
-#EXTINF:-1 group-title="Argentina",ESPN 2 HD FIBRA
-http://186.52.166.70:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="Argentina",ESPN 3 HD Bu (81w)
-http://186.52.166.70:8000/play/a08c/index.m3u8
-#EXTINF:-1 group-title="Argentina",ESPN 3 HD FIBRA
-http://186.52.166.70:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="Argentina",ESPN 4 HD Bu (81w)
-http://186.52.166.70:8000/play/a037/index.m3u8
-#EXTINF:-1 group-title="Argentina",ESPN 4 HD FIBRA
-http://186.52.166.70:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="Argentina",ESPN 6 HD FIBRA
-http://186.52.166.70:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="Argentina",ESPN 7 HD FIBRA
-http://186.52.166.70:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="Argentina",ESPN HD
-http://186.52.166.70:8000/play/a0am/index.m3u8
-#EXTINF:-1 group-title="Argentina",ESPN HD Bu (81w)
-http://186.52.166.70:8000/play/a08b/index.m3u8
-#EXTINF:-1 group-title="Argentina",ESPN HD FIBRA
-http://186.52.166.70:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="Argentina",ESPN Premium HD Bu (81w)
-http://186.52.166.70:8000/play/a039/index.m3u8
-#EXTINF:-1 group-title="Argentina",Fox Sports 2 HD Bu (81w)
-http://186.52.166.70:8000/play/a08d/index.m3u8
-#EXTINF:-1 group-title="Argentina",Fox Sports 3 HD Bu
-http://186.52.166.70:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="Argentina",Fox Sports HD Bu (81w)
-http://186.52.166.70:8000/play/a038/index.m3u8
-#EXTINF:-1 group-title="Argentina",GOL TV HD FIBRA
-http://186.52.166.70:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="Argentina",GOL TV HD FIBRA
-http://186.52.166.70:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="Argentina",SPORTV 3 HD FIBRA
-http://186.52.166.70:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="Argentina",SPORTV 2 HD
-http://186.52.166.70:8000/play/a0b3/index.m3u8
-#EXTINF:-1 group-title="Argentina",SPORTV HD FIBRA
-http://186.52.166.70:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="Argentina",TNT Sports HD Bu (81w)
-http://186.52.166.70:8000/play/a072/index.m3u8
-#EXTINF:-1 group-title="Argentina",TyC Sports HD Bu (81w)
-http://186.52.166.70:8000/play/a03m/index.m3u8
 /*Argentina*/
+
 #EXTINF:-1 group-title="-",FOX SPORT 1
 http://45.68.35.218:4001/play/a021/index.m3u8
 #EXTINF:-1 group-title="-",FOX SPORT 2
