@@ -1,20 +1,73 @@
 #EXTM3U
 #EXTINF:0 group-title="Colombia",ESPN 2 HD
 http://181.78.82.6:46090/play/a08i/index.m3u8
-#EXTINF:0 group-title="Colombia",ESPN 2 HD
-http://181.78.82.6:46090/play/a00i/index.m3u8
-#EXTINF:0 group-title="Colombia",ESPN 3 HD
-http://181.78.82.6:46090/play/a00v/index.m3u8
-#EXTINF:0 group-title="Colombia",ESPN 4 HD
-http://181.78.82.6:46090/play/a06d/index.m3u8
-#EXTINF:0 group-title="Colombia",ESPN 5 HD
-http://181.78.82.6:46090/play/a077/index.m3u8
-#EXTINF:0 group-title="Colombia",ESPN 6 HD
-http://181.78.82.6:46090/play/a00w/index.m3u8
-#EXTINF:0 group-title="Colombia",ESPN 7HD
-http://181.78.82.6:46090/play/a093/index.m3u8
-#EXTINF:0 group-title="LA",ESPN Premium HD
-http://181.78.82.6:46090/play/a075/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN 2 HD
+http://190.60.48.151:8010/play/a0au/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN 2 HD
+http://190.60.48.151:8010/play/a076/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN 2 HD
+http://190.60.48.151:8010/play/a095/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN 2 HD
+http://190.60.48.151:8010/play/a09l/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN 3
+http://190.60.48.151:8010/play/a08s/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN 3 HD
+http://190.60.48.151:8010/play/a074/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN 3 HD
+http://190.60.48.151:8010/play/a07d/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN 3 HD
+http://190.60.48.151:8010/play/a092/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN 4 HD
+http://190.60.48.151:8010/play/a07i/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN 4HD
+http://190.60.48.151:8010/play/a091/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN 4HD
+http://190.60.48.151:8010/play/a073/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN 5
+http://190.60.48.151:8010/play/a072/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN 5 HD
+http://190.60.48.151:8010/play/a07b/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN 6
+http://190.60.48.151:8010/play/a08q/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN 6
+http://190.60.48.151:8010/play/a07c/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN 6 HD
+http://190.60.48.151:8010/play/a07a/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN 6HD
+http://190.60.48.151:8010/play/a093/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN 6HD
+http://190.60.48.151:8010/play/a075/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN 7 HD
+http://190.60.48.151:8010/play/a079/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN 7 HD
+http://190.60.48.151:8010/play/a07g/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN HD
+http://190.60.48.151:8010/play/a09r/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN HD
+http://190.60.48.151:8010/play/a077/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN HD
+http://190.60.48.151:8010/play/a0b1/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN Premium HD
+http://190.60.48.151:8010/play/a09v/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN Premium HD
+http://190.60.48.151:8010/play/a0b5/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN1_TVV
+http://190.60.48.151:8010/play/ESPN1_TVV/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN2_TVV
+http://190.60.48.151:8010/play/ESPN2_TVV/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN3_TVV
+http://190.60.48.151:8010/play/ESPN3_TVV/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN4_TVV
+http://190.60.48.151:8010/play/ESPN4_TVV/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN5_TVV
+http://190.60.48.151:8010/play/ESPN5_TVV/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN6_TVV
+http://190.60.48.151:8010/play/ESPN6_TVV/index.m3u8
+#EXTINF:-1 group-title="Colombia", ESPN7_TVV
+http://190.60.48.151:8010/play/ESPN7_TVV/index.m3u8
+#EXTINF:-1 group-title="Colombia", TNT Sports Premiun HD
+http://190.60.48.151:8010/play/a0at/index.m3u8
+
 #EXTINF:-1 group-title="Colombia",Gol TV
 http://8.243.64.201:2025/play/a0f1/index.m3u8
 #EXTINF:-1 group-title="Colombia",TNT Sports Premiun HD
