@@ -499,7 +499,27 @@ http://179.63.6.15:8002/play/a02t
 #EXTINF:-1 group-title="Peru",ESPN 04 HD
 http://179.63.6.15:8002/play/a02u
 /*Peru*/
-/*Argentina - 14 April 2026 */
+/*Argentina - 10 May 2026 */
+#EXTINF:-1 group-title="Argentina",ESPN 2 HD
+http://181.209.96.155:10000/play/a141/index.m3u8
+#EXTINF:-1 group-title="Argentina",ESPN 3 HD
+http://181.209.96.155:10000/play/a143/index.m3u8
+#EXTINF:-1 group-title="Argentina",ESPN 4 HD
+http://181.209.96.155:10000/play/a164/index.m3u8
+#EXTINF:-1 group-title="Argentina",ESPN HD
+http://181.209.96.155:10000/play/a142/index.m3u8
+#EXTINF:-1 group-title="Argentina",ESPN Premium HD
+http://181.209.96.155:10000/play/a15c/index.m3u8
+#EXTINF:-1 group-title="Argentina",Fox Sports 2 HD
+http://181.209.96.155:10000/play/a144/index.m3u8
+#EXTINF:-1 group-title="Argentina",Fox Sports 3 HD
+http://181.209.96.155:10000/play/a12r/index.m3u8
+#EXTINF:-1 group-title="Argentina",Fox Sports HD
+http://181.209.96.155:10000/play/a15b/index.m3u8
+#EXTINF:-1 group-title="Argentina",TNT Sports HD
+http://181.209.96.155:10000/play/a12s/index.m3u8
+#EXTINF:-1 group-title="Argentina",TyC Sports HD
+http://181.209.96.155:10000/play/a12q/index.m3u8
 /*Argentina*/
 
 #EXTINF:-1 group-title="-",FOX SPORT 1
