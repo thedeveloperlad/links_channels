@@ -1174,3 +1174,100 @@ http://187.245.231.226:8000/play/a0ob/index.m3u8
 #EXTINF:-1 group-title="Mexico",Warner
 http://187.245.231.226:8000/play/a0ny/index.m3u8
 /* Mex channels*/
+
+/* USA Channels - 22 May 2026 */
+#EXTINF:-1,  group-title="United States", ACC Network
+http://23.237.104.106:8080/USA_ACCN/index.m3u8
+#EXTINF:-1,  group-title="United States", BOUNCE
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+#EXTINF:-1,  group-title="United States", 5StarMax 
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1,  group-title="United States", CINEMAX
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1,  group-title="United States", COMEDY CENTRA;
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1,  group-title="United States", COOKING
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
+#EXTINF:-1,  group-title="United States", DESTINATION AMERICA
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+#EXTINF:-1,  group-title="United States", DISCOVERY
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1,  group-title="United States", E Entertainment
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1,  group-title="United States", Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1,  group-title="United States", NAT GEO
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:-1,  group-title="United States", E E Entertainment Television
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1,  group-title="United States", FOOD NETWORK
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+#EXTINF:-1,  group-title="United States", HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1,  group-title="United States", HBO 2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1,  group-title="United States", HBO COMEDY
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:-1,  group-title="United States", HBO ZONE
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1,  group-title="United States", IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1,  group-title="United States", More MAX
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1,  group-title="United States", MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:-1,  group-title="United States",NESH
+http://23.237.104.106:8080/USA_NESN/index.m3u8
+#EXTINF:-1,  group-title="United States", SHOWTIME
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+#EXTINF:-1,  group-title="United States", PARAMOUNT
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1,  group-title="United States", STARZ
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1,  group-title="United States", STARZ CINEMA
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:-1,  group-title="United States", STARTZ COMEDY
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:-1,  group-title="United States", SYFY
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1,  group-title="United States", VICE TV
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:-1,  group-title="United States", WGN
+http://23.237.104.106:8080/USA_WGN/index.m3u8
+#EXTINF:-1,  group-title="United States", FUSE
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:-1,  group-title="United States", FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1,  group-title="United States", FXX
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1,  group-title="United States", LMN
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:-1,  group-title="United States", MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:-1,  group-title="United States", NESN
+http://23.237.104.106:8080/USA_NESN/index.m3u8
+#EXTINF:-1,  group-title="United States", BBC AMERICA
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+#EXTINF:-1,  group-title="United States", BBC NEWS
+http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
+#EXTINF:-1,  group-title="United States", BOOMERANG
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:-1,  group-title="United States", NICKELODEON
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1,  group-title="United States", CARTOON NETWORK
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1,  group-title="United States", YES NETWORK
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+#EXTINF:-1,  group-title="United States", WE TV
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+#EXTINF:-1,  group-title="United States", MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1,  group-title="United States", MTV LIVE
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:-1,  group-title="United States", VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:-1,  group-title="United States", VICE TV
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:-1,  group-title="United States", TRU TV
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+/* USA Channels - 22 May 2026*/
