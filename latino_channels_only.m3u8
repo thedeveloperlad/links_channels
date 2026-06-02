@@ -1271,3 +1271,7 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1,  group-title="United States", TRU TV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 /* USA Channels - 22 May 2026*/
+
+/**/
+#EXTINF:-1 group-title="Colombia",CARACOL TDT
+http://181.78.21.174:8015/play/a073/index.m3u8
