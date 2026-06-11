@@ -70,9 +70,20 @@ http://190.60.48.151:8010/play/a0at/index.m3u8
 
 #EXTINF:-1 group-title="Mexico",FOX One 526
 http://38.194.226.190:8000/play/a00o/index.m3u8?hls
+#EXTINF:-1 group-title="Mexico", Las Estrellas
+http://189.148.14.189:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="Mexico", TUDN MEX
+http://201.151.118.136:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 group-title="England",UK SKY SPORTS F1
 https://xemzi.short.gy/2000005
+
+#EXTINF:-1 group-title="Sudamerica", DSPORTS
+http://190.108.93.180:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="Brasil", SBT
+http://138.117.81.96:8000/play/a0ew/index.m3u8
+#EXTINF:-1 group-title="Brasil", SPORTV
+http://138.117.81.96:8000/play/a0fq/index.m3u8
 
 #EXTINF:-1 group-title="Colombia",Gol TV
 http://8.243.64.201:2025/play/a0f1/index.m3u8
