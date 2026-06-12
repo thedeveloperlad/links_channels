@@ -356,29 +356,29 @@ http://190.217.23.56:1010/play/a0eg/index.m3u8
 http://190.217.23.56:1010/play/a0et/index.m3u8
 
 /* USA server */
-#EXTINF:-1, group-title="United States", BEIN Sports
+#EXTINF:-1, group-title="United States",BEIN Sports
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
-#EXTINF:-1, group-title="United States", Golf Channel
+#EXTINF:-1, group-title="United States",Golf Channel
 http://23.237.104.106:8080/USA_GOLF/index.m3u8
-#EXTINF:-1, group-title="United States", Tennis TV
+#EXTINF:-1, group-title="United States",Tennis TV
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
-#EXTINF:-1, group-title="United States", NFL Network
+#EXTINF:-1, group-title="United States",NFL Network
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
-#EXTINF:-1, group-title="United States", NBA Network
+#EXTINF:-1, group-title="United States",NBA Network
 http://23.237.104.106:8080/USA_NBA/index.m3u8
-#EXTINF:-1, group-title="United States", MLB Strike Zone
+#EXTINF:-1, group-title="United States",MLB Strike Zone
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
-#EXTINF:-1, group-title="United States", ESPN U HD
+#EXTINF:-1, group-title="United States",ESPN U HD
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:-1, group-title="United States", DAZN 2
+#EXTINF:-1, group-title="United States",DAZN 2
 http://23.237.104.106:8080/DAZN_2/index.m3u8
-#EXTINF:-1, group-title="United States", DAZN 3
+#EXTINF:-1, group-title="United States",DAZN 3
 http://23.237.104.106:8080/DAZN_3/index.m3u8
-#EXTINF:-1, group-title="United States", DAZN 4
+#EXTINF:-1, group-title="United States",DAZN 4
 http://23.237.104.106:8080/DAZN_4/index.m3u8
-#EXTINF:-1, group-title="United States", DAZN 5
+#EXTINF:-1, group-title="United States",DAZN 5
 http://23.237.104.106:8080/DAZN_5/index.m3u8
-#EXTINF:-1, group-title="United States", DAZN 6
+#EXTINF:-1, group-title="United States",DAZN 6
 http://23.237.104.106:8080/DAZN_6/index.m3u8
 
 /* USA server for latino channels */
