@@ -72,8 +72,8 @@ http://190.60.48.151:8010/play/a0at/index.m3u8
 http://38.194.226.190:8000/play/a00o/index.m3u8?hls
 #EXTINF:-1 group-title="Mexico", fox one 
 http://209.87.175.160:5001/play/a0mc/index.m3u8?hls
-#EXTINF:-1 group-title="Mexico", FOX ONE (HD)
-http://209.87.175.160:5001/play/a0mc/index.m3u8
+#EXTINF:-1 group-title="Mexico", FOX ONE (TEMP)
+https://p1.domain761.sbs/foxone1/tracks-v1a1/mono.m3u8?ip=177.239.36.226&token=43855cebf96c2c5436aa68cf1976bad491ecc769-4e-1784999013-1784945013
 #EXTINF:-1 group-title="Mexico", Las Estrellas
 http://189.148.14.189:8000/play/a01t/index.m3u8
 #EXTINF:-1 group-title="Mexico", TUDN MEX
