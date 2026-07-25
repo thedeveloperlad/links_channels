@@ -72,6 +72,8 @@ http://190.60.48.151:8010/play/a0at/index.m3u8
 http://38.194.226.190:8000/play/a00o/index.m3u8?hls
 #EXTINF:-1 group-title="Mexico", fox one 
 http://209.87.175.160:5001/play/a0mc/index.m3u8?hls
+#EXTINF:-1 group-title="Mexico", FOX ONE (HD)
+http://209.87.175.160:5001/play/a0mc/index.m3u8
 #EXTINF:-1 group-title="Mexico", Las Estrellas
 http://189.148.14.189:8000/play/a01t/index.m3u8
 #EXTINF:-1 group-title="Mexico", TUDN MEX
