@@ -72,8 +72,8 @@ http://190.60.48.151:8010/play/a0at/index.m3u8
 http://38.194.226.190:8000/play/a00o/index.m3u8?hls
 #EXTINF:-1 group-title="Mexico", fox one 
 http://209.87.175.160:5001/play/a0mc/index.m3u8?hls
-#EXTINF:-1 group-title="Mexico", MLS LIGA MX ALL STAR GAME (TEMP)
-https://p1.domain761.sbs/mls2/tracks-v1a1/mono.m3u8?ip=177.239.36.226&token=928bbf64e03bbdf93c0b8ae50e78d5da8536d6b1-12-1785421380-1785367380
+#EXTINF:-1 group-title="Mexico", Austin TX vs. Xolos Tijuana (TEMP)
+https://p2.domain761.sbs/mls4/tracks-v1a1/mono.m3u8?ip=177.239.36.226&token=3788efde72cfa60ec905cc827bc758ad81f322c9-90-1786111873-1786057873
 //#EXTINF:-1 group-title="Mexico", FOX ONE (TEMP)
 //https://p1.domain761.sbs/foxone1/tracks-v1a1/mono.m3u8?ip=177.239.36.226&token=43855cebf96c2c5436aa68cf1976bad491ecc769-4e-1784999013-1784945013
 #EXTINF:-1 group-title="Mexico", Las Estrellas
