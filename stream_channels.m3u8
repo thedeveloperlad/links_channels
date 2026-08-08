@@ -1,50 +1,22 @@
 #EXTM3U
-#EXTINF:0 group-title="Colombia",ESPN 2 HD
-http://181.78.82.6:46090/play/a08i/index.m3u8
 #EXTINF:-1 group-title="Colombia", ESPN 2 HD
 http://190.60.48.151:8010/play/a0au/index.m3u8
 #EXTINF:-1 group-title="Colombia", ESPN 2 HD
-http://190.60.48.151:8010/play/a076/index.m3u8
-#EXTINF:-1 group-title="Colombia", ESPN 2 HD
-http://190.60.48.151:8010/play/a095/index.m3u8
-#EXTINF:-1 group-title="Colombia", ESPN 2 HD
 http://190.60.48.151:8010/play/a09l/index.m3u8
-#EXTINF:-1 group-title="Colombia", ESPN 3
-http://190.60.48.151:8010/play/a08s/index.m3u8
-#EXTINF:-1 group-title="Colombia", ESPN 3 HD
-http://190.60.48.151:8010/play/a074/index.m3u8
 #EXTINF:-1 group-title="Colombia", ESPN 3 HD
 http://190.60.48.151:8010/play/a07d/index.m3u8
-#EXTINF:-1 group-title="Colombia", ESPN 3 HD
-http://190.60.48.151:8010/play/a092/index.m3u8
 #EXTINF:-1 group-title="Colombia", ESPN 4 HD
 http://190.60.48.151:8010/play/a07i/index.m3u8
-#EXTINF:-1 group-title="Colombia", ESPN 4HD
-http://190.60.48.151:8010/play/a091/index.m3u8
-#EXTINF:-1 group-title="Colombia", ESPN 4HD
-http://190.60.48.151:8010/play/a073/index.m3u8
-#EXTINF:-1 group-title="Colombia", ESPN 5
-http://190.60.48.151:8010/play/a072/index.m3u8
 #EXTINF:-1 group-title="Colombia", ESPN 5 HD
 http://190.60.48.151:8010/play/a07b/index.m3u8
-#EXTINF:-1 group-title="Colombia", ESPN 6
-http://190.60.48.151:8010/play/a08q/index.m3u8
 #EXTINF:-1 group-title="Colombia", ESPN 6
 http://190.60.48.151:8010/play/a07c/index.m3u8
 #EXTINF:-1 group-title="Colombia", ESPN 6 HD
 http://190.60.48.151:8010/play/a07a/index.m3u8
-#EXTINF:-1 group-title="Colombia", ESPN 6HD
-http://190.60.48.151:8010/play/a093/index.m3u8
-#EXTINF:-1 group-title="Colombia", ESPN 6HD
-http://190.60.48.151:8010/play/a075/index.m3u8
-#EXTINF:-1 group-title="Colombia", ESPN 7 HD
-http://190.60.48.151:8010/play/a079/index.m3u8
 #EXTINF:-1 group-title="Colombia", ESPN 7 HD
 http://190.60.48.151:8010/play/a07g/index.m3u8
 #EXTINF:-1 group-title="Colombia", ESPN HD
 http://190.60.48.151:8010/play/a09r/index.m3u8
-#EXTINF:-1 group-title="Colombia", ESPN HD
-http://190.60.48.151:8010/play/a077/index.m3u8
 #EXTINF:-1 group-title="Colombia", ESPN HD
 http://190.60.48.151:8010/play/a0b1/index.m3u8
 #EXTINF:-1 group-title="Colombia", ESPN Premium HD
@@ -68,18 +40,8 @@ http://190.60.48.151:8010/play/ESPN7_TVV/index.m3u8
 #EXTINF:-1 group-title="Colombia", TNT Sports Premiun HD
 http://190.60.48.151:8010/play/a0at/index.m3u8
 
-#EXTINF:-1 group-title="Mexico",FOX One 526
-http://38.194.226.190:8000/play/a00o/index.m3u8?hls
 #EXTINF:-1 group-title="Mexico", fox one 
 http://209.87.175.160:5001/play/a0mc/index.m3u8?hls
-#EXTINF:-1 group-title="Mexico", Austin TX vs. Xolos Tijuana (TEMP)
-https://p2.domain761.sbs/mls4/tracks-v1a1/mono.m3u8?ip=177.239.36.226&token=3788efde72cfa60ec905cc827bc758ad81f322c9-90-1786111873-1786057873
-//#EXTINF:-1 group-title="Mexico", FOX ONE (TEMP)
-//https://p1.domain761.sbs/foxone1/tracks-v1a1/mono.m3u8?ip=177.239.36.226&token=43855cebf96c2c5436aa68cf1976bad491ecc769-4e-1784999013-1784945013
-#EXTINF:-1 group-title="Mexico", Las Estrellas
-http://189.148.14.189:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="Mexico", TUDN MEX
-http://201.151.118.136:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Guatemala", Univision HD 
 http://190.61.101.11:7050/play/a05k/index.m3u8?hls
@@ -89,19 +51,8 @@ http://190.61.101.11:7050/play/a04m/index.m3u8?hls
 #EXTINF:-1 group-title="England",UK SKY SPORTS F1
 https://xemzi.short.gy/2000005
 
-#EXTINF:-1 group-title="Sudamerica", DSPORTS
-http://190.108.93.180:8000/play/a054/index.m3u8
-#EXTINF:-1 group-title="Brasil", SBT
-http://138.117.81.96:8000/play/a0ew/index.m3u8
-#EXTINF:-1 group-title="Brasil", SPORTV
-http://138.117.81.96:8000/play/a0fq/index.m3u8
-
-#EXTINF:-1 group-title="Colombia",Gol TV
-http://8.243.64.201:2025/play/a0f1/index.m3u8
-#EXTINF:-1 group-title="Colombia",TNT Sports Premiun HD
-http://8.243.64.201:2025/play/a0gt/index.m3u8
-#EXTINF:-1 group-title="Colombia",Win Sports+ HD
-http://8.243.64.201:2025/play/a0hw/index.m3u8
+// #EXTINF:-1 group-title="Sudamerica", DSPORTS
+// http://190.108.93.180:8000/play/a054/index.m3u8
 
 #EXTINF:-1 group-title="Ecuador",ESPN
 http://170.244.209.30:8000/play/a0yw/index.m3u8
@@ -158,20 +109,7 @@ http://170.244.209.30:8000/play/a0sb/index.m3u8
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 group-title="United States", FOX Deportes (Tubi USA)
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
-#EXTINF:-1 group-title="United States", FOX Sports 1 - FS1
-http://cord-cutter.net:8080/GloriaMassicotte/Massicotte/1846
-#EXTINF:-1 group-title="United States", FOX Sports 2 - FS2
-http://cord-cutter.net:8080/GloriaMassicotte/Massicotte/1847
-#EXTINF:-1 group-title="United States", FOX Sports 1 - FS1
-http://cord-cutter.net:8080/GloriaMassicotte/Massicotte/46792
-#EXTINF:-1 group-title="United States", FOX Sports 1 - FS1
-http://fortv.cc:8080/ez4evr@icloud.com/7Qw7aHb4x3/1846
-#EXTINF:-1 group-title="United States", FOX Sports 2 - FS2
-http://fortv.cc:8080/ez4evr@icloud.com/7Qw7aHb4x3/1847
-#EXTINF:-1 group-title="United States",BEIN Sports
-http://23.237.104.106:8080/USA_BEIN/index.m3u8
-#EXTINF:-1 group-title="United States",Golf Channel
-http://23.237.104.106:8080/USA_GOLF/index.m3u8
+
 #EXTINF:-1 group-title="United States",Tennis TV
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:-1 group-title="United States",NFL Network
@@ -218,30 +156,10 @@ http://45.9.44.143:5020/play/a08y/index.m3u8
 #EXTINF:-1 group-title="Georgia ",SUI-44-3
 http://45.9.44.143:5020/play/a0b4/index.m3u8
 
-#EXTINF:-1 group-title="Colombia 2",ESPN
-http://201.219.193.210:3002/play/a0s7
-#EXTINF:-1 group-title="Colombia 2",ESPN 2 HD
-http://201.219.193.210:3002/play/a0qj
-#EXTINF:-1 group-title="Colombia 2",ESPN 3 HD
-http://201.219.193.210:3002/play/a0s6
-#EXTINF:-1 group-title="Colombia 2",ESPN 4 HD
-http://201.219.193.210:3002/play/a0s9
-#EXTINF:-1 group-title="Colombia 2",ESPN 5 HD
-http://201.219.193.210:3002/play/a0s5
-#EXTINF:-1 group-title="Colombia 2",ESPN 6 HD
-http://201.219.193.210:3002/play/a0s3
-#EXTINF:-1 group-title="Colombia 2",ESPN 7 HD
-http://201.219.193.210:3002/play/a0s8
-#EXTINF:-1 group-title="Colombia 2",Espn Premium
-http://201.219.193.210:3002/play/a0r2
-
-#EXTINF:-1 group-title="Nicaragua",Tigo Sports HD
-http://45.238.30.42:5050/play/a06p/index.m3u8
-
-#EXTINF:-1 group-title="Mexico",@848 TVC Deportes HD
-http://148.230.149.45:1020/play/a01d/index.m3u8
-#EXTINF:-1 group-title="Portugal",SPORTV+ HD
-http://185.228.163.146:8000/play/a01k/index.m3u8
+// #EXTINF:-1 group-title="Mexico",@848 TVC Deportes HD
+// http://148.230.149.45:1020/play/a01d/index.m3u8
+// #EXTINF:-1 group-title="Portugal",SPORTV+ HD
+// http://185.228.163.146:8000/play/a01k/index.m3u8
 ---------------------------------------------
 /*Brasil*/
 
@@ -309,86 +227,81 @@ http://200.229.147.210:9999/play/a05a/index.m3u8
 http://200.229.147.210:9999/play/a05b/index.m3u8
 #EXTINF:-1 group-title="Centroamerica",Claro Sports 3 HD
 http://200.229.147.210:9999/play/a00w/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Guatemala", Claro Sports 3 HD 
+http://167.250.223.26:9998/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Guatemala", ESPN 
+http://167.250.223.26:9998/play/a03a/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Guatemala", ESPN  4 HD 
+http://167.250.223.26:9998/play/a05a/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Guatemala", ESPN 2 
+http://167.250.223.26:9998/play/a03b/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Guatemala", ESPN 2 HD 
+http://167.250.223.26:9998/play/a053/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Guatemala", ESPN 3 
+http://167.250.223.26:9998/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Guatemala", ESPN 3 HD 
+http://167.250.223.26:9998/play/a054/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Guatemala", ESPN 4 
+http://167.250.223.26:9998/play/a057/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Guatemala", ESPN 5 
+http://167.250.223.26:9998/play/a058/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Guatemala", ESPN 5  HD 
+http://167.250.223.26:9998/play/a059/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Guatemala", ESPN 6 HD 
+http://167.250.223.26:9998/play/a055/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Guatemala", ESPN HD 
+http://167.250.223.26:9998/play/a0rm/index.m3u8
+http://167.250.223.26:9998/play/a065/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Guatemala", FOX CR 
+http://167.250.223.26:9998/play/a061/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Guatemala", FOX ESA HD 
+http://167.250.223.26:9998/play/a066/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Guatemala", FOX GUA HD 
+http://167.250.223.26:9998/play/a063/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Guatemala", FOX SPORTS 3 HD 
+http://167.250.223.26:9998/play/a0rp/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Guatemala", FUTV CR 
+http://167.250.223.26:9998/play/a03l/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Guatemala", FUTV HD CR 
+http://167.250.223.26:9998/play/a0rl/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Guatemala", TIGO GT 
+http://167.250.223.26:9998/play/a05o/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Guatemala", Tigo Sports HD 
+http://167.250.223.26:9998/play/a0r6/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Guatemala", TUDN 
+http://167.250.223.26:9998/play/a05z/index.m3u8
 /*Centroamerica CRC HON NIC PAN*/
 
 /*Peru*/
-#EXTINF:-1 group-title="Peru",ESPN 2 HD
-http://38.199.4.105:9999/play/a0md/index.m3u8
-#EXTINF:-1 group-title="Peru",ESPN 3 HD
-http://38.199.4.105:9999/play/a0n1/index.m3u8
-#EXTINF:-1 group-title="Peru",ESPN 4HD
-http://38.199.4.105:9999/play/a0ms/index.m3u8
-#EXTINF:-1 group-title="Peru",ESPN 5HD
-http://38.199.4.105:9999/play/a0mw/index.m3u8
-#EXTINF:-1 group-title="Peru",ESPN 6HD
-http://38.199.4.105:9999/play/a0gr/index.m3u8
-#EXTINF:-1 group-title="Peru",ESPN 7HD
-http://38.199.4.105:9999/play/a0hj/index.m3u8
-#EXTINF:-1 group-title="Peru",ESPN HD
-http://38.199.4.105:9999/play/a0wv/index.m3u8
-#EXTINF:-1 group-title="Peru",ESPN Premium HD
-http://38.199.4.105:9999/play/a0i9/index.m3u8
-#EXTINF:-1 group-title="Peru",Movistar Deportes
-http://38.199.4.105:9999/play/a0x0/index.m3u8
-#EXTINF:-1 group-title="Peru",TNT Sports Premiun HD
-http://38.199.4.105:9999/play/a0hy/index.m3u8
 
-#EXTINF:-1 group-title="Peru",ESPN 01 HD
-http://179.63.6.15:8002/play/a02r
-#EXTINF:-1 group-title="Peru",ESPN 02 HD
-http://179.63.6.15:8002/play/a02s
-#EXTINF:-1 group-title="Peru",ESPN 03 HD
-http://179.63.6.15:8002/play/a02t
-#EXTINF:-1 group-title="Peru",ESPN 04 HD
-http://179.63.6.15:8002/play/a02u
 /*Peru*/
-/*Argentina - 10 May 2026 */
-#EXTINF:-1 group-title="Argentina",ESPN 2 HD
-http://181.209.96.155:10000/play/a141/index.m3u8
-#EXTINF:-1 group-title="Argentina",ESPN 3 HD
-http://181.209.96.155:10000/play/a143/index.m3u8
-#EXTINF:-1 group-title="Argentina",ESPN 4 HD
-http://181.209.96.155:10000/play/a164/index.m3u8
-#EXTINF:-1 group-title="Argentina",ESPN HD
-http://181.209.96.155:10000/play/a142/index.m3u8
-#EXTINF:-1 group-title="Argentina",ESPN Premium HD
-http://181.209.96.155:10000/play/a15c/index.m3u8
-#EXTINF:-1 group-title="Argentina",Fox Sports 2 HD
-http://181.209.96.155:10000/play/a144/index.m3u8
-#EXTINF:-1 group-title="Argentina",Fox Sports 3 HD
-http://181.209.96.155:10000/play/a12r/index.m3u8
-#EXTINF:-1 group-title="Argentina",Fox Sports HD
-http://181.209.96.155:10000/play/a15b/index.m3u8
-#EXTINF:-1 group-title="Argentina",TNT Sports HD
-http://181.209.96.155:10000/play/a12s/index.m3u8
-#EXTINF:-1 group-title="Argentina",TyC Sports HD
-http://181.209.96.155:10000/play/a12q/index.m3u8
+/*Argentina - 2 August 2026 */
+#EXTINF:-1 tvg-id="" group-title="Argentina", AM Sports 
+http://181.209.105.115:2525/play/amsport/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", ESPN 2 HD 
+http://181.209.105.115:2525/play/espn2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", ESPN 3 HD 
+http://181.209.105.115:2525/play/espn3/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", ESPN 4 HD 
+http://181.209.105.115:2525/play/espn4/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", ESPN HD 
+http://181.209.105.115:2525/play/espn/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", ESPN Premium HD 
+http://181.209.105.115:2525/play/espnpremium/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", EVENTOS 
+http://181.209.105.115:2525/play/evento/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", Fox Sports 2 HD 
+http://181.209.105.115:2525/play/foxsports2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", Fox Sports 3 HD 
+http://181.209.105.115:2525/play/foxsports3/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", Fox Sports HD 
+http://181.209.105.115:2525/play/foxsports/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", TNT Sports HD 
+http://181.209.105.115:2525/play/tntsports/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Argentina", TyC Sports HD 
+http://181.209.105.115:2525/play/tycsports/index.m3u8
 /*Argentina*/
-
-#EXTINF:-1 group-title="-",FOX SPORT 1
-http://45.68.35.218:4001/play/a021/index.m3u8
-#EXTINF:-1 group-title="-",FOX SPORT 2
-http://45.68.35.218:4001/play/a01p/index.m3u8
-#EXTINF:-1 group-title="-",FOX SPORT 3
-http://45.68.35.218:4001/play/a01p/index.m3u8
-#EXTINF:-1 group-title="-",LA LIGA MX
-http://45.68.35.218:4001/play/a00b/index.m3u8
-#EXTINF:-1 group-title="-",TIGO DEPORTES MX
-http://45.68.35.218:4001/play/a00t/index.m3u8
-#EXTINF:-1 group-title="-",TNT SPORT SRT SUR
-http://45.68.35.218:4001/play/a030/index.m3u8
-#EXTINF:-1 group-title="-",TSI FIBRA
-http://45.68.35.218:4001/play/a001/index.m3u8
-#EXTINF:-1 group-title="-",TUDN MX
-http://45.68.35.218:4001/play/a00u/index.m3u8
-#EXTINF:-1 group-title="-",TUDN RESPALDO
-http://45.68.35.218:4001/play/a01u/index.m3u8
-#EXTINF:-1 group-title="-",TUDN USA VC
-http://45.68.35.218:4001/play/a00x/index.m3u8
-#EXTINF:-1 group-title="-",Win Sports
-http://190.217.23.56:1010/play/a0eg/index.m3u8
-#EXTINF:-1 group-title="-",Win Sports+ HD
-http://190.217.23.56:1010/play/a0et/index.m3u8
 
 
 /* USA server for latino channels */
