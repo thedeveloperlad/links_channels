@@ -42,8 +42,8 @@ http://190.60.48.151:8010/play/a0at/index.m3u8
 
 #EXTINF:-1 group-title="Mexico", fox one 
 http://209.87.175.160:5001/play/a0mc/index.m3u8?hls
-#EXTINF:-1 group-title="Mexico", Real Salt Lake vs Atlante [Leagues Cup 2026] (TEMP CHANNEL)
-https://se.tudeporteshoy.xyz/mls5es/tracks-v1a1/mono.m3u8?ip=177.239.36.226&token=664ed50d7d5b22ef5a821266509eaea3c20f5a0b-1e-1786286574-1786232574
+#EXTINF:-1 group-title="Mexico", San Diego vs Tijuana [Leagues Cup 2026] (TEMP CHANNEL)
+https://po.tudeporteshoy.xyz/mls7es/tracks-v1a1/mono.m3u8?ip=177.239.36.226&token=5b5b8873283e4967c73873dd3ffa6b4d4396cf58-6f-1786373603-1786319603
 
 #EXTINF:-1 tvg-id="" group-title="Guatemala", Univision HD 
 http://190.61.101.11:7050/play/a05k/index.m3u8?hls
