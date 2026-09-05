@@ -42,8 +42,10 @@ http://190.60.48.151:8010/play/a0at/index.m3u8
 
 #EXTINF:-1 group-title="Mexico", fox one 
 http://209.87.175.160:5001/play/a0mc/index.m3u8?hls
-#EXTINF:-1 group-title="Mexico", Real Salt Lake vs Leon [Leagues Cup 2026] (TEMP CHANNEL)
-https://dglvz29s.fubo18.com/mls2en/mono.m3u8?token=64e7f772fefc2a94f943687ddd3383249b5cf453-74-1787735155-1787717155
+#EXTINF:-1 group-title="Argentina", Italian Grand Prix 2026 | Qualy | Disney Plus (TEMP)
+https://s2.envivoslatam99.sbs/disney16/tracks-v1a1/mono.m3u8?ip=177.239.36.226&token=db100514cd84162d8cddb80d565badb51bdb9569-56-1788661753-1788607753
+#EXTINF:-1 group-title="Spain", Italian Grand Prix 2026 | Qualy | DAZN F1 (TEMP)
+https://s1.envivoslatam99.sbs/daznf1/tracks-v1a1/mono.m3u8?ip=177.239.36.226&token=7e55964863f7d8883cfed3aa4760231ff0750c43-91-1788661966-1788607966
 
 #EXTINF:-1 tvg-id="" group-title="Guatemala", Univision HD 
 http://190.61.101.11:7050/play/a05k/index.m3u8?hls
