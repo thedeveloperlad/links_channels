@@ -40,6 +40,45 @@ http://190.60.48.151:8010/play/ESPN7_TVV/index.m3u8
 #EXTINF:-1 group-title="Colombia", TNT Sports Premiun HD
 http://190.60.48.151:8010/play/a0at/index.m3u8
 
+#EXTINF:-1 group-title="VIP ALL SPORTS",CA : TSN 1 FHD
+https://cccci.site/index.php/video.m3u8?id=s_1788209195---live---395615
+#EXTINF:-1 group-title="VIP ALL SPORTS",Ca: TSN 1 HD
+https://cccci.site/index.php/video.m3u8?id=s_1788209195---live---395616
+#EXTINF:-1 group-title="VIP ALL SPORTS",IN : TSN 2 FHD
+https://cccci.site/index.php/video.m3u8?id=s_1788209195---live---395617
+#EXTINF:-1 group-title="VIP ALL SPORTS",Ca: TSN 2 FHD
+https://cccci.site/index.php/video.m3u8?id=s_1788209195---live---395618
+#EXTINF:-1 group-title="VIP ALL SPORTS",CA : TSN 3 FHD
+https://cccci.site/index.php/video.m3u8?id=s_1788209195---live---395619
+#EXTINF:-1 group-title="VIP ALL SPORTS",Ca: TSN 3 FHD
+https://cccci.site/index.php/video.m3u8?id=s_1788209195---live---395620
+#EXTINF:-1 group-title="VIP ALL SPORTS",CA : TSN 4 FHD
+https://cccci.site/index.php/video.m3u8?id=s_1788209195---live---395621
+#EXTINF:-1 group-title="VIP ALL SPORTS",Ca: TSN 4 FHD
+https://cccci.site/index.php/video.m3u8?id=s_1788209195---live---395622
+#EXTINF:-1 group-title="VIP ALL SPORTS",CA : TSN 5 FHD
+https://cccci.site/index.php/video.m3u8?id=s_1788209195---live---395623
+#EXTINF:-1 group-title="VIP ALL SPORTS",Ca: TSN 5 FHD
+https://cccci.site/index.php/video.m3u8?id=s_1788209195---live---395624
+#EXTINF:-1 group-title="VIP ALL SPORTS",CA : Sportsnet 360 FHD
+https://cccci.site/index.php/video.m3u8?id=s_1788209195---live---395625
+#EXTINF:-1 group-title="VIP ALL SPORTS",Ca: Sportsnet EAST FHD
+https://cccci.site/index.php/video.m3u8?id=s_1788209195---live---395626
+#EXTINF:-1 group-title="VIP ALL SPORTS",CA : Sportsnet ONE FHD
+https://cccci.site/index.php/video.m3u8?id=s_1788209195---live---395627
+#EXTINF:-1 group-title="VIP ALL SPORTS",Ca: Sportsnet Ontario HD
+https://cccci.site/index.php/video.m3u8?id=s_1788209195---live---395628
+#EXTINF:-1 group-title="VIP ALL SPORTS",CA : Sportsnet Pacific FHD
+https://cccci.site/index.php/video.m3u8?id=s_1788209195---live---395629
+#EXTINF:-1 group-title="VIP ALL SPORTS",Ca: Sportsnet WEST FHD
+https://cccci.site/index.php/video.m3u8?id=s_1788209195---live---395630
+#EXTINF:-1 group-title="VIP ALL SPORTS",Ca: Sportsnet ONE HD
+https://cccci.site/index.php/video.m3u8?id=s_1788209195---live---395631
+#EXTINF:-1 group-title="VIP ALL SPORTS",Ca: Sportsnet 360 HD
+https://cccci.site/index.php/video.m3u8?id=s_1788209195---live---395632
+#EXTINF:-1 group-title="VIP ALL SPORTS",Ca: Sportsnet WEST HD
+https://cccci.site/index.php/video.m3u8?id=s_1788209195---live---395633
+
 #EXTINF:-1 group-title="Mexico", fox one 
 http://209.87.175.160:5001/play/a0mc/index.m3u8?hls
 #EXTINF:-1 group-title="Argentina", Italian Grand Prix 2026 | Qualy | Disney Plus (TEMP)
