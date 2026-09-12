@@ -40,6 +40,21 @@ http://190.60.48.151:8010/play/ESPN7_TVV/index.m3u8
 #EXTINF:-1 group-title="Colombia", TNT Sports Premiun HD
 http://190.60.48.151:8010/play/a0at/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 
+http://179.1.14.75:14007/play/a04b/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 2 
+http://179.1.14.75:14007/play/a04c/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 3 
+http://179.1.14.75:14007/play/a04d/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 4 
+http://179.1.14.75:14007/play/a04s/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 5 
+http://179.1.14.75:14007/play/a04p/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 6 
+http://179.1.14.75:14007/play/a04r/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 7 
+http://179.1.14.75:14007/play/a04q/index.m3u8
+
 #EXTINF:-1 group-title="VIP ALL SPORTS",CA : TSN 1 FHD
 https://cccci.site/index.php/video.m3u8?id=s_1788209195---live---395615
 #EXTINF:-1 group-title="VIP ALL SPORTS",Ca: TSN 1 HD
