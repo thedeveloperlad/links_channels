@@ -55,6 +55,11 @@ http://179.1.14.75:14007/play/a04r/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 7 
 http://179.1.14.75:14007/play/a04q/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Mexico", ESPN HD 
+http://187.245.231.226:8000/play/a0tj/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Mexico", ESPN HD 
+http://187.245.231.226:8000/play/a0pt/index.m3u8
+
 #EXTINF:-1 group-title="VIP ALL SPORTS",CA : TSN 1 FHD
 https://cccci.site/index.php/video.m3u8?id=s_1788209195---live---395615
 #EXTINF:-1 group-title="VIP ALL SPORTS",Ca: TSN 1 HD
