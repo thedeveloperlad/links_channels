@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" group-title="Venezuela", ESPN 
+http://190.97.251.144:8000/play/a0eo/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Venezuela", ESPN 
+http://190.97.251.144:8000/play/a0di/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Venezuela", ESPN 2 
+http://190.97.251.144:8000/play/a0d6/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Venezuela", ESPN 2 
+http://190.97.251.144:8000/play/a0dh/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Venezuela", ESPN 3 
+http://190.97.251.144:8000/play/a0fc/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Venezuela", ESPN 5 
+http://190.97.251.144:8000/play/a0dg/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Venezuela", ESPN 5 
+http://190.97.251.144:8000/play/a0e5/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Venezuela", ESPN 6 
+http://190.97.251.144:8000/play/a0ds/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Venezuela", ESPN 7 
+http://190.97.251.144:8000/play/a0dr/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Venezuela", ESPN Premium 
+http://190.97.251.144:8000/play/a0cy/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Venezuela", TNT Sports 
+http://190.97.251.144:8000/play/a0dl/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Venezuela", TNT Sports Premium 
+http://190.97.251.144:8000/play/a0cx/index.m3u8
+
+
 #EXTINF:-1 group-title="Colombia", ESPN 2 HD
 http://190.60.48.151:8010/play/a0au/index.m3u8
 #EXTINF:-1 group-title="Colombia", ESPN 2 HD
