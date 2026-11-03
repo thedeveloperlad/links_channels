@@ -41,6 +41,49 @@ http://181.78.79.131:8000/play/a0s8
 #EXTINF:-1 tvg-id="" group-title="Colombia", Espn Premium 
 http://181.78.79.131:8000/play/a0r2
 
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 1 
+http://181.78.8.199:8000/play/a0b1/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 1 NUEVO 
+http://181.78.8.199:8000/play/a0k9/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 2 
+http://181.78.8.199:8000/play/a0b2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 2 HD 
+http://181.78.8.199:8000/play/a08z/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 2 NUEVO 
+http://181.78.8.199:8000/play/a0ka/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 3 
+http://181.78.8.199:8000/play/a0b3/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 3 HD 
+http://181.78.8.199:8000/play/a07f/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 3 NUEVO 
+http://181.78.8.199:8000/play/a0ke/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 4 
+http://181.78.8.199:8000/play/a0do/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 4 NUEVO 
+http://181.78.8.199:8000/play/a0kf/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 4HD 
+http://181.78.8.199:8000/play/a09b/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 5 NUEVO 
+http://181.78.8.199:8000/play/a0kg/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 5HD 
+http://181.78.8.199:8000/play/a08n/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 6 NUEVO 
+http://181.78.8.199:8000/play/a0kh/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 6HD 
+http://181.78.8.199:8000/play/a07g/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 7 NUEVO 
+http://181.78.8.199:8000/play/a0ki/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 7HD 
+http://181.78.8.199:8000/play/a08o/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN HD 
+http://181.78.8.199:8000/play/a08y/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN5 
+http://181.78.8.199:8000/play/a0bv/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN6 
+http://181.78.8.199:8000/play/a0bw/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Colombia", ESPN7 
+http://181.78.8.199:8000/play/a0bx/index.m3u8
+
 /* This links might be broken since October 23, 2026 */
 #EXTINF:-1 group-title="Colombia", ESPN 2 HD
 http://190.60.48.151:8010/play/a0au/index.m3u8
