@@ -24,6 +24,9 @@ http://190.97.251.144:8000/play/a0dl/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Venezuela", TNT Sports Premium 
 http://190.97.251.144:8000/play/a0cx/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="USA", FOX Deportes [TEMP]
+https://a2lja3m.fubo18.com/foxdeportes/tracks-v1a1/mono.m3u8?token=810eee8793b2d98dcab42391521ac712668571bd-8c-1794122169-1794104169
+
 #EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 
 http://181.78.79.131:8000/play/a0s7
 #EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 2 HD 
