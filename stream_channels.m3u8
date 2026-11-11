@@ -99,6 +99,10 @@ http://200.108.187.214:8000/play/a0kf/index.m3u8
 http://200.108.187.214:8000/play/a091/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Mexico",  ESPN 3 
 http://200.108.187.214:8000/play/a0c3/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Mexico", TVC DEPORTES 
+http://38.58.66.239:8000/play/a0mj/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Mexico", TVCD 
+http://38.58.66.239:8000/play/a0kl/index.m3u8
 
 /* This links might be broken since October 23, 2026 */
 #EXTINF:-1 group-title="Colombia", ESPN 2 HD
