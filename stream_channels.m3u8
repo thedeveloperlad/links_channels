@@ -24,8 +24,7 @@ http://190.97.251.144:8000/play/a0dl/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Venezuela", TNT Sports Premium 
 http://190.97.251.144:8000/play/a0cx/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="USA", FOX Deportes [TEMP]
-https://a2lja3m.fubo18.com/foxdeportes/tracks-v1a1/mono.m3u8?token=810eee8793b2d98dcab42391521ac712668571bd-8c-1794122169-1794104169
+
 
 #EXTINF:-1 tvg-id="" group-title="Colombia", ESPN 
 http://181.78.79.131:8000/play/a0s7
@@ -86,6 +85,20 @@ http://181.78.8.199:8000/play/a0bv/index.m3u8
 http://181.78.8.199:8000/play/a0bw/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Colombia", ESPN7 
 http://181.78.8.199:8000/play/a0bx/index.m3u8
+
+/* Mexico - November 10, 2026 */
+#EXTINF:-1 tvg-id="" group-title="Mexico", TVC DEPORTES 
+http://200.108.187.214:8000/play/a0kl/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Mexico", TYC SPORTS 
+http://200.108.187.214:8000/play/a0kw/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Mexico", ESPN 
+http://200.108.187.214:8000/play/a092/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Mexico", ESPN 4 
+http://200.108.187.214:8000/play/a0kf/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Mexico",  ESPN 
+http://200.108.187.214:8000/play/a091/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Mexico",  ESPN 3 
+http://200.108.187.214:8000/play/a0c3/index.m3u8
 
 /* This links might be broken since October 23, 2026 */
 #EXTINF:-1 group-title="Colombia", ESPN 2 HD
