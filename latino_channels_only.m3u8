@@ -1,543 +1,190 @@
 /*
 Guatemala
-Date: 25 February 2026
+Date: 7 November 2026
+ISP: Navega.com S.A.
 */
 #EXTM3U
-#EXTINF:-1 group-title="Guatemala",11 - Repretel
-http://24.152.54.30:8085/play/a024/index.m3u8
-#EXTINF:-1 group-title="Guatemala",3ABN
-http://24.152.54.30:8085/play/3ABN/index.m3u8
-#EXTINF:-1 group-title="Guatemala",4 - Repretel
-http://24.152.54.30:8085/play/a02y/index.m3u8
-#EXTINF:-1 group-title="Guatemala",6 - Repretel
-http://24.152.54.30:8085/play/a022/index.m3u8
-#EXTINF:-1 group-title="Guatemala",A&E
-http://24.152.54.30:8085/play/a034/index.m3u8
-#EXTINF:-1 group-title="Guatemala",A&E HD
-http://24.152.54.30:8085/play/a0qw/index.m3u8
-#EXTINF:-1 group-title="Guatemala",AMC
-http://24.152.54.30:8085/play/a01i/index.m3u8
-#EXTINF:-1 group-title="Guatemala",AMC HD
-http://24.152.54.30:8085/play/a0qx/index.m3u8
-#EXTINF:-1 group-title="Guatemala",AXN
-http://24.152.54.30:8085/play/a01g/index.m3u8
-#EXTINF:-1 group-title="Guatemala",AXN HD
-http://24.152.54.30:8085/play/a04g/index.m3u8
-#EXTINF:-1 group-title="Guatemala",AZ click HD
-http://24.152.54.30:8085/play/a0r3/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Animal Planet
-http://24.152.54.30:8085/play/a037/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Animal Planet HD
-http://24.152.54.30:8085/play/a0qt/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Antena 7- RD
-http://24.152.54.30:8085/play/a00v/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Antena_3
-http://24.152.54.30:8085/play/Antena_3/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Azcorazon
-http://24.152.54.30:8085/play/a017/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Azmundo
-http://24.152.54.30:8085/play/a030/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Azteca Deportes
-http://24.152.54.30:8085/play/a076/index.m3u8
-#EXTINF:-1 group-title="Guatemala",BBC World
-http://24.152.54.30:8085/play/a01k/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Baby First
-http://24.152.54.30:8085/play/a025/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Bandamax
-http://24.152.54.30:8085/play/Bandamax/index.m3u8
-#EXTINF:-1 group-title="Guatemala",CANAL 20 RESTAURACION TV
-http://24.152.54.30:8085/play/a060/index.m3u8
-#EXTINF:-1 group-title="Guatemala",CANAL 5
-http://24.152.54.30:8085/play/a007/index.m3u8
-#EXTINF:-1 group-title="Guatemala",CANAL 8 MUNICIPAL JOYABAJ TV
-http://24.152.54.30:8085/play/a004/index.m3u8
-#EXTINF:-1 group-title="Guatemala",CANAL CHINITA1 canal 6
-http://24.152.54.30:8085/play/a00h/index.m3u8
-#EXTINF:-1 group-title="Guatemala",CANAL CHINITA2
-http://24.152.54.30:8085/play/a061/index.m3u8
-#EXTINF:-1 group-title="Guatemala",CANAL DE GOBIERNO
-http://24.152.54.30:8085/play/a021/index.m3u8
-#EXTINF:-1 group-title="Guatemala",CANAL PARROQUIAL
-http://24.152.54.30:8085/play/a063/index.m3u8
-#EXTINF:-1 group-title="Guatemala",CANAL SIN FRONTERAS
-http://24.152.54.30:8085/play/a072/index.m3u8
-#EXTINF:-1 group-title="Guatemala",CANAL VIDA TV
-http://24.152.54.30:8085/play/a023/index.m3u8
-#EXTINF:-1 group-title="Guatemala",CANAL XOY TV 77
-http://24.152.54.30:8085/play/a02l/index.m3u8
-#EXTINF:-1 group-title="Guatemala",CDN2- RD
-http://24.152.54.30:8085/play/a01w/index.m3u8
-#EXTINF:-1 group-title="Guatemala",CDN37 - RD
-http://24.152.54.30:8085/play/a02x/index.m3u8
-#EXTINF:-1 group-title="Guatemala",CERTV
-http://24.152.54.30:8085/play/a03k/index.m3u8
-#EXTINF:-1 group-title="Guatemala",CINECANAL HD
-http://24.152.54.30:8085/play/a03h/index.m3u8
-#EXTINF:-1 group-title="Guatemala",CITY-TV
-http://24.152.54.30:8085/play/CITY-TV/index.m3u8
-#EXTINF:-1 group-title="Guatemala",CNNE
-http://24.152.54.30:8085/play/a01j/index.m3u8
-#EXTINF:-1 group-title="Guatemala",CONECTADOS CON DIOS
-http://24.152.54.30:8085/play/a075/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Canal 11 - GUA
-http://24.152.54.30:8085/play/a01u/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Canal 13-GUA
-http://24.152.54.30:8085/play/a01t/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Canal 3 - GUA
-http://24.152.54.30:8085/play/a02u/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Canal 4 - ESA
-http://24.152.54.30:8085/play/a05l/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Canal 4 - NIC
-http://24.152.54.30:8085/play/a03m/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Canal 7 - GUA
-http://24.152.54.30:8085/play/a02t/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Canal 7 HD CR
-http://24.152.54.30:8085/play/a0qq/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Canal Antigua - GUA
-http://24.152.54.30:8085/play/a02r/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Canal Azteca - GUA
-http://24.152.54.30:8085/play/a02s/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Canal Claro
-http://24.152.54.30:8085/play/a00s/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Canal del Congreso
-http://24.152.54.30:8085/play/a074/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Cartoon Network
-http://24.152.54.30:8085/play/a00z/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Cartoonito
-http://24.152.54.30:8085/play/a011/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Cine Latino
-http://24.152.54.30:8085/play/a043/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Cine-Mexicano
-http://24.152.54.30:8085/play/Cine-Mexicano/index.m3u8
-#EXTINF:-1 group-title="Guatemala",CineCanal
-http://24.152.54.30:8085/play/a046/index.m3u8
-#EXTINF:-1 group-title="Guatemala",CineMax
-http://24.152.54.30:8085/play/a044/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Cinema_Platino
-http://24.152.54.30:8085/play/Cinema_Platino/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Color Vision 9 - RD
-http://24.152.54.30:8085/play/a02w/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Concert Channel
-http://24.152.54.30:8085/play/a03z/index.m3u8
-#EXTINF:-1 group-title="Guatemala",DHE HD
-http://24.152.54.30:8085/play/a0r2/index.m3u8
-#EXTINF:-1 group-title="Guatemala",De_Pelicula
-http://24.152.54.30:8085/play/De_Pelicula/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Deportes
-http://24.152.54.30:8085/play/Deportes/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Digital 15 - RD
-http://24.152.54.30:8085/play/a01v/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Discovery Channel
-http://24.152.54.30:8085/play/a036/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Discovery Home & Health
-http://24.152.54.30:8085/play/a03u/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Discovery Kids
-http://24.152.54.30:8085/play/a03p/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Discovery Turbo
-http://24.152.54.30:8085/play/a03t/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Discovery_Science
-http://24.152.54.30:8085/play/Discovery_Science/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Disney
-http://24.152.54.30:8085/play/a03r/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Disney JR
-http://24.152.54.30:8085/play/a012/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Distrito_Comedia
-http://24.152.54.30:8085/play/Distrito_Comedia/index.m3u8
-#EXTINF:-1 group-title="Guatemala",E!
-http://24.152.54.30:8085/play/a033/index.m3u8
-#EXTINF:-1 group-title="Guatemala",E! Entertairment HD
-http://24.152.54.30:8085/play/a0qu/index.m3u8
-#EXTINF:-1 group-title="Guatemala",ESPN
-http://24.152.54.30:8085/play/a03a/index.m3u8
-#EXTINF:-1 group-title="Guatemala",ESPN 4 HD
-http://24.152.54.30:8085/play/a05r/index.m3u8
-#EXTINF:-1 group-title="Guatemala",ESPN 2
-http://24.152.54.30:8085/play/a03b/index.m3u8
-#EXTINF:-1 group-title="Guatemala",ESPN 3
-http://24.152.54.30:8085/play/a02d/index.m3u8
-#EXTINF:-1 group-title="Guatemala",ESPN 4
-http://24.152.54.30:8085/play/a05s/index.m3u8
-#EXTINF:-1 group-title="Guatemala",ESPN 5
-http://24.152.54.30:8085/play/a05m/index.m3u8
-#EXTINF:-1 group-title="Guatemala",ESPN 5 HD
-http://24.152.54.30:8085/play/a05n/index.m3u8
-#EXTINF:-1 group-title="Guatemala",ESPN 6
-http://24.152.54.30:8085/play/a05q/index.m3u8
-#EXTINF:-1 group-title="Guatemala",EURO Channel
-http://24.152.54.30:8085/play/a028/index.m3u8
-#EXTINF:-1 group-title="Guatemala",EWTN
-http://24.152.54.30:8085/play/a01n/index.m3u8
-#EXTINF:-1 group-title="Guatemala",El Gourmet
-http://24.152.54.30:8085/play/a02a/index.m3u8
-#EXTINF:-1 group-title="Guatemala",El_Olam
-http://24.152.54.30:8085/play/El_Olam/index.m3u8
-#EXTINF:-1 group-title="Guatemala",El_Sembrador
-http://24.152.54.30:8085/play/El_Sembrador/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Europa HD
-http://24.152.54.30:8085/play/a0r0/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Exa TV
-http://24.152.54.30:8085/play/a03c/index.m3u8
-#EXTINF:-1 group-title="Guatemala",FOX-NEWS
-http://24.152.54.30:8085/play/FOX-NEWS/index.m3u8
-#EXTINF:-1 group-title="Guatemala",FUTV CR
-http://24.152.54.30:8085/play/a03l/index.m3u8
-#EXTINF:-1 group-title="Guatemala",FX
-http://24.152.54.30:8085/play/a026/index.m3u8
-#EXTINF:-1 group-title="Guatemala",FX HD
-http://24.152.54.30:8085/play/a0qz/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Film & arts HD
-http://24.152.54.30:8085/play/a0qv/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Fox Sport 3
-http://24.152.54.30:8085/play/a01d/index.m3u8
-#EXTINF:-1 group-title="Guatemala",France24
-http://24.152.54.30:8085/play/a01l/index.m3u8
-#EXTINF:-1 group-title="Guatemala",France_24
-http://24.152.54.30:8085/play/France_24/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Galavision
-http://24.152.54.30:8085/play/Galavision/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Glitz
-http://24.152.54.30:8085/play/Glitz/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Golden
-http://24.152.54.30:8085/play/a02j/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Golf Channel HD
-http://24.152.54.30:8085/play/a0r5/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Guatevision - GUA
-http://24.152.54.30:8085/play/a00t/index.m3u8
-#EXTINF:-1 group-title="Guatemala",H2
-http://24.152.54.30:8085/play/a029/index.m3u8
-#EXTINF:-1 group-title="Guatemala",HTV
-http://24.152.54.30:8085/play/a02i/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Headline
-http://24.152.54.30:8085/play/Headline/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Hispan_TV
-http://24.152.54.30:8085/play/Hispan_TV/index.m3u8
-#EXTINF:-1 group-title="Guatemala",History Channel
-http://24.152.54.30:8085/play/a038/index.m3u8
-#EXTINF:-1 group-title="Guatemala",History HD
-http://24.152.54.30:8085/play/a01o/index.m3u8
-#EXTINF:-1 group-title="Guatemala",ID
-http://24.152.54.30:8085/play/a03v/index.m3u8
-#EXTINF:-1 group-title="Guatemala",INTI
-http://24.152.54.30:8085/play/INTI/index.m3u8
-#EXTINF:-1 group-title="Guatemala",LIFE TIME
-http://24.152.54.30:8085/play/a01c/index.m3u8
-#EXTINF:-1 group-title="Guatemala",La voz de Maria
-http://24.152.54.30:8085/play/a03w/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Latin America Sport
-http://24.152.54.30:8085/play/a02f/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Lifetime
-http://24.152.54.30:8085/play/Lifetime/index.m3u8
-#EXTINF:-1 group-title="Guatemala",MAS_CHIC
-http://24.152.54.30:8085/play/MAS_CHIC/index.m3u8
-#EXTINF:-1 group-title="Guatemala",MAYA PRODUCCIONES
-http://24.152.54.30:8085/play/a062/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Maria_Vision
-http://24.152.54.30:8085/play/Maria_Vision/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Much_Music
-http://24.152.54.30:8085/play/Much_Music/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Multicinema
-http://24.152.54.30:8085/play/Multicinema/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Multipremier
-http://24.152.54.30:8085/play/a042/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Nat_Geo_Kids
-http://24.152.54.30:8085/play/Nat_Geo_Kids/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Nat_Geo_Wild
-http://24.152.54.30:8085/play/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 group-title="Guatemala",National Geographic
-http://24.152.54.30:8085/play/a01b/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Nicarao TV
-http://24.152.54.30:8085/play/a013/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Nick Jr
-http://24.152.54.30:8085/play/a010/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Oromar_TV
-http://24.152.54.30:8085/play/Oromar_TV/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Panico
-http://24.152.54.30:8085/play/Panico/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Pasiones
-http://24.152.54.30:8085/play/Pasiones/index.m3u8
-#EXTINF:-1 group-title="Guatemala",PrimeTime
-http://24.152.54.30:8085/play/PrimeTime/index.m3u8
-#EXTINF:-1 group-title="Guatemala",RCN Novelas
-http://24.152.54.30:8085/play/a027/index.m3u8
-#EXTINF:-1 group-title="Guatemala",RHEMA TV
-http://24.152.54.30:8085/play/a04e/index.m3u8
-#EXTINF:-1 group-title="Guatemala",RT
-http://24.152.54.30:8085/play/RT/index.m3u8
-#EXTINF:-1 group-title="Guatemala",SEMILLITAS
-http://24.152.54.30:8085/play/a014/index.m3u8
-#EXTINF:-1 group-title="Guatemala",SONY
-http://24.152.54.30:8085/play/a031/index.m3u8
-#EXTINF:-1 group-title="Guatemala",SONY HD
-http://24.152.54.30:8085/play/a03g/index.m3u8
-#EXTINF:-1 group-title="Guatemala",SOY ZACUALPA
-http://24.152.54.30:8085/play/a07a/index.m3u8
-#EXTINF:-1 group-title="Guatemala",SPACE
-http://24.152.54.30:8085/play/a018/index.m3u8
-#EXTINF:-1 group-title="Guatemala",SPACE HD
-http://24.152.54.30:8085/play/a04h/index.m3u8
-#EXTINF:-1 group-title="Guatemala",STAR CHANNEL
-http://24.152.54.30:8085/play/a03s/index.m3u8
-#EXTINF:-1 group-title="Guatemala",STAR CHANNEL HD
-http://24.152.54.30:8085/play/a03e/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Sembrador
-http://24.152.54.30:8085/play/a02o/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Sony Movies HD
-http://24.152.54.30:8085/play/a005/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Star TVE HD
-http://24.152.54.30:8085/play/a0r4/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Studio Universal
-http://24.152.54.30:8085/play/a045/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Studio Universal HD
-http://24.152.54.30:8085/play/a0qs/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Sun Channel
-http://24.152.54.30:8085/play/a02b/index.m3u8
-#EXTINF:-1 group-title="Guatemala",TBN Enlace
-http://24.152.54.30:8085/play/a077/index.m3u8
-#EXTINF:-1 group-title="Guatemala",TBS
-http://24.152.54.30:8085/play/a01a/index.m3u8
-#EXTINF:-1 group-title="Guatemala",TCM
-http://24.152.54.30:8085/play/a02k/index.m3u8
-#EXTINF:-1 group-title="Guatemala",TD_Centro
-http://24.152.54.30:8085/play/TD_Centro/index.m3u8
-#EXTINF:-1 group-title="Guatemala",TELEFLIX
-http://24.152.54.30:8085/play/a001/index.m3u8
-#EXTINF:-1 group-title="Guatemala",TELENOVELAS
-http://24.152.54.30:8085/play/TELENOVELAS/index.m3u8
-#EXTINF:-1 group-title="Guatemala",TLC
-http://24.152.54.30:8085/play/a039/index.m3u8
-#EXTINF:-1 group-title="Guatemala",TLC_Discover
-http://24.152.54.30:8085/play/TLC_Discover/index.m3u8
-#EXTINF:-1 group-title="Guatemala",TN23
-http://24.152.54.30:8085/play/TN23/index.m3u8
-#EXTINF:-1 group-title="Guatemala",TNT
-http://24.152.54.30:8085/play/a01h/index.m3u8
-#EXTINF:-1 group-title="Guatemala",TNT Novelas
-http://24.152.54.30:8085/play/a0vp/index.m3u8
-#EXTINF:-1 group-title="Guatemala",TNT Series
-http://24.152.54.30:8085/play/a019/index.m3u8
-#EXTINF:-1 group-title="Guatemala",TV_Arquidiocesana
-http://24.152.54.30:8085/play/TV_Arquidiocesana/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Tele Antillas - RD
-http://24.152.54.30:8085/play/a00u/index.m3u8
-#EXTINF:-1 group-title="Guatemala",TeleMicro - RD
-http://24.152.54.30:8085/play/a02v/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Teleantillas
-http://24.152.54.30:8085/play/Teleantillas/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Telecentro - RD
-http://24.152.54.30:8085/play/a01y/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Telehit
-http://24.152.54.30:8085/play/Telehit/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Telehit_Musica
-http://24.152.54.30:8085/play/Telehit_Musica/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Telemicro_Internacional
-http://24.152.54.30:8085/play/Telemicro_Internacional/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Telemundo
-http://24.152.54.30:8085/play/a016/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Telemundo HD
-http://24.152.54.30:8085/play/a0qy/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Telemundo_Este
-http://24.152.54.30:8085/play/Telemundo_Este/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Telesistema RD
-http://24.152.54.30:8085/play/a00w/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Telesur
-http://24.152.54.30:8085/play/Telesur/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Teleunion - RD
-http://24.152.54.30:8085/play/a01z/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Teleuniverso - RD
-http://24.152.54.30:8085/play/a01x/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Tooncast
-http://24.152.54.30:8085/play/a02z/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Trece
-http://24.152.54.30:8085/play/Trece/index.m3u8
-#EXTINF:-1 group-title="Guatemala",Tru TV
-http://24.152.54.30:8085/play/a015/index.m3u8
-
-/*
-Country: Guatemala
-ISP: Navega.com S.A.
-Date: 7 November 2026
-*/
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 100Tigo Sports HD 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 100 Tigo Sports HD 
 http://148.227.219.186:3000/play/a04a/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 10Sky sports 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 10 Sky sports 
 http://148.227.219.186:3000/play/a06b/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 208FOX CR 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 208 FOX CR 
 http://148.227.219.186:3000/play/a06m/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 20canal 20 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 20 canal 20 
 http://148.227.219.186:3000/play/c20/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Guatemala", 21 Cartoon Network 
 http://148.227.219.186:3000/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 221Distrito comedia 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 221 Distrito comedia 
 http://148.227.219.186:3000/play/a06c/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 22Tooncast 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 22 Tooncast 
 http://148.227.219.186:3000/play/a03q/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 23HBO HD 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 23 HBO HD 
 http://148.227.219.186:3000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 24HBO Family HD 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 24 HBO Family HD 
 http://148.227.219.186:3000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 25HBO Plus HD 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 25 HBO Plus HD 
 http://148.227.219.186:3000/play/a00o/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 26HBO XTREME 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 26 HBO XTREME 
 http://148.227.219.186:3000/play/a065/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 28HBO2 HD 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 28 HBO2 HD 
 http://148.227.219.186:3000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 29Guatevision - GUA 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 29 Guatevision - GUA 
 http://148.227.219.186:3000/play/a00t/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 2Telenovelas 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 2 Telenovelas 
 http://148.227.219.186:3000/play/tl/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 30A+ GUA 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 30 A+ GUA 
 http://148.227.219.186:3000/play/a028/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 31Gobierno GUA 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 31 Gobierno GUA 
 http://148.227.219.186:3000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 32Canal Antigua - GUA 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 32 Canal Antigua - GUA 
 http://148.227.219.186:3000/play/a03e/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 33RCN - GUA 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 33 RCN - GUA 
 http://148.227.219.186:3000/play/a04p/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 34CNNE 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 34 CNNE 
 http://148.227.219.186:3000/play/a01k/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 35STAR CHANNEL 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 35 STAR CHANNEL 
 http://148.227.219.186:3000/play/a04x/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 37Univision HD 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 37 Univision HD 
 http://148.227.219.186:3000/play/a05w/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 38DHE 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 38 DHE 
 http://148.227.219.186:3000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 39SONY 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 39 SONY 
 http://148.227.219.186:3000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Guatemala", 4 Repretel 
 http://148.227.219.186:3000/play/a03p/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 40Sony Movies HD 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 40 Sony Movies HD 
 http://148.227.219.186:3000/play/a023/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 41Warner 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 41 Warner 
 http://148.227.219.186:3000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Guatemala", 42 - Extra TV 42 
 http://148.227.219.186:3000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 42TNT 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 42 TNT 
 http://148.227.219.186:3000/play/a01i/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 43TNT Novelas 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 43 TNT Novelas 
 http://148.227.219.186:3000/play/a01c/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 44TNT Series 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 44 TNT Series 
 http://148.227.219.186:3000/play/a01a/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 45Golden 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 45 Golden 
 http://148.227.219.186:3000/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 46Teleuniverso - RD 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 46 Teleuniverso - RD 
 http://148.227.219.186:3000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 47AMC 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 47 AMC 
 http://148.227.219.186:3000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 48Multipremier 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 48 Multipremier 
 http://148.227.219.186:3000/play/a05a/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 49Universal 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 49 Universal 
 http://148.227.219.186:3000/play/a059/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 4Canal de las estrellas 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 4 Canal de las estrellas 
 http://148.227.219.186:3000/play/tudn/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 50CineCanal 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 50 CineCanal 
 http://148.227.219.186:3000/play/a05e/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 51A3 Cine 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 51 A3 Cine 
 http://148.227.219.186:3000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 52CineMax 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 52 CineMax 
 http://148.227.219.186:3000/play/a05c/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 53Multicinema 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 53 Multicinema 
 http://148.227.219.186:3000/play/a03a/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 54Cine Latino 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 54 Cine Latino 
 http://148.227.219.186:3000/play/a05b/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 55Cine Premium HD 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 55 Cine Premium HD 
 http://148.227.219.186:3000/play/a05r/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 56UNIVERSAL CINEMA ESTE HD 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 56 UNIVERSAL CINEMA ESTE HD 
 http://148.227.219.186:3000/play/a05y/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 57Claro Cinema 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 57 Claro Cinema 
 http://148.227.219.186:3000/play/a044/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 58Studio Universal 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 58 Studio Universal 
 http://148.227.219.186:3000/play/a05d/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 59UNIVERSAL COMEDY HD 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 59 UNIVERSAL COMEDY HD 
 http://148.227.219.186:3000/play/a04k/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 5Canal Azteca - GUA 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 5 Canal Azteca - GUA 
 http://148.227.219.186:3000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Guatemala", 6 - Repretel 
 http://148.227.219.186:3000/play/a02p/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 60UNIVERSAL CRIME HD 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 60 UNIVERSAL CRIME HD 
 http://148.227.219.186:3000/play/a04j/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 61UNIVERSAL PREMIERE HD 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 61 UNIVERSAL PREMIERE HD 
 http://148.227.219.186:3000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 62UNIVERSAL REALITY HD 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 62 UNIVERSAL REALITY HD 
 http://148.227.219.186:3000/play/a04i/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 63Canal del Congreso 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 63 Canal del Congreso 
 http://148.227.219.186:3000/play/a04o/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 64AXN 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 64 AXN 
 http://148.227.219.186:3000/play/a01h/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 65Azcorazon 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 65 Azcorazon 
 http://148.227.219.186:3000/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 6613-Sinart 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 66 13-Sinart 
 http://148.227.219.186:3000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 66Film & Arts 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 66 Film & Arts 
 http://148.227.219.186:3000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 67Multimedios 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 67 Multimedios 
 http://148.227.219.186:3000/play/67a00c/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 68RNN - RD 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 68 RNN - RD 
 http://148.227.219.186:3000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 69Televida RD 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 69 Televida RD 
 http://148.227.219.186:3000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 6Azteca Deportes 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 6 Azteca Deportes 
 http://148.227.219.186:3000/play/a01g/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 70BBC News 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 70 BBC News 
 http://148.227.219.186:3000/play/a01l/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 71Canal 12 - NI 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 71 Canal 12 - NI 
 http://148.227.219.186:3000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 72Cartoonito 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 72 Cartoonito 
 http://148.227.219.186:3000/play/a012/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 73Disney JR 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 73 Disney JR 
 http://148.227.219.186:3000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 74Estrella TV 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 74 Estrella TV 
 http://148.227.219.186:3000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 75EWTN 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 75 EWTN 
 http://148.227.219.186:3000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 76France24 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 76 France24 
 http://148.227.219.186:3000/play/a01n/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 77History HD 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 77 History HD 
 http://148.227.219.186:3000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 78LIFE TIME 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 78 LIFE TIME 
 http://148.227.219.186:3000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 79Max Anime 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 79 Max Anime 
 http://148.227.219.186:3000/play/a011/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 80National Geographic 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 80 National Geographic 
 http://148.227.219.186:3000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 81SPACE 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 81 SPACE 
 http://148.227.219.186:3000/play/a019/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 82TBN Enlace 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 82 TBN Enlace 
 http://148.227.219.186:3000/play/a01o/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 83Telemundo 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 83 Telemundo 
 http://148.227.219.186:3000/play/a017/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 84Telesistema RD 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 84 Telesistema RD 
 http://148.227.219.186:3000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 8511 - Repretel 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 85 11 - Repretel 
 http://148.227.219.186:3000/play/a02q/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 86Antena 7- RD 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 86 Antena 7- RD 
 http://148.227.219.186:3000/play/a00w/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 87Tele Antillas - RD 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 87 Tele Antillas - RD 
 http://148.227.219.186:3000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Guatemala", 88 FOX ESA HD 
 http://148.227.219.186:3000/play/a06o/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 88FOX GUA HD 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 88 FOX GUA HD 
 http://148.227.219.186:3000/play/a06l/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 88Russia Today Int 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 88 Russia Today Int 
 http://148.227.219.186:3000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 89Nicarao TV 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 89 Nicarao TV 
 http://148.227.219.186:3000/play/a014/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 8Tigo sport 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 8 Tigo sport 
 http://148.227.219.186:3000/play/a069/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 90SEMILLITAS 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 90 SEMILLITAS 
 http://148.227.219.186:3000/play/a015/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 91Canal 11 - HON 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 91 Canal 11 - HON 
 http://148.227.219.186:3000/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 92HCH- HON 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 92 HCH- HON 
 http://148.227.219.186:3000/play/a00z/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 93Canal 12 - ESA 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 93 Canal 12 - ESA 
 http://148.227.219.186:3000/play/a02e/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 94Canal 6 - ESA 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 94 Canal 6 - ESA 
 http://148.227.219.186:3000/play/a02d/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 95El Gourmet 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 95 El Gourmet 
 http://148.227.219.186:3000/play/a02y/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 96FX 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 96 FX 
 http://148.227.219.186:3000/play/a02u/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Guatemala", 9TUDN 
+#EXTINF:-1 tvg-id="" group-title="Guatemala", 9 TUDN 
 http://148.227.219.186:3000/play/a06a/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Guatemala", A&E 
 http://148.227.219.186:3000/play/a03w/index.m3u8
