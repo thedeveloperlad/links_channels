@@ -313,31 +313,6 @@ http://23.237.104.106:8080/DAZN_5/index.m3u8
 #EXTINF:-1 group-title="United States",DAZN 6
 http://23.237.104.106:8080/DAZN_6/index.m3u8
 
-#EXTINF:-1 group-title="Georgia ",Diema Sport 2 HD
-http://45.9.44.143:5020/play/a03a/index.m3u8
-#EXTINF:-1 group-title="Georgia ",Diema Sport HD
-http://45.9.44.143:5020/play/a038/index.m3u8
-#EXTINF:-1 group-title="Georgia ",FEED 2
-http://45.9.44.143:5020/play/a0b3/index.m3u8
-#EXTINF:-1 group-title="Georgia ",LTU-005 main
-http://45.9.44.143:5020/play/a0b0/index.m3u8
-#EXTINF:-1 group-title="Georgia ",MAX Sport 1 HD
-http://45.9.44.143:5020/play/1f0a/index.m3u8
-#EXTINF:-1 group-title="Georgia ",MAX Sport 2 HD
-http://45.9.44.143:5020/play/rvgu/index.m3u8
-#EXTINF:-1 group-title="Georgia ",MAX Sport 3 HD
-http://45.9.44.143:5020/play/yuk1/index.m3u8
-#EXTINF:-1 group-title="Georgia ",MAX Sport 4 HD
-http://45.9.44.143:5020/play/a04a/index.m3u8
-#EXTINF:-1 group-title="Georgia ",NLEMG HOL270-1
-http://45.9.44.143:5020/play/a0b5/index.m3u8
-#EXTINF:-1 group-title="Georgia ",Polsat Sport Premium 1
-http://45.9.44.143:5020/play/a08x/index.m3u8
-#EXTINF:-1 group-title="Georgia ",Polsat Sport Premium 2
-http://45.9.44.143:5020/play/a08y/index.m3u8
-#EXTINF:-1 group-title="Georgia ",SUI-44-3
-http://45.9.44.143:5020/play/a0b4/index.m3u8
-
 // #EXTINF:-1 group-title="Mexico",@848 TVC Deportes HD
 // http://148.230.149.45:1020/play/a01d/index.m3u8
 // #EXTINF:-1 group-title="Portugal",SPORTV+ HD
@@ -486,7 +461,84 @@ http://179.64.36.245:8000/play/a0bc/index.m3u8
 
 
 /*Argentina*/
-
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="DSports 2 HD" tvg-logo="https://i.ibb.co/VWZJFDff/DIRECTVSOK.jpg" group-title="Argentina",DSports 2 HD
+http://45.188.229.33:8000/play/a1ix/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN" tvg-logo="https://i.ibb.co/jkvzDvd/espn.jpg" group-title="Argentina",ESPN
+http://45.188.229.33:8000/play/a1jj/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN" tvg-logo="https://i.ibb.co/jkvzDvd/espn.jpg" group-title="Argentina",ESPN
+http://45.188.229.33:8000/play/a1jz/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN" tvg-logo="https://i.ibb.co/jkvzDvd/espn.jpg" group-title="Argentina",ESPN
+http://45.188.229.33:8000/play/a1ac/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN" tvg-logo="https://i.ibb.co/jkvzDvd/espn.jpg" group-title="Argentina",ESPN
+http://45.188.229.33:8000/play/a18s/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN" tvg-logo="https://i.ibb.co/jkvzDvd/espn.jpg" group-title="Argentina",ESPN
+http://45.188.229.33:8000/play/a0vp/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/svYyf7RG/ESPN2OK.jpg" group-title="Argentina",ESPN 2
+http://45.188.229.33:8000/play/a1ke/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/svYyf7RG/ESPN2OK.jpg" group-title="Argentina",ESPN 2
+http://45.188.229.33:8000/play/a1ko/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/svYyf7RG/ESPN2OK.jpg" group-title="Argentina",ESPN 2
+http://45.188.229.33:8000/play/a1ab/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/svYyf7RG/ESPN2OK.jpg" group-title="Argentina",ESPN 2
+http://45.188.229.33:8000/play/a18r/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://i.ibb.co/svYyf7RG/ESPN2OK.jpg" group-title="Argentina",ESPN 2 HD
+http://45.188.229.33:8000/play/a1jq/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://i.ibb.co/svYyf7RG/ESPN2OK.jpg" group-title="Argentina",ESPN 2 HD
+http://45.188.229.33:8000/play/a138/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://i.ibb.co/svYyf7RG/ESPN2OK.jpg" group-title="Argentina",ESPN 2 HD
+http://45.188.229.33:8000/play/a1ay/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/16yzxVR/espn3.jpg" group-title="Argentina",ESPN 3
+http://45.188.229.33:8000/play/a1ad/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/16yzxVR/espn3.jpg" group-title="Argentina",ESPN 3
+http://45.188.229.33:8000/play/a0wf/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://i.ibb.co/16yzxVR/espn3.jpg" group-title="Argentina",ESPN 3 HD
+http://45.188.229.33:8000/play/a12v/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://i.ibb.co/16yzxVR/espn3.jpg" group-title="Argentina",ESPN 3 HD
+http://45.188.229.33:8000/play/a1b0/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="https://i.ibb.co/SJ4L8Sb/ESPN4OK.jpg" group-title="Argentina",ESPN 4 HD
+http://45.188.229.33:8000/play/a10g/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="https://i.ibb.co/SJ4L8Sb/ESPN4OK.jpg" group-title="Argentina",ESPN 4 HD
+http://45.188.229.33:8000/play/a1dg/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 5" tvg-logo="https://i.ibb.co/djK19K6/ESPN5OK.jpg" group-title="Argentina",ESPN 5
+http://45.188.229.33:8000/play/a1kz/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 5" tvg-logo="https://i.ibb.co/djK19K6/ESPN5OK.jpg" group-title="Argentina",ESPN 5
+http://45.188.229.33:8000/play/a1k9/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 5" tvg-logo="https://i.ibb.co/djK19K6/ESPN5OK.jpg" group-title="Argentina",ESPN 5
+http://45.188.229.33:8000/play/a1jy/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 5 HD" tvg-logo="https://i.ibb.co/djK19K6/ESPN5OK.jpg" group-title="Argentina",ESPN 5 HD
+http://45.188.229.33:8000/play/a12n/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 6" tvg-logo="https://i.ibb.co/hgPPXRH/ESPN6OK.jpg" group-title="Argentina",ESPN 6
+http://45.188.229.33:8000/play/a191/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 6 HD" tvg-logo="https://i.ibb.co/hgPPXRH/ESPN6OK.jpg" group-title="Argentina",ESPN 6 HD
+http://45.188.229.33:8000/play/a12h/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 7" tvg-logo="https://i.ibb.co/Xfn9VHS5/ESPN7OK.jpg" group-title="Argentina",ESPN 7
+http://45.188.229.33:8000/play/a1ey/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 7" tvg-logo="https://i.ibb.co/Xfn9VHS5/ESPN7OK.jpg" group-title="Argentina",ESPN 7
+http://45.188.229.33:8000/play/a190/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN 7 HD" tvg-logo="https://i.ibb.co/Xfn9VHS5/ESPN7OK.jpg" group-title="Argentina",ESPN 7 HD
+http://45.188.229.33:8000/play/a1j0/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN HD" tvg-logo="https://i.ibb.co/jkvzDvd/espn.jpg" group-title="Argentina",ESPN HD
+http://45.188.229.33:8000/play/a13h/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN HD" tvg-logo="https://i.ibb.co/jkvzDvd/espn.jpg" group-title="Argentina",ESPN HD
+http://45.188.229.33:8000/play/a1az/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN Premium" tvg-logo="https://i.ibb.co/pvJ1kRt2/ESPMPREM.jpg" group-title="Argentina",ESPN Premium
+http://45.188.229.33:8000/play/a1l4/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN Premium" tvg-logo="https://i.ibb.co/pvJ1kRt2/ESPMPREM.jpg" group-title="Argentina",ESPN Premium
+http://45.188.229.33:8000/play/a0tv/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN Premium HD" tvg-logo="https://i.ibb.co/pvJ1kRt2/ESPMPREM.jpg" group-title="Argentina",ESPN Premium HD
+http://45.188.229.33:8000/play/a13l/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="ESPN Premium HD" tvg-logo="https://i.ibb.co/pvJ1kRt2/ESPMPREM.jpg" group-title="Argentina",ESPN Premium HD
+http://45.188.229.33:8000/play/a1di/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="Movistar Deportes" tvg-logo="https://i.ibb.co/1rCFmcM/movisdepok.jpg" group-title="Argentina",Movistar Deportes
+http://45.188.229.33:8000/play/a1f3/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://i.ibb.co/Q3P8TMsB/tnt-sports.jpg" group-title="Argentina",TNT SPORTS
+http://45.188.229.33:8000/play/a129/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="TNT Sports" tvg-logo="https://i.ibb.co/Q3P8TMsB/tnt-sports.jpg" group-title="Argentina",TNT Sports
+http://45.188.229.33:8000/play/a1k1/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="TNT Sports Premium" tvg-logo="https://i.ibb.co/Q3P8TMsB/tnt-sports.jpg" group-title="Argentina",TNT Sports Premium
+http://45.188.229.33:8000/play/a0tu/index.m3u8
+#EXTINF:-1 xui-id="396938" tvg-id="" tvg-name="TNT Sports Premiun HD" tvg-logo="https://i.ibb.co/Q3P8TMsB/tnt-sports.jpg" group-title="Argentina",TNT Sports Premiun HD
+http://45.188.229.33:8000/play/a137/index.m3u8
 
 /* USA server for latino channels */
 /****/
